@@ -84,8 +84,8 @@ async function discoverExports(pkg: string) {
     if (name === path && !name.endsWith(".json")) continue; // not a typescript
     if (name.includes("/.") || name.includes("/_")) continue; // hidden/internal files
     if (
-      name.endsWith("_test") ||
-      name.endsWith("/test") && !path.includes("front_matter/test")
+      (name.endsWith("_test") ||
+        name.endsWith("/test")) && !path.includes("front_matter/test")
     ) continue; // test files
     if (name.includes("/example/") || name.endsWith("_example")) continue; // example files
     if (name.includes("/testdata/")) continue; // testdata files
