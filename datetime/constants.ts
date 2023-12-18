@@ -11,7 +11,7 @@
  * console.log(SECOND); // => 1000
  * ```
  */
-export const SECOND: number = 1e3;
+export const SECOND = 1e3;
 /**
  * The number of milliseconds in a minute.
  *
