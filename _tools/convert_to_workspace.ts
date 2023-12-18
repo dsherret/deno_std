@@ -1,5 +1,6 @@
 // Copyright 2018-2023 the Deno authors. All rights reserved. MIT license.
 
+import { discoverPackages, discoverExportsByPackage} from "./packages.ts";
 import { walk } from "../fs/walk.ts";
 import {
   dirname,
@@ -60,50 +61,8 @@ fileServerTest = fileServerTest.replace(
 fileServerTest = fileServerTest.replaceAll("${VERSION}", "${version}");
 await Deno.writeTextFile("http/file_server_test.ts", fileServerTest);
 
-const packages = [];
-for await (const entry of Deno.readDir(".")) {
-  if (
-    entry.isDirectory && !entry.name.startsWith(".") &&
-    !entry.name.startsWith("_")
-  ) {
-    packages.push(entry.name);
-  }
-}
-packages.sort();
-
-console.log("Discovered", packages.length, "packages.");
-
-async function discoverExports(pkg: string) {
-  const exports: [string, string][] = [];
-  const base = await Deno.realPath(pkg);
-  const files = walk(base);
-  for await (const file of files) {
-    if (!file.isFile) continue;
-    const path = "/" + relative(base, file.path);
-    const name = path.replace(/(\.d)?\.ts$/, "");
-    if (name === path && !name.endsWith(".json")) continue; // not a typescript
-    if (name.includes("/.") || name.includes("/_")) continue; // hidden/internal files
-    if (
-      (name.endsWith("_test") || name.endsWith("/test")) &&
-      !(name === "/test" && pkg === "front_matter")
-    ) continue; // test files
-    if (name.includes("/example/") || name.endsWith("_example")) continue; // example files
-    if (name.includes("/testdata/")) continue; // testdata files
-    if (name.endsWith("/deno.json")) continue; // deno.json files
-
-    const key = "." + name.replace(/\/mod$/, "");
-    exports.push([key, "." + path]);
-  }
-  exports.sort((a, b) => a[0].localeCompare(b[0]));
-  return exports;
-}
-
-// Collect all of the exports for each package.
-const exportsByPackage = new Map<string, [string, string][]>();
-for (const pkg of packages) {
-  const exports = await discoverExports(pkg);
-  exportsByPackage.set(pkg, exports);
-}
+const packages = await discoverPackages();
+const exportsByPackage = await discoverExportsByPackage(packages);
 
 const allExports: string[] = [];
 for (const [pkg, exports] of exportsByPackage.entries()) {
