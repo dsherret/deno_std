@@ -23,7 +23,7 @@ import {
  *
  * This list is compatible with Node.js `http` module.
  */
-export const HTTP_METHODS = HTTP_METHODS_;
+export const HTTP_METHODS: typeof HTTP_METHODS_ = HTTP_METHODS_;
 
 /**
  * @deprecated (will be removed after 0.210.0) Import from `std/http/unstable_method.ts` instead.
@@ -37,4 +37,4 @@ export type HttpMethod = HttpMethod_;
  *
  * A type guard that determines if a value is a valid HTTP method.
  */
-export const isHttpMethod = isHttpMethod_;
+export const isHttpMethod: typeof isHttpMethod_ = isHttpMethod_;

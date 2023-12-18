@@ -138,7 +138,8 @@ export type SecureCookieMapSetDeleteOptions = SecureCookieMapSetDeleteOptions_;
  * `[string | string][]` from an instance to generate the final set of
  * headers.
  */
-export const cookieMapHeadersInitSymbol = cookieMapHeadersInitSymbol_;
+export const cookieMapHeadersInitSymbol: typeof cookieMapHeadersInitSymbol_ =
+  cookieMapHeadersInitSymbol_;
 
 /**
  * @deprecated (will be removed after 0.210.0) Import from `std/http/unstable_cookie_map.ts` instead.
@@ -151,7 +152,7 @@ export const cookieMapHeadersInitSymbol = cookieMapHeadersInitSymbol_;
  * will not ensure that there are no other `Set-Cookie` headers from other
  * sources, it will simply append the various headers together.
  */
-export const mergeHeaders = mergeHeaders_;
+export const mergeHeaders: typeof mergeHeaders_ = mergeHeaders_;
 
 /**
  * @deprecated (will be removed after 0.210.0) Import from `std/http/unstable_cookie_map.ts` instead.
@@ -166,7 +167,7 @@ export const mergeHeaders = mergeHeaders_;
  * function can be used to generate a final set of headers for sending in the
  * response.
  */
-export const CookieMap = CookieMap_;
+export const CookieMap: typeof CookieMap_ = CookieMap_;
 
 /**
  * @deprecated (will be removed after 0.210.0) Import from `std/http/unstable_cookie_map.ts` instead.
@@ -202,4 +203,4 @@ export type KeyRing = KeyRing_;
  *
  * @example
  */
-export const SecureCookieMap = SecureCookieMap_;
+export const SecureCookieMap: typeof SecureCookieMap_ = SecureCookieMap_;

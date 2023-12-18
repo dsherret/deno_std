@@ -1,8 +1,10 @@
 // Copyright 2018-2023 the Deno authors. All rights reserved. MIT license.
 import { AssertionError } from "./assertion_error.ts";
 
+/** @internal */
 // deno-lint-ignore no-explicit-any
 type AnyConstructor = new (...args: any[]) => any;
+/** @internal */
 type GetConstructorType<T extends AnyConstructor> = T extends // deno-lint-ignore no-explicit-any
 new (...args: any) => infer C ? C
   : never;

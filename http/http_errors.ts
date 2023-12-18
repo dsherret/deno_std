@@ -56,6 +56,7 @@ import {
   STATUS_TEXT,
 } from "./status.ts";
 
+/** @internal */
 const ERROR_STATUS_MAP = {
   "BadRequest": 400,
   "Unauthorized": 401,

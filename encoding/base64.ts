@@ -103,7 +103,7 @@ const base64abc = [
  * Encodes a given Uint8Array, ArrayBuffer or string into RFC4648 base64 representation
  * @param data
  */
-export const encode = encodeBase64;
+export const encode: typeof encodeBase64 = encodeBase64;
 
 /**
  * @deprecated (will be removed in 0.210.0) Use a `decodeBase64` instead.
@@ -111,7 +111,7 @@ export const encode = encodeBase64;
  * Decodes a given RFC4648 base64 encoded string
  * @param b64
  */
-export const decode = decodeBase64;
+export const decode: typeof decodeBase64 = decodeBase64;
 
 /**
  * Encodes a given Uint8Array, ArrayBuffer or string into RFC4648 base64 representation

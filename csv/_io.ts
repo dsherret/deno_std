@@ -268,6 +268,7 @@ export function convertRowToObject(
   return out;
 }
 
+/** @internal */
 // deno-fmt-ignore
 export type ParseResult<ParseOptions, T> =
   // If `columns` option is specified, the return type is Record type.

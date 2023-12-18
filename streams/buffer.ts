@@ -41,7 +41,7 @@ export class Buffer {
     },
     autoAllocateChunkSize: DEFAULT_CHUNK_SIZE,
   });
-  get readable() {
+  get readable(): ReadableStream<Uint8Array> {
     return this.#readable;
   }
   #writable = new WritableStream<Uint8Array>({
@@ -50,7 +50,7 @@ export class Buffer {
       copy(chunk, this.#buf, m);
     },
   });
-  get writable() {
+  get writable(): WritableStream<Uint8Array> {
     return this.#writable;
   }
 

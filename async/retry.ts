@@ -83,7 +83,7 @@ const defaultRetryOptions: Required<RetryOptions> = {
 export async function retry<T>(
   fn: (() => Promise<T>) | (() => T),
   opts?: RetryOptions,
-) {
+): Promise<T> {
   const options: Required<RetryOptions> = {
     ...defaultRetryOptions,
     ...opts,

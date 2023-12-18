@@ -80,7 +80,7 @@ export function assertObjectMatch(
       return filtered;
     }
   }
-  return assertEquals(
+  assertEquals(
     // get the intersection of "actual" and "expected"
     // side effect: all the instances' constructor field is "Object" now.
     filter(actual, expected),

@@ -69,7 +69,7 @@ const Z85 =
  * @param [options.standard=Adobe] encoding standard (Adobe, btoa, RFC 1924 or Z85)
  * @param [options.delimiter] whether to use a delimiter, if supported by encoding standard
  */
-export const encode = encodeAscii85;
+export const encode: typeof encodeAscii85 = encodeAscii85;
 
 /**
  * Encodes a given Uint8Array into ascii85, supports multiple standards
@@ -151,7 +151,7 @@ export function encodeAscii85(
  * @param [options] decoding options
  * @param [options.standard=Adobe] encoding standard used in the input string (Adobe, btoa, RFC 1924 or Z85)
  */
-export const decode = decodeAscii85;
+export const decode: typeof decodeAscii85 = decodeAscii85;
 
 /**
  * Decodes a given ascii85 encoded string.

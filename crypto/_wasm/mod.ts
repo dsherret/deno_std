@@ -43,5 +43,7 @@ export const digestAlgorithms = [
   "SHA-1",
 ] as const;
 
-/** An algorithm name supported by std/crypto/_wasm. */
+/** An algorithm name supported by std/crypto/_wasm.
+ * @internal
+ */
 export type DigestAlgorithm = typeof digestAlgorithms[number];

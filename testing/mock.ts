@@ -555,14 +555,18 @@ function methodSpy<
   return spy;
 }
 
-/** Utility for extracting the arguments type from a property */
+/** Utility for extracting the arguments type from a property
+ * @internal
+ */
 type GetParametersFromProp<
   Self,
   Prop extends keyof Self,
 > = Self[Prop] extends (...args: infer Args) => unknown ? Args
   : unknown[];
 
-/** Utility for extracting the return type from a property */
+/** Utility for extracting the return type from a property
+ * @internal
+ */
 type GetReturnFromProp<
   Self,
   Prop extends keyof Self,

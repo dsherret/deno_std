@@ -301,7 +301,7 @@ class Cookie implements CookieAttributes {
 /** Symbol which is used in {@link mergeHeaders} to extract a
  * `[string | string][]` from an instance to generate the final set of
  * headers. */
-export const cookieMapHeadersInitSymbol = Symbol.for(
+export const cookieMapHeadersInitSymbol: unique symbol = Symbol.for(
   "Deno.std.cookieMap.headersInit",
 );
 
@@ -348,7 +348,9 @@ const isSecure = Symbol("#secure");
 const requestKeys = Symbol("#requestKeys");
 
 /** An internal abstract class which provides common functionality for
- * {@link CookieMap} and {@link SecureCookieMap}. */
+ * {@link CookieMap} and {@link SecureCookieMap}.
+ * @internal
+ */
 abstract class CookieMapBase implements Mergeable {
   [keys]?: string[];
   [requestHeaders]: Headers;

@@ -98,7 +98,7 @@ export type ServerSentEventTargetOptions = ServerSentEventTargetOptions_;
  * });
  * ```
  */
-export const ServerSentEvent = ServerSentEvent_;
+export const ServerSentEvent: typeof ServerSentEvent_ = ServerSentEvent_;
 
 /**
  * @deprecated (will be removed after 0.210.0) Import from `std/http/unstable_server_sent_event.ts` instead.
@@ -107,4 +107,5 @@ export const ServerSentEvent = ServerSentEvent_;
  * readable stream as a body of a response to establish a connection to a
  * client.
  */
-export const ServerSentEventStreamTarget = ServerSentEventStreamTarget_;
+export const ServerSentEventStreamTarget: typeof ServerSentEventStreamTarget_ =
+  ServerSentEventStreamTarget_;

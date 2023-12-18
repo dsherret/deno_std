@@ -3,7 +3,7 @@
 
 /** See the Contributing > Types section in the README for an explanation of this file. */
 
-/** An abstract interface which when implemented provides an interface to read bytes into an array buffer asynchronously. */
+/** An abstract interface which when implemented provides an interface to read bytes into an array buffer asynchronously.*/
 export interface Reader {
   /** Reads up to `p.byteLength` bytes into `p`. It resolves to the number of
    * bytes read (`0` < `n` <= `p.byteLength`) and rejects if any error

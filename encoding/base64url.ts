@@ -64,7 +64,7 @@ function convertBase64ToBase64url(b64: string) {
  * Encodes a given ArrayBuffer or string into a base64url representation
  * @param data
  */
-export const encode = encodeBase64Url;
+export const encode: typeof encodeBase64Url = encodeBase64Url;
 
 /**
  * @deprecated (will be removed in 0.210.0) Use a `decodeBase64Url` instead.
@@ -72,7 +72,7 @@ export const encode = encodeBase64Url;
  * Converts given base64url encoded data back to original
  * @param b64url
  */
-export const decode = decodeBase64Url;
+export const decode: typeof decodeBase64Url = decodeBase64Url;
 
 /**
  * Encodes a given ArrayBuffer or string into a base64url representation

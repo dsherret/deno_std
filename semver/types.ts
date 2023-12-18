@@ -64,7 +64,9 @@ export interface SemVer {
   build: string[];
 }
 
+/** @internal */
 type SemVerRangeAnd = SemVerComparator[];
+/** @internal */
 type SemVerRangeOr = SemVerRangeAnd[];
 
 /**

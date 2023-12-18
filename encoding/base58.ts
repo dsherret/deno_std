@@ -35,7 +35,7 @@ const base58alphabet =
  *
  * @returns Encoded value
  */
-export const encode = encodeBase58;
+export const encode: typeof encodeBase58 = encodeBase58;
 
 /**
  * @deprecated (will be removed in 0.210.0) Use a `decodeBase58` instead.
@@ -47,7 +47,7 @@ export const encode = encodeBase58;
  *
  * @returns Decoded value
  */
-export const decode = decodeBase58;
+export const decode: typeof decodeBase58 = decodeBase58;
 
 /**
  * Encodes a given Uint8Array, ArrayBuffer or string into draft-mspotny-base58-03 RFC base58 representation:

@@ -30,7 +30,7 @@ export class BaseHandler {
     if (this.level > logRecord.level) return;
 
     const msg = this.format(logRecord);
-    return this.log(msg);
+    this.log(msg);
   }
 
   format(logRecord: LogRecord): string {

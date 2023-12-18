@@ -21,6 +21,7 @@ import {
   RANDOM_LEN,
   TIME_LEN,
   TIME_MAX,
+  ULID,
 } from "./_util.ts";
 
 /**
@@ -63,7 +64,7 @@ export function decodeTime(id: string): number {
  * monotonicUlid(100000); // 000XAL6S41ACTAV9WEVGEMMVRD
  * ```
  */
-export const monotonicUlid = monotonicFactory();
+export const monotonicUlid: ULID = monotonicFactory();
 
 /**
  * @example

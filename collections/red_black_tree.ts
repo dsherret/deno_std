@@ -8,8 +8,8 @@ import {
 import { RedBlackTree as RedBlackTree_ } from "./unstable_red_black_tree.ts";
 
 /** @deprecated (will be removed after 0.206.0) import from `collections/unstable_red_black_tree.ts` instead. */
-export const ascend = ascend_;
+export const ascend: typeof ascend_ = ascend_;
 /** @deprecated (will be removed after 0.206.0) import from `collections/unstable_red_black_tree.ts` instead. */
-export const descend = descend_;
+export const descend: typeof descend_ = descend_;
 /** @deprecated (will be removed after 0.206.0) import from `collections/unstable_red_black_tree.ts` instead. */
 export class RedBlackTree<T> extends RedBlackTree_<T> {}

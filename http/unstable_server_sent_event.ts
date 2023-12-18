@@ -80,6 +80,7 @@ export interface ServerSentEventTargetOptions {
   keepAlive?: boolean | number;
 }
 
+/** @internal */
 class CloseEvent extends Event {
   constructor(eventInit: EventInit) {
     super("close", eventInit);
@@ -376,7 +377,9 @@ export class ServerSentEventStreamTarget extends EventTarget
     return dispatched;
   }
 
-  [Symbol.for("Deno.customInspect")](inspect: (value: unknown) => string) {
+  [Symbol.for("Deno.customInspect")](
+    inspect: (value: unknown) => string,
+  ): string {
     return `${this.constructor.name} ${
       inspect({ "#bodyInit": this.#bodyInit, "#closed": this.#closed })
     }`;
@@ -387,7 +390,7 @@ export class ServerSentEventStreamTarget extends EventTarget
     // deno-lint-ignore no-explicit-any
     options: any,
     inspect: (value: unknown, options?: unknown) => string,
-  ) {
+  ): string {
     if (depth < 0) {
       return options.stylize(`[${this.constructor.name}]`, "special");
     }

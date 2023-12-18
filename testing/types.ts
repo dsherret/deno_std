@@ -89,12 +89,14 @@ export type IsExact<T, U> = TupleMatches<AnyToBrand<T>, AnyToBrand<U>> extends
   : false
   : false;
 
+/** @internal */
 type DeepPrepareIsExact<T, VisitedTypes = never> = {
   // make optional properties required
   [P in keyof T]-?: IsAny<T[P]> extends true ? AnyBrand
     : DeepPrepareIsExactProp<T[P], T, VisitedTypes>;
 };
 
+/** @internal */
 type DeepPrepareIsExactProp<Prop, Parent, VisitedTypes> = Prop extends
   VisitedTypes
   // recursive, bail
@@ -120,8 +122,12 @@ export type IsUnknown<T> = unknown extends T
   ? ([T] extends [null] ? false : true)
   : false;
 
+/** @internal */
 type TupleMatches<T, U> = Matches<[T], [U]>;
+/** @internal */
 type Matches<T, U> = T extends U ? U extends T ? true : false : false;
 
+/** @internal */
 type AnyToBrand<T> = IsAny<T> extends true ? AnyBrand : T;
+/** @internal */
 type AnyBrand = { __conditionalTypeChecksAny__: undefined };

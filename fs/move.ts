@@ -11,6 +11,7 @@ export class SubdirectoryMoveError extends Error {
   }
 }
 
+/** @internal */
 interface MoveOptions {
   overwrite?: boolean;
 }

@@ -377,7 +377,9 @@ type MergeRightOmitComplexes<
   X = ObjectXorKeys<T, U> & OmitComplexes<{ [K in keyof U]: U[K] }>,
 > = X;
 
-/** Merge two objects */
+/** Merge two objects
+ * @internal
+ */
 type Merge<
   T,
   U,

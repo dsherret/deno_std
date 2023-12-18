@@ -85,7 +85,7 @@ function _byteLength(validLen: number, placeHoldersLen: number): number {
  * Decodes a given RFC4648 base32 encoded string.
  * @param b32
  */
-export const decode = decodeBase32;
+export const decode: typeof decodeBase32 = decodeBase32;
 
 /**
  * Decodes a given RFC4648 base32 encoded string.
@@ -187,7 +187,7 @@ function encodeChunk(uint8: Uint8Array, start: number, end: number): string {
  * Encodes a given Uint8Array into RFC4648 base32 representation
  * @param uint8
  */
-export const encode = encodeBase32;
+export const encode: typeof encodeBase32 = encodeBase32;
 
 /**
  * Encodes a given Uint8Array into RFC4648 base32 representation

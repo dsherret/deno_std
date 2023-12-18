@@ -2,6 +2,7 @@
 // This module is browser compatible.
 
 // Utility for representing n-tuple
+/** @internal */
 type Tuple<T, N extends number> = N extends N
   ? number extends N ? T[] : TupleOf<T, N, []>
   : never;

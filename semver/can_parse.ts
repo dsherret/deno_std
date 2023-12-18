@@ -2,7 +2,7 @@
 import { SemVer } from "./types.ts";
 import { parse } from "./parse.ts";
 
-export function canParse(version: string | SemVer) {
+export function canParse(version: string | SemVer): boolean {
   try {
     parse(version);
     return true;

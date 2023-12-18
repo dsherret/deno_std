@@ -10,7 +10,9 @@
 import type { Reader, Writer } from "../types.d.ts";
 
 type RawBaseType = "int8" | "int16" | "int32" | "uint8" | "uint16" | "uint32";
+/** @internal */
 type RawNumberType = RawBaseType | "float32" | "float64";
+/** @internal */
 type RawBigType = RawBaseType | "int64" | "uint64";
 /** @deprecated (will be removed after 0.205.0) */
 export type DataType = RawNumberType | RawBigType;

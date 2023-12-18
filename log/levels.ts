@@ -15,9 +15,8 @@ export enum LogLevels {
 }
 
 /** Permitted log level names */
-export const LogLevelNames = Object.keys(LogLevels).filter((key) =>
-  isNaN(Number(key))
-);
+export const LogLevelNames: string[] = Object.keys(LogLevels)
+  .filter((key) => isNaN(Number(key)));
 
 /** Union of valid log level strings */
 export type LevelName = keyof typeof LogLevels;
