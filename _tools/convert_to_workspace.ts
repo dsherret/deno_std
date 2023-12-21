@@ -71,13 +71,15 @@ for (const [pkg, exports] of exportsByPackage.entries()) {
   }
 }
 
-const dataUrl = `data:application/javascript,` +
-  allExports.map((path) => `import "file://${Deno.realPathSync(path)}";`).join(
-    "",
-  );
+// can't use a data url here because it's too long and won't work on windows
+const tempFileText = allExports.map((path) => `import "${toFileUrl(Deno.realPathSync(path))}";`)
+  .join("")
+const tempFilePath = "temp_graph.ts";
+Deno.writeTextFileSync(tempFilePath, tempFileText);
 const out = await new Deno.Command(Deno.execPath(), {
-  args: ["info", "--json", "--config", "deno.json", dataUrl],
+  args: ["info", "--json", "--config", "deno.json", tempFilePath],
 }).output();
+Deno.removeSync(tempFilePath);
 const graph = JSON.parse(new TextDecoder().decode(out.stdout));
 
 const pkgDeps = new Map<string, Set<string>>(
@@ -164,10 +166,10 @@ for await (const entry of walk(cwd)) {
   for (const specifier of relativeImports) {
     const targetUrl = new URL(specifier, currentUrl);
     const path = fromFileUrl(targetUrl);
-    const target = relative(cwd, path);
+    const target = relative(cwd, path).replaceAll("\\", "/");
     const pkg = target.split("/")[0];
     if (pkg === currentPkg) {
-      let newSpecifier = relative(dirname(entry.path), target);
+      let newSpecifier = relative(dirname(entry.path), target).replaceAll("\\", "/");
       if (!newSpecifier.startsWith(".")) {
         newSpecifier = "./" + newSpecifier;
       }
