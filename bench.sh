@@ -1,6 +1,6 @@
 hyperfine \
   --warmup=5 \
-  --runs=10 \
+  --runs=20 \
   "./node_modules/.bin/biome format --write --config-path biome.json" \
   "./node_modules/.bin/oxfmt --config oxcfmt.json" \
   "./node_modules/.bin/dprint fmt --config dprint-oxc.json" \
