@@ -1,7 +1,4 @@
 {
-  "vcs": {
-    "useIgnoreFile": false
-  },
   "files": {
     "includes": ["**/*.ts"]
   },
