@@ -1,6 +1,8 @@
 {
-  "includes": [
-    "**/*.ts"
+  "includes": ["**/*.ts"],
+  "excludes": [
+    "data_structures/binary_heap.ts",
+    "data_structures/binary_search_tree.ts"
   ],
   "plugins": ["https://plugins.dprint.dev/oxc-0.7.0.wasm"]
 }

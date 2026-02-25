@@ -2,5 +2,9 @@
   "printWidth": 80,
   "useTabs": true,
   "embeddedLanguageFormatting": "off",
-  "ignorePatterns": ["*", "!*ts"]
+  "ignorePatterns": [
+    "**/*.{json,toml,tsx}",
+    "data_structures/binary_heap.ts",
+    "data_structures/binary_search_tree.ts"
+  ]
 }

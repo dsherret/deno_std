@@ -1,6 +1,4 @@
 {
-  "includes": [
-    "**/*.ts"
-  ],
+  "includes": ["**/*.ts"],
   "plugins": ["https://plugins.dprint.dev/biome-0.12.0.wasm"]
 }
