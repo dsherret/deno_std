@@ -3,6 +3,7 @@ http/testdata/%25A.txt
 http/testdata/file#2.txt
 http/testdata/test file.txt
 docs/
+node_modules
 
 # rust build output
 crypto/_wasm/target

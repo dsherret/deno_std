@@ -1,0 +1,16 @@
+{
+  "name": "deno_std",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@biomejs/biome": "^2.4.4",
+    "oxfmt": "^0.35.0"
+  }
+}

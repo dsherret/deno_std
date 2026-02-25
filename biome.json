@@ -1,0 +1,14 @@
+{
+  "vcs": {
+    "useIgnoreFile": false
+  },
+  "files": {
+    "includes": ["**/*.ts"]
+  },
+  "formatter": {
+    "formatWithErrors": true
+  },
+  "linter": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "includes": [
+    "**/*.ts"
+  ],
+  "plugins": ["https://plugins.dprint.dev/oxc-0.7.0.wasm"]
+}
