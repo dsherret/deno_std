@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@biomejs/biome": "^2.4.4",
+    "dprint": "^0.52.0",
     "oxfmt": "^0.35.0"
   }
 }
