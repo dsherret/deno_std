@@ -5,5 +5,4 @@ hyperfine \
   "./node_modules/.bin/oxfmt --config oxcfmt.json" \
   "./node_modules/.bin/dprint fmt --config dprint-oxc.json" \
   "dprint fmt --config dprint-biome.json" \
-  "dprint fmt --config dprint-oxc.json" \
-  "deno fmt" 2> /dev/null
+  "dprint fmt --config dprint-oxc.json" 2> /dev/null
