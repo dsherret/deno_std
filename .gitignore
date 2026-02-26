@@ -9,9 +9,6 @@ node_modules
 crypto/_wasm/target
 cli/testdata/unicode_width_crate/target
 
-# coverage
-coverage/
-
 # misc files
 .DS_Store
 .idea
