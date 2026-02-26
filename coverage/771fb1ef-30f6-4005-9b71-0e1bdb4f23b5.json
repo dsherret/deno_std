@@ -1,0 +1,24 @@
+{
+  "scriptId": "411",
+  "url": "file:///Users/david/dev/deno_std/collections/_utils.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 717, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterInPlace",
+      "ranges": [
+        { "startOffset": 271, "endOffset": 516, "count": 16 },
+        { "startOffset": 363, "endOffset": 469, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "randomInteger",
+      "ranges": [{ "startOffset": 610, "endOffset": 716, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

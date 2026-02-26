@@ -1,0 +1,67 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/crypto/crypto.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3198, "endOffset": 4082, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bufferSourceBytes",
+      "ranges": [
+        { "startOffset": 4130, "endOffset": 4422, "count": 20006 },
+        { "startOffset": 4210, "endOffset": 4404, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4614, "endOffset": 4620, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digest",
+      "ranges": [
+        { "startOffset": 4834, "endOffset": 6825, "count": 10003 },
+        { "startOffset": 5054, "endOffset": 5096, "count": 0 },
+        { "startOffset": 5267, "endOffset": 5317, "count": 0 },
+        { "startOffset": 5319, "endOffset": 5386, "count": 0 },
+        { "startOffset": 5650, "endOffset": 6357, "count": 0 },
+        { "startOffset": 6365, "endOffset": 6819, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digestSync",
+      "ranges": [
+        { "startOffset": 6831, "endOffset": 7740, "count": 10003 },
+        { "startOffset": 7049, "endOffset": 7091, "count": 0 },
+        { "startOffset": 7224, "endOffset": 7734, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertValidDigestLength",
+      "ranges": [
+        { "startOffset": 8400, "endOffset": 8649, "count": 20006 },
+        { "startOffset": 8468, "endOffset": 8539, "count": 0 },
+        { "startOffset": 8541, "endOffset": 8647, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeAlgorithm",
+      "ranges": [
+        { "startOffset": 8650, "endOffset": 8839, "count": 20006 },
+        { "startOffset": 8772, "endOffset": 8836, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

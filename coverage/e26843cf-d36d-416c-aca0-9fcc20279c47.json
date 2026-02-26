@@ -1,0 +1,35 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/media_types/_util_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2910, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 240, "endOffset": 656, "count": 1 },
+        { "startOffset": 563, "endOffset": 652, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 701, "endOffset": 1641, "count": 1 },
+        { "startOffset": 1548, "endOffset": 1637, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 1691, "endOffset": 2905, "count": 1 },
+        { "startOffset": 2794, "endOffset": 2901, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

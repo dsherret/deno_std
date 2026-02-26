@@ -1,0 +1,81 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/json/concatenated_json_parse_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5044, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBlankChar",
+      "ranges": [{ "startOffset": 184, "endOffset": 305, "count": 149 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 371, "endOffset": 397, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1102, "endOffset": 5043, "count": 55 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConcatenatedJsonParseStream",
+      "ranges": [{ "startOffset": 1242, "endOffset": 1485, "count": 55 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#concatenatedJSONIterator",
+      "ranges": [
+        { "startOffset": 1488, "endOffset": 5041, "count": 55 },
+        { "startOffset": 1888, "endOffset": 4978, "count": 64 },
+        { "startOffset": 1960, "endOffset": 4924, "count": 1185 },
+        { "startOffset": 2078, "endOffset": 2821, "count": 176 },
+        { "startOffset": 2296, "endOffset": 2564, "count": 53 },
+        { "startOffset": 2576, "endOffset": 2791, "count": 0 },
+        { "startOffset": 2821, "endOffset": 2849, "count": 1009 },
+        { "startOffset": 2849, "endOffset": 3340, "count": 342 },
+        { "startOffset": 2878, "endOffset": 2892, "count": 85 },
+        { "startOffset": 2894, "endOffset": 3257, "count": 85 },
+        { "startOffset": 3043, "endOffset": 3054, "count": 16 },
+        { "startOffset": 3056, "endOffset": 3245, "count": 16 },
+        { "startOffset": 3340, "endOffset": 3522, "count": 667 },
+        { "startOffset": 3522, "endOffset": 3540, "count": 518 },
+        { "startOffset": 3541, "endOffset": 3654, "count": 21 },
+        { "startOffset": 3558, "endOffset": 3573, "count": 20 },
+        { "startOffset": 3574, "endOffset": 3589, "count": 19 },
+        { "startOffset": 3590, "endOffset": 3605, "count": 18 },
+        { "startOffset": 3606, "endOffset": 3621, "count": 15 },
+        { "startOffset": 3622, "endOffset": 3637, "count": 15 },
+        { "startOffset": 3638, "endOffset": 3653, "count": 14 },
+        { "startOffset": 3656, "endOffset": 3885, "count": 7 },
+        { "startOffset": 3885, "endOffset": 3918, "count": 660 },
+        { "startOffset": 3918, "endOffset": 4012, "count": 85 },
+        { "startOffset": 4023, "endOffset": 4032, "count": 32 },
+        { "startOffset": 4043, "endOffset": 4096, "count": 40 },
+        { "startOffset": 4107, "endOffset": 4116, "count": 31 },
+        { "startOffset": 4127, "endOffset": 4180, "count": 39 },
+        { "startOffset": 4190, "endOffset": 4219, "count": 660 },
+        { "startOffset": 4219, "endOffset": 4242, "count": 162 },
+        { "startOffset": 4244, "endOffset": 4409, "count": 53 },
+        { "startOffset": 4409, "endOffset": 4464, "count": 660 },
+        { "startOffset": 4464, "endOffset": 4482, "count": 511 },
+        { "startOffset": 4483, "endOffset": 4516, "count": 52 },
+        { "startOffset": 4500, "endOffset": 4515, "count": 22 },
+        { "startOffset": 4518, "endOffset": 4707, "count": 38 },
+        { "startOffset": 4590, "endOffset": 4707, "count": 37 },
+        { "startOffset": 4707, "endOffset": 4730, "count": 622 },
+        { "startOffset": 4730, "endOffset": 4751, "count": 149 },
+        { "startOffset": 4753, "endOffset": 4916, "count": 124 },
+        { "startOffset": 4924, "endOffset": 4978, "count": 63 },
+        { "startOffset": 4978, "endOffset": 4997, "count": 54 },
+        { "startOffset": 4997, "endOffset": 5037, "count": 10 },
+        { "startOffset": 5031, "endOffset": 5037, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/path/glob_to_regexp.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3355, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "globToRegExp",
+      "ranges": [
+        { "startOffset": 3174, "endOffset": 3354, "count": 696 },
+        { "startOffset": 3252, "endOffset": 3279, "count": 461 },
+        { "startOffset": 3267, "endOffset": 3279, "count": 7 },
+        { "startOffset": 3280, "endOffset": 3316, "count": 235 },
+        { "startOffset": 3317, "endOffset": 3351, "count": 461 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

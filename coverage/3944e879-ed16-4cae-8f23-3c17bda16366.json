@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/bytes/concat.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 678, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "concat",
+      "ranges": [
+        { "startOffset": 431, "endOffset": 677, "count": 4 },
+        { "startOffset": 494, "endOffset": 523, "count": 13 },
+        { "startOffset": 604, "endOffset": 658, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

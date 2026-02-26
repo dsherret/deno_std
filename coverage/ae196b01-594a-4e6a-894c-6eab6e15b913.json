@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/expect/_to_match_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 462, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 210, "endOffset": 459, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 315, "endOffset": 366, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 400, "endOffset": 455, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

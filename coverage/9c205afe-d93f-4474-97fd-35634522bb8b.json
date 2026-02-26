@@ -1,0 +1,21 @@
+{
+  "scriptId": "449",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/set.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 728, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlSet",
+      "ranges": [{ "startOffset": 329, "endOffset": 520, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructYamlSet",
+      "ranges": [{ "startOffset": 521, "endOffset": 592, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "369",
+  "url": "file:///Users/david/dev/deno_std/yaml/_loader/loader_state.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1160, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 344, "endOffset": 1159, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LoaderState",
+      "ranges": [{ "startOffset": 598, "endOffset": 1157, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

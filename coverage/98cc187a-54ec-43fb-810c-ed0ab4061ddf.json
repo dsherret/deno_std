@@ -1,0 +1,31 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/bytes/concat_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1656, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 192, "endOffset": 475, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 521, "endOffset": 725, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 778, "endOffset": 1225, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1281, "endOffset": 1653, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

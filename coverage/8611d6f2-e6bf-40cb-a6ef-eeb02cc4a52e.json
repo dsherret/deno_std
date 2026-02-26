@@ -1,0 +1,101 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/dotenv/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10504, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSync",
+      "ranges": [
+        { "startOffset": 400, "endOffset": 1137, "count": 23 },
+        { "startOffset": 583, "endOffset": 607, "count": 22 },
+        { "startOffset": 608, "endOffset": 612, "count": 1 },
+        { "startOffset": 634, "endOffset": 824, "count": 18 },
+        { "startOffset": 750, "endOffset": 820, "count": 8 },
+        { "startOffset": 820, "endOffset": 824, "count": 16 },
+        { "startOffset": 824, "endOffset": 844, "count": 20 },
+        { "startOffset": 844, "endOffset": 954, "count": 17 },
+        { "startOffset": 954, "endOffset": 970, "count": 16 },
+        { "startOffset": 970, "endOffset": 1120, "count": 2 },
+        { "startOffset": 1024, "endOffset": 1116, "count": 4 },
+        { "startOffset": 1069, "endOffset": 1078, "count": 1 },
+        { "startOffset": 1078, "endOffset": 1116, "count": 3 },
+        { "startOffset": 1120, "endOffset": 1136, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "load",
+      "ranges": [
+        { "startOffset": 8009, "endOffset": 8754, "count": 20 },
+        { "startOffset": 8194, "endOffset": 8221, "count": 19 },
+        { "startOffset": 8221, "endOffset": 8225, "count": 1 },
+        { "startOffset": 8247, "endOffset": 8439, "count": 17 },
+        { "startOffset": 8304, "endOffset": 8365, "count": 15 },
+        { "startOffset": 8365, "endOffset": 8435, "count": 7 },
+        { "startOffset": 8435, "endOffset": 8439, "count": 15 },
+        { "startOffset": 8439, "endOffset": 8459, "count": 18 },
+        { "startOffset": 8459, "endOffset": 8571, "count": 16 },
+        { "startOffset": 8514, "endOffset": 8571, "count": 15 },
+        { "startOffset": 8571, "endOffset": 8587, "count": 14 },
+        { "startOffset": 8587, "endOffset": 8737, "count": 2 },
+        { "startOffset": 8641, "endOffset": 8733, "count": 4 },
+        { "startOffset": 8686, "endOffset": 8695, "count": 1 },
+        { "startOffset": 8695, "endOffset": 8733, "count": 3 },
+        { "startOffset": 8737, "endOffset": 8753, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseFileSync",
+      "ranges": [
+        { "startOffset": 8755, "endOffset": 8937, "count": 57 },
+        { "startOffset": 8853, "endOffset": 8935, "count": 23 },
+        { "startOffset": 8908, "endOffset": 8918, "count": 19 },
+        { "startOffset": 8918, "endOffset": 8935, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseFile",
+      "ranges": [
+        { "startOffset": 8938, "endOffset": 9124, "count": 52 },
+        { "startOffset": 9033, "endOffset": 9040, "count": 31 },
+        { "startOffset": 9040, "endOffset": 9122, "count": 21 },
+        { "startOffset": 9095, "endOffset": 9105, "count": 18 },
+        { "startOffset": 9105, "endOffset": 9122, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertSafe",
+      "ranges": [
+        { "startOffset": 9125, "endOffset": 10053, "count": 31 },
+        { "startOffset": 9244, "endOffset": 9567, "count": 28 },
+        { "startOffset": 9267, "endOffset": 9367, "count": 20 },
+        { "startOffset": 9297, "endOffset": 9316, "count": 14 },
+        { "startOffset": 9318, "endOffset": 9361, "count": 2 },
+        { "startOffset": 9367, "endOffset": 9563, "count": 8 },
+        { "startOffset": 9410, "endOffset": 9518, "count": 6 },
+        { "startOffset": 9440, "endOffset": 9467, "count": 4 },
+        { "startOffset": 9469, "endOffset": 9512, "count": 2 },
+        { "startOffset": 9518, "endOffset": 9563, "count": 2 },
+        { "startOffset": 9601, "endOffset": 10051, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 10222, "endOffset": 10503, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MissingEnvVarsError",
+      "ranges": [{ "startOffset": 10325, "endOffset": 10501, "count": 6 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

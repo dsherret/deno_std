@@ -1,0 +1,31 @@
+{
+  "scriptId": "370",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/timestamp.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2553, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlTimestamp",
+      "ranges": [
+        { "startOffset": 829, "endOffset": 1038, "count": 27 },
+        { "startOffset": 888, "endOffset": 901, "count": 0 },
+        { "startOffset": 946, "endOffset": 958, "count": 0 },
+        { "startOffset": 1008, "endOffset": 1020, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructYamlTimestamp",
+      "ranges": [{ "startOffset": 1039, "endOffset": 2266, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "representYamlTimestamp",
+      "ranges": [{ "startOffset": 2267, "endOffset": 2337, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

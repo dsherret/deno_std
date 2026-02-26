@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/limited_transform_stream_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 810, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 247, "endOffset": 492, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 545, "endOffset": 807, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 757, "endOffset": 791, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

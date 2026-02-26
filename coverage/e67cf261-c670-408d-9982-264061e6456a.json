@@ -1,0 +1,16 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/writable_stream_from_writer.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 452, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writableStreamFromWriter",
+      "ranges": [{ "startOffset": 348, "endOffset": 451, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

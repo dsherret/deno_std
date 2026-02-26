@@ -1,0 +1,20 @@
+{
+  "scriptId": "342",
+  "url": "file:///Users/david/dev/deno_std/expect/_assert_not_equals.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 961, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertNotEquals",
+      "ranges": [
+        { "startOffset": 698, "endOffset": 960, "count": 2 },
+        { "startOffset": 778, "endOffset": 783, "count": 0 },
+        { "startOffset": 826, "endOffset": 959, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

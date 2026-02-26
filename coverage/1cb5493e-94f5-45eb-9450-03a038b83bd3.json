@@ -1,0 +1,21 @@
+{
+  "scriptId": "319",
+  "url": "file:///Users/david/dev/deno_std/encoding/base64.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2525, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encodeBase64",
+      "ranges": [{ "startOffset": 1115, "endOffset": 2008, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decodeBase64",
+      "ranges": [{ "startOffset": 2299, "endOffset": 2524, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

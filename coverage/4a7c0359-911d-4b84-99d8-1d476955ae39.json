@@ -1,0 +1,31 @@
+{
+  "scriptId": "454",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/undefined.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [{ "startOffset": 423, "endOffset": 456, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "construct",
+      "ranges": [{ "startOffset": 460, "endOffset": 500, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "predicate",
+      "ranges": [{ "startOffset": 504, "endOffset": 570, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "represent",
+      "ranges": [{ "startOffset": 574, "endOffset": 607, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

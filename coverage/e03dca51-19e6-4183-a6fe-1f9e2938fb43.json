@@ -1,0 +1,16 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/datetime/format_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2439, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 200, "endOffset": 2434, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

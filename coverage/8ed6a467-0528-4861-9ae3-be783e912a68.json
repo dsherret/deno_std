@@ -1,0 +1,31 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/intersect.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1032, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "intersect",
+      "ranges": [
+        { "startOffset": 723, "endOffset": 1031, "count": 19 },
+        { "startOffset": 925, "endOffset": 1014, "count": 22 },
+        { "startOffset": 998, "endOffset": 1010, "count": 9 },
+        { "startOffset": 1014, "endOffset": 1030, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 876, "endOffset": 893, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 951, "endOffset": 968, "count": 42 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

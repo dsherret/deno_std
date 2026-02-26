@@ -1,0 +1,11 @@
+{
+  "scriptId": "315",
+  "url": "file:///Users/david/dev/deno_std/path/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2191, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

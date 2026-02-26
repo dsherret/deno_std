@@ -1,0 +1,56 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/encoding/hex.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2757, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "errInvalidByte",
+      "ranges": [{ "startOffset": 947, "endOffset": 1051, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "errLength",
+      "ranges": [{ "startOffset": 1052, "endOffset": 1126, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromHexChar",
+      "ranges": [
+        { "startOffset": 1175, "endOffset": 1492, "count": 110 },
+        { "startOffset": 1253, "endOffset": 1266, "count": 109 },
+        { "startOffset": 1268, "endOffset": 1285, "count": 53 },
+        { "startOffset": 1285, "endOffset": 1335, "count": 57 },
+        { "startOffset": 1335, "endOffset": 1349, "count": 42 },
+        { "startOffset": 1351, "endOffset": 1373, "count": 38 },
+        { "startOffset": 1373, "endOffset": 1423, "count": 19 },
+        { "startOffset": 1423, "endOffset": 1436, "count": 18 },
+        { "startOffset": 1438, "endOffset": 1460, "count": 14 },
+        { "startOffset": 1460, "endOffset": 1491, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encodeHex",
+      "ranges": [
+        { "startOffset": 1702, "endOffset": 1986, "count": 8 },
+        { "startOffset": 1848, "endOffset": 1950, "count": 76 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decodeHex",
+      "ranges": [
+        { "startOffset": 2266, "endOffset": 2756, "count": 16 },
+        { "startOffset": 2412, "endOffset": 2522, "count": 54 },
+        { "startOffset": 2522, "endOffset": 2550, "count": 12 },
+        { "startOffset": 2550, "endOffset": 2740, "count": 4 },
+        { "startOffset": 2740, "endOffset": 2755, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

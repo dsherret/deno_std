@@ -1,0 +1,155 @@
+{
+  "scriptId": "349",
+  "url": "file:///Users/david/dev/deno_std/assert/_diff.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10850, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCommon",
+      "ranges": [
+        { "startOffset": 337, "endOffset": 734, "count": 8 },
+        { "startOffset": 437, "endOffset": 447, "count": 0 },
+        { "startOffset": 506, "endOffset": 715, "count": 50 },
+        { "startOffset": 530, "endOffset": 551, "count": 20 },
+        { "startOffset": 552, "endOffset": 558, "count": 30 },
+        { "startOffset": 582, "endOffset": 603, "count": 20 },
+        { "startOffset": 604, "endOffset": 610, "count": 30 },
+        { "startOffset": 648, "endOffset": 677, "count": 46 },
+        { "startOffset": 677, "endOffset": 711, "count": 4 },
+        { "startOffset": 715, "endOffset": 733, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureDefined",
+      "ranges": [{ "startOffset": 735, "endOffset": 867, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "diff",
+      "ranges": [
+        { "startOffset": 1001, "endOffset": 5400, "count": 4 },
+        { "startOffset": 1258, "endOffset": 1288, "count": 0 },
+        { "startOffset": 1369, "endOffset": 1399, "count": 0 },
+        { "startOffset": 1480, "endOffset": 1500, "count": 0 },
+        { "startOffset": 1555, "endOffset": 1560, "count": 0 },
+        { "startOffset": 1561, "endOffset": 1584, "count": 0 },
+        { "startOffset": 1585, "endOffset": 1608, "count": 0 },
+        { "startOffset": 1610, "endOffset": 1620, "count": 0 },
+        { "startOffset": 1969, "endOffset": 4717, "count": 0 },
+        { "startOffset": 4718, "endOffset": 5399, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1672, "endOffset": 1742, "count": 26 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1760, "endOffset": 1858, "count": 4 },
+        { "startOffset": 1809, "endOffset": 1827, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1887, "endOffset": 1957, "count": 20 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2087, "endOffset": 2126, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "backTrace",
+      "ranges": [{ "startOffset": 2534, "endOffset": 3429, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createFP",
+      "ranges": [{ "startOffset": 3432, "endOffset": 4179, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "snake",
+      "ranges": [{ "startOffset": 4182, "endOffset": 4627, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5193, "endOffset": 5257, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5328, "endOffset": 5392, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "diffstr",
+      "ranges": [{ "startOffset": 5599, "endOffset": 9227, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createColor",
+      "ranges": [
+        { "startOffset": 9336, "endOffset": 9796, "count": 50 },
+        { "startOffset": 9580, "endOffset": 9667, "count": 4 },
+        { "startOffset": 9672, "endOffset": 9757, "count": 0 },
+        { "startOffset": 9762, "endOffset": 9790, "count": 46 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 9614, "endOffset": 9666, "count": 4 },
+        { "startOffset": 9630, "endOffset": 9649, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 9708, "endOffset": 9756, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSign",
+      "ranges": [
+        { "startOffset": 9903, "endOffset": 10088, "count": 50 },
+        { "startOffset": 9959, "endOffset": 10000, "count": 4 },
+        { "startOffset": 10005, "endOffset": 10048, "count": 0 },
+        { "startOffset": 10053, "endOffset": 10082, "count": 46 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "buildMessage",
+      "ranges": [
+        { "startOffset": 10096, "endOffset": 10849, "count": 4 },
+        { "startOffset": 10757, "endOffset": 10790, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 10408, "endOffset": 10724, "count": 50 },
+        { "startOffset": 10491, "endOffset": 10496, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 10497, "endOffset": 10630, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

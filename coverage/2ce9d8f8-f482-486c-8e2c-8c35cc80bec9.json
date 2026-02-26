@@ -1,0 +1,21 @@
+{
+  "scriptId": "419",
+  "url": "file:///Users/david/dev/deno_std/path/_common/to_file_url.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 395, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encodeWhitespace",
+      "ranges": [{ "startOffset": 267, "endOffset": 394, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 339, "endOffset": 390, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

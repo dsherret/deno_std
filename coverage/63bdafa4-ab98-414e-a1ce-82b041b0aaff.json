@@ -1,0 +1,16 @@
+{
+  "scriptId": "311",
+  "url": "file:///Users/david/dev/deno_std/data_structures/_test_utils.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 140, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "multiply",
+      "ranges": [{ "startOffset": 99, "endOffset": 137, "count": 66 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

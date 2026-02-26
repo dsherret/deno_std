@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/max_by.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1005, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "maxBy",
+      "ranges": [
+        { "startOffset": 705, "endOffset": 1004, "count": 14 },
+        { "startOffset": 820, "endOffset": 988, "count": 40 },
+        { "startOffset": 897, "endOffset": 923, "count": 28 },
+        { "startOffset": 925, "endOffset": 984, "count": 26 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

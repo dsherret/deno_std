@@ -1,0 +1,25 @@
+{
+  "scriptId": "365",
+  "url": "file:///Users/david/dev/deno_std/archive/_common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2509, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 154, "endOffset": 615, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readBlock",
+      "ranges": [
+        { "startOffset": 2175, "endOffset": 2508, "count": 8 },
+        { "startOffset": 2263, "endOffset": 2486, "count": 15 },
+        { "startOffset": 2343, "endOffset": 2461, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

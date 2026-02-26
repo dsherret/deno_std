@@ -1,0 +1,62 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/encoding/ascii85_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 9809, "count": 1 },
+        { "startOffset": 7728, "endOffset": 8232, "count": 4 },
+        { "startOffset": 7757, "endOffset": 7766, "count": 0 },
+        { "startOffset": 8300, "endOffset": 8890, "count": 2 },
+        { "startOffset": 8329, "endOffset": 8338, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 7833, "endOffset": 7982, "count": 4 },
+        { "startOffset": 7878, "endOffset": 7976, "count": 44 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 8055, "endOffset": 8224, "count": 4 },
+        { "startOffset": 8100, "endOffset": 8218, "count": 44 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 8421, "endOffset": 8597, "count": 2 },
+        { "startOffset": 8466, "endOffset": 8591, "count": 22 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 8686, "endOffset": 8882, "count": 2 },
+        { "startOffset": 8731, "endOffset": 8876, "count": 22 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 8966, "endOffset": 9377, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 9453, "endOffset": 9804, "count": 1 },
+        { "startOffset": 9723, "endOffset": 9800, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

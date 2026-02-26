@@ -1,0 +1,41 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/yaml/_mark.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1733, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 323, "endOffset": 1732, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Mark",
+      "ranges": [{ "startOffset": 375, "endOffset": 555, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getSnippet",
+      "ranges": [
+        { "startOffset": 558, "endOffset": 1401, "count": 2 },
+        { "startOffset": 621, "endOffset": 633, "count": 0 },
+        { "startOffset": 704, "endOffset": 779, "count": 28 },
+        { "startOffset": 780, "endOffset": 927, "count": 27 },
+        { "startOffset": 853, "endOffset": 921, "count": 0 },
+        { "startOffset": 1081, "endOffset": 1222, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        { "startOffset": 1404, "endOffset": 1730, "count": 2 },
+        { "startOffset": 1472, "endOffset": 1516, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

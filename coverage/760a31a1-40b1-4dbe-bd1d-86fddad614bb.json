@@ -1,0 +1,67 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/increment.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5544, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bumpPrereleaseNumber",
+      "ranges": [
+        { "startOffset": 118, "endOffset": 484, "count": 69 },
+        { "startOffset": 257, "endOffset": 400, "count": 129 },
+        { "startOffset": 327, "endOffset": 380, "count": 39 },
+        { "startOffset": 380, "endOffset": 400, "count": 90 },
+        { "startOffset": 450, "endOffset": 465, "count": 30 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bumpPrerelease",
+      "ranges": [
+        { "startOffset": 485, "endOffset": 847, "count": 69 },
+        { "startOffset": 608, "endOffset": 622, "count": 29 },
+        { "startOffset": 622, "endOffset": 754, "count": 40 },
+        { "startOffset": 754, "endOffset": 773, "count": 12 },
+        { "startOffset": 775, "endOffset": 828, "count": 29 },
+        { "startOffset": 828, "endOffset": 846, "count": 40 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "increment",
+      "ranges": [
+        { "startOffset": 2177, "endOffset": 5543, "count": 106 },
+        { "startOffset": 2287, "endOffset": 2314, "count": 20 },
+        { "startOffset": 2315, "endOffset": 2330, "count": 86 },
+        { "startOffset": 2355, "endOffset": 2547, "count": 8 },
+        { "startOffset": 2552, "endOffset": 2756, "count": 8 },
+        { "startOffset": 2761, "endOffset": 2977, "count": 8 },
+        { "startOffset": 2982, "endOffset": 3438, "count": 36 },
+        { "startOffset": 3143, "endOffset": 3148, "count": 2 },
+        { "startOffset": 3199, "endOffset": 3218, "count": 2 },
+        { "startOffset": 3219, "endOffset": 3234, "count": 34 },
+        { "startOffset": 3443, "endOffset": 3958, "count": 13 },
+        { "startOffset": 3685, "endOffset": 3690, "count": 6 },
+        { "startOffset": 3741, "endOffset": 3763, "count": 7 },
+        { "startOffset": 3764, "endOffset": 3786, "count": 1 },
+        { "startOffset": 3787, "endOffset": 3806, "count": 12 },
+        { "startOffset": 3807, "endOffset": 3822, "count": 1 },
+        { "startOffset": 3963, "endOffset": 4467, "count": 12 },
+        { "startOffset": 4205, "endOffset": 4210, "count": 6 },
+        { "startOffset": 4261, "endOffset": 4283, "count": 6 },
+        { "startOffset": 4284, "endOffset": 4303, "count": 10 },
+        { "startOffset": 4304, "endOffset": 4319, "count": 2 },
+        { "startOffset": 4472, "endOffset": 5019, "count": 12 },
+        { "startOffset": 4768, "endOffset": 4773, "count": 6 },
+        { "startOffset": 4824, "endOffset": 4843, "count": 6 },
+        { "startOffset": 4844, "endOffset": 4859, "count": 6 },
+        { "startOffset": 5024, "endOffset": 5459, "count": 9 },
+        { "startOffset": 5464, "endOffset": 5537, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

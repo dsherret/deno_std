@@ -1,0 +1,49 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/uuid/v1_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2181, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 298, "endOffset": 589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 645, "endOffset": 985, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1048, "endOffset": 1175, "count": 1 },
+        { "startOffset": 1086, "endOffset": 1173, "count": 10000 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1232, "endOffset": 1531, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1590, "endOffset": 1985, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2055, "endOffset": 2178, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2076, "endOffset": 2127, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

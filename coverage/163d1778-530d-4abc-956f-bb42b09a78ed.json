@@ -1,0 +1,11 @@
+{
+  "scriptId": "426",
+  "url": "file:///Users/david/dev/deno_std/testing/__snapshots__/options_tests/snapshot_test.ts.snap",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 192, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

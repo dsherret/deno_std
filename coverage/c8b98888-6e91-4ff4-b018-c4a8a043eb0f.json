@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/datetime/week_of_year.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1125, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "weekOfYear",
+      "ranges": [
+        { "startOffset": 573, "endOffset": 1124, "count": 42 },
+        { "startOffset": 815, "endOffset": 830, "count": 15 },
+        { "startOffset": 831, "endOffset": 836, "count": 27 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

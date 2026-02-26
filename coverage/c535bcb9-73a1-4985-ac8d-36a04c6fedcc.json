@@ -1,0 +1,33 @@
+{
+  "scriptId": "398",
+  "url": "file:///Users/david/dev/deno_std/path/windows/_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 742, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isPosixPathSeparator",
+      "ranges": [{ "startOffset": 387, "endOffset": 464, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPathSeparator",
+      "ranges": [
+        { "startOffset": 472, "endOffset": 576, "count": 650 },
+        { "startOffset": 542, "endOffset": 573, "count": 619 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWindowsDeviceRoot",
+      "ranges": [
+        { "startOffset": 584, "endOffset": 741, "count": 34 },
+        { "startOffset": 655, "endOffset": 682, "count": 20 },
+        { "startOffset": 683, "endOffset": 738, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

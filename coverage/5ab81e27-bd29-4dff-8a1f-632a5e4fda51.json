@@ -1,0 +1,58 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/readable_stream_from_reader_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2936, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 352, "endOffset": 846, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        { "startOffset": 388, "endOffset": 806, "count": 17 },
+        { "startOffset": 422, "endOffset": 470, "count": 0 },
+        { "startOffset": 495, "endOffset": 535, "count": 0 },
+        { "startOffset": 590, "endOffset": 768, "count": 14 },
+        { "startOffset": 662, "endOffset": 724, "count": 5 },
+        { "startOffset": 768, "endOffset": 805, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 809, "endOffset": 844, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 887, "endOffset": 1211, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1285, "endOffset": 1299, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1356, "endOffset": 1805, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1888, "endOffset": 2365, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2426, "endOffset": 2933, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

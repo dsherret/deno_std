@@ -1,0 +1,42 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/async/delay.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1477, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "delay",
+      "ranges": [
+        { "startOffset": 686, "endOffset": 1476, "count": 2 },
+        { "startOffset": 775, "endOffset": 784, "count": 0 },
+        { "startOffset": 786, "endOffset": 823, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 845, "endOffset": 1472, "count": 2 },
+        { "startOffset": 1094, "endOffset": 1112, "count": 0 },
+        { "startOffset": 1186, "endOffset": 1468, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 884, "endOffset": 948, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "done",
+      "ranges": [
+        { "startOffset": 967, "endOffset": 1046, "count": 2 },
+        { "startOffset": 985, "endOffset": 1006, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

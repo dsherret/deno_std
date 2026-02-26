@@ -1,0 +1,16 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/semver/less_than.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 260, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lessThan",
+      "ranges": [{ "startOffset": 200, "endOffset": 259, "count": 19 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

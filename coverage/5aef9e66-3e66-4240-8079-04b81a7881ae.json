@@ -1,0 +1,24 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/semver/compare.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 639, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compare",
+      "ranges": [
+        { "startOffset": 365, "endOffset": 638, "count": 212 },
+        { "startOffset": 409, "endOffset": 418, "count": 2 },
+        { "startOffset": 418, "endOffset": 462, "count": 210 },
+        { "startOffset": 462, "endOffset": 498, "count": 104 },
+        { "startOffset": 499, "endOffset": 535, "count": 92 },
+        { "startOffset": 536, "endOffset": 584, "count": 88 },
+        { "startOffset": 585, "endOffset": 635, "count": 85 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

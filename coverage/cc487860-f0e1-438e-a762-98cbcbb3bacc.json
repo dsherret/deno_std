@@ -1,0 +1,31 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/expect/_to_have_returned_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 649, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 247, "endOffset": 646, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 298, "endOffset": 335, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 494, "endOffset": 541, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 575, "endOffset": 626, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

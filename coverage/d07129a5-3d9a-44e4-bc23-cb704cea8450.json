@@ -1,0 +1,50 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/fs/ensure_symlink.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3561, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveSymlinkTarget",
+      "ranges": [
+        { "startOffset": 387, "endOffset": 656, "count": 18 },
+        { "startOffset": 471, "endOffset": 485, "count": 0 },
+        { "startOffset": 605, "endOffset": 654, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureSymlink",
+      "ranges": [
+        { "startOffset": 1047, "endOffset": 2114, "count": 9 },
+        { "startOffset": 1216, "endOffset": 1353, "count": 8 },
+        { "startOffset": 1353, "endOffset": 1413, "count": 0 },
+        { "startOffset": 1414, "endOffset": 1425, "count": 8 },
+        { "startOffset": 1485, "endOffset": 1490, "count": 3 },
+        { "startOffset": 1490, "endOffset": 2112, "count": 5 },
+        { "startOffset": 1561, "endOffset": 1587, "count": 0 },
+        { "startOffset": 1674, "endOffset": 1829, "count": 2 },
+        { "startOffset": 1829, "endOffset": 1967, "count": 3 },
+        { "startOffset": 1967, "endOffset": 2108, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureSymlinkSync",
+      "ranges": [
+        { "startOffset": 2505, "endOffset": 3560, "count": 9 },
+        { "startOffset": 2805, "endOffset": 2865, "count": 0 },
+        { "startOffset": 2866, "endOffset": 2877, "count": 8 },
+        { "startOffset": 2940, "endOffset": 3558, "count": 5 },
+        { "startOffset": 3011, "endOffset": 3037, "count": 0 },
+        { "startOffset": 3122, "endOffset": 3277, "count": 2 },
+        { "startOffset": 3277, "endOffset": 3413, "count": 3 },
+        { "startOffset": 3413, "endOffset": 3554, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

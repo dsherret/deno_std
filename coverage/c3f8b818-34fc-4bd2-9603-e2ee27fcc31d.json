@@ -1,0 +1,33 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/webgpu/_test_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1339, "count": 1 },
+        { "startOffset": 509, "endOffset": 517, "count": 0 },
+        { "startOffset": 531, "endOffset": 556, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkIsWsl",
+      "ranges": [
+        { "startOffset": 75, "endOffset": 464, "count": 1 },
+        { "startOffset": 140, "endOffset": 174, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasMicrosoftProcVersion",
+      "ranges": [{ "startOffset": 178, "endOffset": 462, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cleanUp",
+      "ranges": [{ "startOffset": 953, "endOffset": 1338, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

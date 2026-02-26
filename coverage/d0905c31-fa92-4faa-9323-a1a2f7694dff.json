@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/bytes/starts_with.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 706, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "startsWith",
+      "ranges": [
+        { "startOffset": 547, "endOffset": 705, "count": 3 },
+        { "startOffset": 636, "endOffset": 688, "count": 6 },
+        { "startOffset": 671, "endOffset": 684, "count": 2 },
+        { "startOffset": 688, "endOffset": 704, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

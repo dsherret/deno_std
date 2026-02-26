@@ -1,0 +1,70 @@
+{
+  "scriptId": "439",
+  "url": "file:///Users/david/dev/deno_std/yaml/schema.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2567, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compileList",
+      "ranges": [
+        { "startOffset": 346, "endOffset": 938, "count": 30 },
+        { "startOffset": 459, "endOffset": 520, "count": 20 },
+        { "startOffset": 562, "endOffset": 870, "count": 45 },
+        { "startOffset": 642, "endOffset": 836, "count": 108 },
+        { "startOffset": 741, "endOffset": 782, "count": 0 },
+        { "startOffset": 784, "endOffset": 830, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 894, "endOffset": 934, "count": 105 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compileMap",
+      "ranges": [
+        { "startOffset": 939, "endOffset": 1275, "count": 5 },
+        { "startOffset": 1099, "endOffset": 1256, "count": 10 },
+        { "startOffset": 1130, "endOffset": 1252, "count": 45 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1296, "endOffset": 2566, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<static_initializer>",
+      "ranges": [{ "startOffset": 1296, "endOffset": 2566, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Schema",
+      "ranges": [
+        { "startOffset": 1419, "endOffset": 2051, "count": 5 },
+        { "startOffset": 1484, "endOffset": 1489, "count": 2 },
+        { "startOffset": 1531, "endOffset": 1536, "count": 3 },
+        { "startOffset": 1576, "endOffset": 1581, "count": 1 },
+        { "startOffset": 1620, "endOffset": 1836, "count": 6 },
+        { "startOffset": 1646, "endOffset": 1675, "count": 0 },
+        { "startOffset": 1677, "endOffset": 1830, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extend",
+      "ranges": [{ "startOffset": 2110, "endOffset": 2543, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 2553, "endOffset": 2564, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

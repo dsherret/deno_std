@@ -1,0 +1,74 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/partition_entries_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2032, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntriesTest",
+      "ranges": [{ "startOffset": 183, "endOffset": 330, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 395, "endOffset": 573, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 486, "endOffset": 506, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 642, "endOffset": 741, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 693, "endOffset": 701, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 807, "endOffset": 1030, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntriesTest.foo",
+      "ranges": [{ "startOffset": 920, "endOffset": 928, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1100, "endOffset": 1286, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntriesTest.test",
+      "ranges": [{ "startOffset": 1194, "endOffset": 1203, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1351, "endOffset": 2027, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntriesTest.Karen",
+      "ranges": [
+        { "startOffset": 1511, "endOffset": 1558, "count": 5 },
+        { "startOffset": 1547, "endOffset": 1558, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntriesTest.A",
+      "ranges": [{ "startOffset": 1850, "endOffset": 1884, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

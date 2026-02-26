@@ -1,0 +1,36 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/net/get_available_port_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 910, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "testWithPort",
+      "ranges": [{ "startOffset": 267, "endOffset": 590, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "onListen",
+      "ranges": [{ "startOffset": 347, "endOffset": 530, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 536, "endOffset": 561, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 646, "endOffset": 722, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 802, "endOffset": 907, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

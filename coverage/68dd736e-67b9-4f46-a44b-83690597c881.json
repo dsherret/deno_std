@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/expect/_to_contain_equal_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 217, "endOffset": 627, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 441, "endOffset": 505, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 539, "endOffset": 607, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

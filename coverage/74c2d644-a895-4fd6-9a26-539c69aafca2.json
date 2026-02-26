@@ -1,0 +1,42 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/datetime/difference.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2894, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "calculateMonthsDifference",
+      "ranges": [{ "startOffset": 179, "endOffset": 398, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "difference",
+      "ranges": [
+        { "startOffset": 1313, "endOffset": 2893, "count": 6 },
+        { "startOffset": 1379, "endOffset": 1403, "count": 2 },
+        { "startOffset": 1404, "endOffset": 1428, "count": 4 },
+        { "startOffset": 1459, "endOffset": 1466, "count": 3 },
+        { "startOffset": 1467, "endOffset": 1505, "count": 3 },
+        { "startOffset": 1506, "endOffset": 1643, "count": 3 },
+        { "startOffset": 1776, "endOffset": 2869, "count": 38 },
+        { "startOffset": 1808, "endOffset": 1894, "count": 4 },
+        { "startOffset": 1901, "endOffset": 1998, "count": 4 },
+        { "startOffset": 2005, "endOffset": 2102, "count": 4 },
+        { "startOffset": 2109, "endOffset": 2200, "count": 4 },
+        { "startOffset": 2207, "endOffset": 2295, "count": 4 },
+        { "startOffset": 2302, "endOffset": 2393, "count": 4 },
+        { "startOffset": 2400, "endOffset": 2495, "count": 4 },
+        { "startOffset": 2502, "endOffset": 2679, "count": 5 },
+        { "startOffset": 2594, "endOffset": 2619, "count": 4 },
+        { "startOffset": 2620, "endOffset": 2662, "count": 1 },
+        { "startOffset": 2686, "endOffset": 2859, "count": 5 },
+        { "startOffset": 2772, "endOffset": 2798, "count": 4 },
+        { "startOffset": 2799, "endOffset": 2842, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

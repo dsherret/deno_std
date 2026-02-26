@@ -1,0 +1,21 @@
+{
+  "scriptId": "306",
+  "url": "file:///var/folders/v4/3smqxpkj0dx9w4cqs40nmh3c0000gn/T/587daf6131d73357/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 265, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 122, "endOffset": 172, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 211, "endOffset": 262, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

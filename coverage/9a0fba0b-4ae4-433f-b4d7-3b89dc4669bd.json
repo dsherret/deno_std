@@ -1,0 +1,16 @@
+{
+  "scriptId": "415",
+  "url": "file:///Users/david/dev/deno_std/path/_common/relative.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 269, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertArgs",
+      "ranges": [{ "startOffset": 167, "endOffset": 268, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

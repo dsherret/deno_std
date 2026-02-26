@@ -1,0 +1,141 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/fs/copy.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8333, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureValidCopy",
+      "ranges": [
+        { "startOffset": 519, "endOffset": 1006, "count": 16 },
+        { "startOffset": 634, "endOffset": 738, "count": 8 },
+        { "startOffset": 719, "endOffset": 738, "count": 0 },
+        { "startOffset": 738, "endOffset": 762, "count": 8 },
+        { "startOffset": 762, "endOffset": 786, "count": 4 },
+        { "startOffset": 788, "endOffset": 883, "count": 1 },
+        { "startOffset": 883, "endOffset": 910, "count": 7 },
+        { "startOffset": 910, "endOffset": 985, "count": 2 },
+        { "startOffset": 985, "endOffset": 1005, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureValidCopySync",
+      "ranges": [
+        { "startOffset": 1007, "endOffset": 1490, "count": 16 },
+        { "startOffset": 1123, "endOffset": 1222, "count": 8 },
+        { "startOffset": 1203, "endOffset": 1222, "count": 0 },
+        { "startOffset": 1222, "endOffset": 1246, "count": 8 },
+        { "startOffset": 1246, "endOffset": 1270, "count": 4 },
+        { "startOffset": 1272, "endOffset": 1367, "count": 1 },
+        { "startOffset": 1367, "endOffset": 1394, "count": 7 },
+        { "startOffset": 1394, "endOffset": 1469, "count": 2 },
+        { "startOffset": 1469, "endOffset": 1489, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyFile",
+      "ranges": [
+        { "startOffset": 1515, "endOffset": 1938, "count": 8 },
+        { "startOffset": 1605, "endOffset": 1674, "count": 7 },
+        { "startOffset": 1674, "endOffset": 1936, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyFileSync",
+      "ranges": [
+        { "startOffset": 1977, "endOffset": 2390, "count": 8 },
+        { "startOffset": 2130, "endOffset": 2388, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copySymLink",
+      "ranges": [
+        { "startOffset": 2418, "endOffset": 3105, "count": 2 },
+        { "startOffset": 2638, "endOffset": 2745, "count": 0 },
+        { "startOffset": 2840, "endOffset": 3103, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copySymlinkSync",
+      "ranges": [
+        { "startOffset": 3147, "endOffset": 3818, "count": 2 },
+        { "startOffset": 3359, "endOffset": 3464, "count": 0 },
+        { "startOffset": 3557, "endOffset": 3816, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyDir",
+      "ranges": [
+        { "startOffset": 3855, "endOffset": 4894, "count": 6 },
+        { "startOffset": 3994, "endOffset": 4012, "count": 4 },
+        { "startOffset": 4012, "endOffset": 4044, "count": 2 },
+        { "startOffset": 4044, "endOffset": 4079, "count": 4 },
+        { "startOffset": 4079, "endOffset": 4356, "count": 0 },
+        { "startOffset": 4356, "endOffset": 4482, "count": 4 },
+        { "startOffset": 4604, "endOffset": 4673, "count": 0 },
+        { "startOffset": 4702, "endOffset": 4767, "count": 2 },
+        { "startOffset": 4767, "endOffset": 4857, "count": 4 },
+        { "startOffset": 4861, "endOffset": 4893, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyDirSync",
+      "ranges": [
+        { "startOffset": 4944, "endOffset": 5884, "count": 6 },
+        { "startOffset": 5097, "endOffset": 5127, "count": 2 },
+        { "startOffset": 5127, "endOffset": 5162, "count": 4 },
+        { "startOffset": 5162, "endOffset": 5435, "count": 0 },
+        { "startOffset": 5435, "endOffset": 5536, "count": 4 },
+        { "startOffset": 5658, "endOffset": 5716, "count": 0 },
+        { "startOffset": 5745, "endOffset": 5799, "count": 2 },
+        { "startOffset": 5799, "endOffset": 5878, "count": 4 },
+        { "startOffset": 5882, "endOffset": 5883, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        { "startOffset": 6500, "endOffset": 7117, "count": 13 },
+        { "startOffset": 6641, "endOffset": 6713, "count": 1 },
+        { "startOffset": 6713, "endOffset": 6754, "count": 12 },
+        { "startOffset": 6754, "endOffset": 6781, "count": 11 },
+        { "startOffset": 6781, "endOffset": 6803, "count": 5 },
+        { "startOffset": 6805, "endOffset": 6895, "count": 1 },
+        { "startOffset": 6895, "endOffset": 6921, "count": 10 },
+        { "startOffset": 6921, "endOffset": 6969, "count": 2 },
+        { "startOffset": 6969, "endOffset": 7115, "count": 8 },
+        { "startOffset": 7000, "endOffset": 7044, "count": 4 },
+        { "startOffset": 7040, "endOffset": 7044, "count": 2 },
+        { "startOffset": 7044, "endOffset": 7115, "count": 4 },
+        { "startOffset": 7111, "endOffset": 7115, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copySync",
+      "ranges": [
+        { "startOffset": 7725, "endOffset": 8332, "count": 13 },
+        { "startOffset": 7864, "endOffset": 7936, "count": 1 },
+        { "startOffset": 7936, "endOffset": 8002, "count": 12 },
+        { "startOffset": 8002, "endOffset": 8024, "count": 5 },
+        { "startOffset": 8026, "endOffset": 8116, "count": 1 },
+        { "startOffset": 8116, "endOffset": 8142, "count": 10 },
+        { "startOffset": 8142, "endOffset": 8188, "count": 2 },
+        { "startOffset": 8188, "endOffset": 8330, "count": 8 },
+        { "startOffset": 8219, "endOffset": 8330, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

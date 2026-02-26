@@ -1,0 +1,42 @@
+{
+  "scriptId": "360",
+  "url": "file:///Users/david/dev/deno_std/path/windows/dirname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2838, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dirname",
+      "ranges": [
+        { "startOffset": 500, "endOffset": 2837, "count": 16 },
+        { "startOffset": 727, "endOffset": 2278, "count": 15 },
+        { "startOffset": 760, "endOffset": 2009, "count": 5 },
+        { "startOffset": 864, "endOffset": 2003, "count": 4 },
+        { "startOffset": 1035, "endOffset": 1104, "count": 26 },
+        { "startOffset": 1088, "endOffset": 1094, "count": 4 },
+        { "startOffset": 1258, "endOffset": 1332, "count": 8 },
+        { "startOffset": 1314, "endOffset": 1320, "count": 4 },
+        { "startOffset": 1500, "endOffset": 1577, "count": 31 },
+        { "startOffset": 1557, "endOffset": 1563, "count": 4 },
+        { "startOffset": 1605, "endOffset": 1691, "count": 0 },
+        { "startOffset": 2009, "endOffset": 2274, "count": 10 },
+        { "startOffset": 2046, "endOffset": 2274, "count": 9 },
+        { "startOffset": 2123, "endOffset": 2268, "count": 8 },
+        { "startOffset": 2176, "endOffset": 2260, "count": 7 },
+        { "startOffset": 2229, "endOffset": 2250, "count": 4 },
+        { "startOffset": 2278, "endOffset": 2423, "count": 1 },
+        { "startOffset": 2423, "endOffset": 2464, "count": 15 },
+        { "startOffset": 2464, "endOffset": 2675, "count": 76 },
+        { "startOffset": 2511, "endOffset": 2585, "count": 6 },
+        { "startOffset": 2585, "endOffset": 2671, "count": 70 },
+        { "startOffset": 2675, "endOffset": 2694, "count": 15 },
+        { "startOffset": 2694, "endOffset": 2759, "count": 9 },
+        { "startOffset": 2720, "endOffset": 2731, "count": 0 },
+        { "startOffset": 2759, "endOffset": 2836, "count": 15 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

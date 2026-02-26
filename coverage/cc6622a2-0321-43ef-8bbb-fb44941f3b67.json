@@ -1,0 +1,16 @@
+{
+  "scriptId": "403",
+  "url": "file:///Users/david/dev/deno_std/path/posix/to_namespaced_path.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 284, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toNamespacedPath",
+      "ranges": [{ "startOffset": 204, "endOffset": 283, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

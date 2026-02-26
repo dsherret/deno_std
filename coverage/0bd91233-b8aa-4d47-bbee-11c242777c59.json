@@ -1,0 +1,38 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/datetime/is_leap.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2841, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isLeap",
+      "ranges": [
+        { "startOffset": 1133, "endOffset": 1273, "count": 9 },
+        { "startOffset": 1199, "endOffset": 1219, "count": 5 },
+        { "startOffset": 1220, "endOffset": 1226, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUtcLeap",
+      "ranges": [
+        { "startOffset": 2564, "endOffset": 2710, "count": 13 },
+        { "startOffset": 2633, "endOffset": 2656, "count": 9 },
+        { "startOffset": 2657, "endOffset": 2663, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isYearNumberALeapYear",
+      "ranges": [
+        { "startOffset": 2711, "endOffset": 2840, "count": 22 },
+        { "startOffset": 2786, "endOffset": 2811, "count": 14 },
+        { "startOffset": 2812, "endOffset": 2837, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

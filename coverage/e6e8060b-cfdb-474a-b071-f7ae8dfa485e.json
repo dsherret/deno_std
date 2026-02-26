@@ -1,0 +1,16 @@
+{
+  "scriptId": "345",
+  "url": "file:///Users/david/dev/deno_std/crypto/_fnv/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 582, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fnv",
+      "ranges": [{ "startOffset": 208, "endOffset": 581, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

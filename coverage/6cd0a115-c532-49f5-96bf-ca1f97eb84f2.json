@@ -1,0 +1,47 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/streams/text_line_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1795, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 665, "endOffset": 1794, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TextLineStream",
+      "ranges": [{ "startOffset": 724, "endOffset": 1792, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [
+        { "startOffset": 802, "endOffset": 1521, "count": 2 },
+        { "startOffset": 887, "endOffset": 1478, "count": 8 },
+        { "startOffset": 978, "endOffset": 999, "count": 0 },
+        { "startOffset": 1035, "endOffset": 1066, "count": 0 },
+        { "startOffset": 1067, "endOffset": 1111, "count": 0 },
+        { "startOffset": 1113, "endOffset": 1251, "count": 0 },
+        { "startOffset": 1282, "endOffset": 1288, "count": 2 },
+        { "startOffset": 1288, "endOffset": 1344, "count": 6 },
+        { "startOffset": 1344, "endOffset": 1357, "count": 0 },
+        { "startOffset": 1358, "endOffset": 1367, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flush",
+      "ranges": [
+        { "startOffset": 1536, "endOffset": 1780, "count": 2 },
+        { "startOffset": 1597, "endOffset": 1677, "count": 0 },
+        { "startOffset": 1678, "endOffset": 1710, "count": 0 },
+        { "startOffset": 1711, "endOffset": 1730, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

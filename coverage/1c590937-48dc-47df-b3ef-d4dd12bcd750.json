@@ -1,0 +1,24 @@
+{
+  "scriptId": "395",
+  "url": "file:///Users/david/dev/deno_std/path/posix/resolve.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1519, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [
+        { "startOffset": 383, "endOffset": 1518, "count": 1 },
+        { "startOffset": 523, "endOffset": 543, "count": 3 },
+        { "startOffset": 549, "endOffset": 1062, "count": 2 },
+        { "startOffset": 604, "endOffset": 848, "count": 0 },
+        { "startOffset": 924, "endOffset": 947, "count": 0 },
+        { "startOffset": 1417, "endOffset": 1438, "count": 0 },
+        { "startOffset": 1442, "endOffset": 1516, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

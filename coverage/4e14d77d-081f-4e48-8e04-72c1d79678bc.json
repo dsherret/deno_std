@@ -1,0 +1,26 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/aggregate_groups.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1530, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "aggregateGroups",
+      "ranges": [{ "startOffset": 1179, "endOffset": 1529, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1254, "endOffset": 1525, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1412, "endOffset": 1507, "count": 16 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

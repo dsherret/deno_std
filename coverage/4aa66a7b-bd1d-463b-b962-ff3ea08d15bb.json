@@ -1,0 +1,11 @@
+{
+  "scriptId": "348",
+  "url": "file:///var/folders/v4/3smqxpkj0dx9w4cqs40nmh3c0000gn/T/587daf6131d73357/__snapshots__/test.ts.snap",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 87, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

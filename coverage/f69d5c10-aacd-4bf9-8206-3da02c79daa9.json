@@ -1,0 +1,16 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/path/posix/_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 372, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isPosixPathSeparator",
+      "ranges": [{ "startOffset": 294, "endOffset": 371, "count": 122 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

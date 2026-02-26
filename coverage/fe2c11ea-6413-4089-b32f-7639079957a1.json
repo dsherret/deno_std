@@ -1,0 +1,16 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/uuid/constants_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 515, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 316, "endOffset": 512, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/archive/tar.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9583, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1722, "endOffset": 2081, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FileReader",
+      "ranges": [{ "startOffset": 1747, "endOffset": 1803, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        { "startOffset": 1806, "endOffset": 2079, "count": 8 },
+        { "startOffset": 1843, "endOffset": 1931, "count": 4 },
+        { "startOffset": 1996, "endOffset": 2059, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clean",
+      "ranges": [{ "startOffset": 2170, "endOffset": 2254, "count": 40 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pad",
+      "ranges": [{ "startOffset": 2255, "endOffset": 2407, "count": 96 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatHeader",
+      "ranges": [{ "startOffset": 2461, "endOffset": 2797, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2610, "endOffset": 2776, "count": 256 },
+        { "startOffset": 2679, "endOffset": 2684, "count": 112 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 4860, "endOffset": 9582, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Tar",
+      "ranges": [{ "startOffset": 4872, "endOffset": 4910, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "append",
+      "ranges": [
+        { "startOffset": 5615, "endOffset": 8775, "count": 16 },
+        { "startOffset": 5704, "endOffset": 5761, "count": 0 },
+        { "startOffset": 6260, "endOffset": 6913, "count": 0 },
+        { "startOffset": 6934, "endOffset": 6939, "count": 0 },
+        { "startOffset": 7001, "endOffset": 7154, "count": 4 },
+        { "startOffset": 7078, "endOffset": 7148, "count": 0 },
+        { "startOffset": 7196, "endOffset": 7208, "count": 4 },
+        { "startOffset": 7209, "endOffset": 7238, "count": 12 },
+        { "startOffset": 7301, "endOffset": 7308, "count": 4 },
+        { "startOffset": 7309, "endOffset": 7322, "count": 12 },
+        { "startOffset": 7450, "endOffset": 7478, "count": 0 },
+        { "startOffset": 7480, "endOffset": 7571, "count": 0 },
+        { "startOffset": 7613, "endOffset": 7641, "count": 0 },
+        { "startOffset": 7643, "endOffset": 7734, "count": 0 },
+        { "startOffset": 7760, "endOffset": 7766, "count": 4 },
+        { "startOffset": 7767, "endOffset": 7788, "count": 12 },
+        { "startOffset": 7879, "endOffset": 7903, "count": 0 },
+        { "startOffset": 7910, "endOffset": 7923, "count": 4 },
+        { "startOffset": 7924, "endOffset": 7945, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8513, "endOffset": 8583, "count": 224 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8593, "endOffset": 8687, "count": 192 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8663, "endOffset": 8676, "count": 1112 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getReader",
+      "ranges": [{ "startOffset": 8837, "endOffset": 9580, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 8897, "endOffset": 9451, "count": 16 },
+        { "startOffset": 9087, "endOffset": 9179, "count": 4 },
+        { "startOffset": 9424, "endOffset": 9440, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

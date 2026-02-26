@@ -1,0 +1,74 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/filter_entries_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1691, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterEntriesTest",
+      "ranges": [{ "startOffset": 177, "endOffset": 318, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 380, "endOffset": 555, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 468, "endOffset": 488, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 621, "endOffset": 693, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 669, "endOffset": 677, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 756, "endOffset": 944, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterEntriesTest.foo",
+      "ranges": [{ "startOffset": 866, "endOffset": 874, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1011, "endOffset": 1127, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1102, "endOffset": 1111, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1189, "endOffset": 1686, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterEntriesTest.Karen",
+      "ranges": [
+        { "startOffset": 1346, "endOffset": 1393, "count": 5 },
+        { "startOffset": 1382, "endOffset": 1393, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterEntriesTest.A",
+      "ranges": [{ "startOffset": 1584, "endOffset": 1618, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

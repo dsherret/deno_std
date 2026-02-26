@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/path/is_absolute_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1779, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 401, "endOffset": 623, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 660, "endOffset": 1662, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1723, "endOffset": 1776, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

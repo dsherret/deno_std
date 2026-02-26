@@ -1,0 +1,25 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/fs/_is_subdir_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1281, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 430, "endOffset": 1278, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1107, "endOffset": 1274, "count": 8 },
+        { "startOffset": 1227, "endOffset": 1231, "count": 4 },
+        { "startOffset": 1232, "endOffset": 1239, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

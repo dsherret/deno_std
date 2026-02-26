@@ -1,0 +1,21 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/async/deadline.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1636, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DeadlineError",
+      "ranges": [{ "startOffset": 484, "endOffset": 564, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deadline",
+      "ranges": [{ "startOffset": 1146, "endOffset": 1635, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

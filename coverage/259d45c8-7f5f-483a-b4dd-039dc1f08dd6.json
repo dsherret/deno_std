@@ -1,0 +1,40 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/encoding/base64url.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2213, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addPaddingToBase64url",
+      "ranges": [{ "startOffset": 495, "endOffset": 771, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertBase64urlToBase64",
+      "ranges": [{ "startOffset": 772, "endOffset": 1076, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertBase64ToBase64url",
+      "ranges": [
+        { "startOffset": 1077, "endOffset": 1332, "count": 32 },
+        { "startOffset": 1166, "endOffset": 1224, "count": 0 },
+        { "startOffset": 1284, "endOffset": 1329, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encodeBase64Url",
+      "ranges": [{ "startOffset": 1671, "endOffset": 1767, "count": 32 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decodeBase64Url",
+      "ranges": [{ "startOffset": 2112, "endOffset": 2212, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

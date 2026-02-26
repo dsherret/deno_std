@@ -1,0 +1,16 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/yaml/stringify.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 549, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringify",
+      "ranges": [{ "startOffset": 483, "endOffset": 548, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

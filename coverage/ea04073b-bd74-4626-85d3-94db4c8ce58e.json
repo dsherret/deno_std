@@ -1,0 +1,30 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/path/basename_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5841, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 4425, "endOffset": 5344, "count": 1 },
+        { "startOffset": 4501, "endOffset": 4558, "count": 19 },
+        { "startOffset": 4618, "endOffset": 4681, "count": 27 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 5379, "endOffset": 5838, "count": 1 },
+        { "startOffset": 5451, "endOffset": 5516, "count": 23 },
+        { "startOffset": 5646, "endOffset": 5711, "count": 19 },
+        { "startOffset": 5771, "endOffset": 5836, "count": 27 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

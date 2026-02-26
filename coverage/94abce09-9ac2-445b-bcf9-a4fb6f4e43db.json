@@ -1,0 +1,23 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/io/copy.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1350, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        { "startOffset": 876, "endOffset": 1349, "count": 1 },
+        { "startOffset": 955, "endOffset": 964, "count": 0 },
+        { "startOffset": 1073, "endOffset": 1335, "count": 3 },
+        { "startOffset": 1138, "endOffset": 1166, "count": 1 },
+        { "startOffset": 1166, "endOffset": 1331, "count": 2 },
+        { "startOffset": 1228, "endOffset": 1304, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

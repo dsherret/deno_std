@@ -1,0 +1,21 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/crypto/_fnv/util_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2556, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 190, "endOffset": 896, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 920, "endOffset": 2553, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

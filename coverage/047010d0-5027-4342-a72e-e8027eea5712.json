@@ -1,0 +1,16 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/media_types/format_media_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1720, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatMediaType",
+      "ranges": [{ "startOffset": 713, "endOffset": 1719, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

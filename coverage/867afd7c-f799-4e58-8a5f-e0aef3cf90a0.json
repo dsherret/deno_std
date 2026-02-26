@@ -1,0 +1,16 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/readable_stream_from_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1027, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readableStreamFromReader",
+      "ranges": [{ "startOffset": 923, "endOffset": 1026, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

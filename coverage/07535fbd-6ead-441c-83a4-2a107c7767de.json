@@ -1,0 +1,21 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/text/_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 396, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "splitToWords",
+      "ranges": [{ "startOffset": 82, "endOffset": 263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "capitalizeWord",
+      "ranges": [{ "startOffset": 271, "endOffset": 395, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

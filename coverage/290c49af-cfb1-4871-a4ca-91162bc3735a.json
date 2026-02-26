@@ -1,0 +1,16 @@
+{
+  "scriptId": "347",
+  "url": "file:///Users/david/dev/deno_std/url/_strip.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 356, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "strip",
+      "ranges": [{ "startOffset": 296, "endOffset": 355, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

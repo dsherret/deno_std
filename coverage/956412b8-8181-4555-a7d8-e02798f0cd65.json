@@ -1,0 +1,89 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/crypto/crypto.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3198, "endOffset": 4082, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bufferSourceBytes",
+      "ranges": [
+        { "startOffset": 4130, "endOffset": 4422, "count": 5601 },
+        { "startOffset": 4187, "endOffset": 4210, "count": 1858 },
+        { "startOffset": 4210, "endOffset": 4404, "count": 3743 },
+        { "startOffset": 4246, "endOffset": 4326, "count": 245 },
+        { "startOffset": 4326, "endOffset": 4404, "count": 3498 },
+        { "startOffset": 4365, "endOffset": 4404, "count": 139 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4614, "endOffset": 4620, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digest",
+      "ranges": [
+        { "startOffset": 4834, "endOffset": 6825, "count": 1739 },
+        { "startOffset": 5054, "endOffset": 5096, "count": 0 },
+        { "startOffset": 5096, "endOffset": 5267, "count": 1658 },
+        { "startOffset": 5267, "endOffset": 5317, "count": 249 },
+        { "startOffset": 5319, "endOffset": 5386, "count": 1 },
+        { "startOffset": 5386, "endOffset": 6819, "count": 1657 },
+        { "startOffset": 5454, "endOffset": 5650, "count": 3 },
+        { "startOffset": 5650, "endOffset": 6357, "count": 1654 },
+        { "startOffset": 5683, "endOffset": 5757, "count": 1649 },
+        { "startOffset": 5757, "endOffset": 6357, "count": 5 },
+        { "startOffset": 5948, "endOffset": 6180, "count": 8 },
+        { "startOffset": 6036, "endOffset": 6128, "count": 0 },
+        { "startOffset": 6245, "endOffset": 6357, "count": 0 },
+        { "startOffset": 6365, "endOffset": 6819, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digestSync",
+      "ranges": [
+        { "startOffset": 6831, "endOffset": 7740, "count": 1660 },
+        { "startOffset": 7049, "endOffset": 7091, "count": 4 },
+        { "startOffset": 7091, "endOffset": 7153, "count": 1656 },
+        { "startOffset": 7153, "endOffset": 7224, "count": 5 },
+        { "startOffset": 7224, "endOffset": 7734, "count": 1651 },
+        { "startOffset": 7352, "endOffset": 7572, "count": 2275 },
+        { "startOffset": 7436, "endOffset": 7524, "count": 54 },
+        { "startOffset": 7524, "endOffset": 7572, "count": 2221 },
+        { "startOffset": 7572, "endOffset": 7633, "count": 1597 },
+        { "startOffset": 7633, "endOffset": 7734, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertValidDigestLength",
+      "ranges": [
+        { "startOffset": 8400, "endOffset": 8649, "count": 3399 },
+        { "startOffset": 8468, "endOffset": 8539, "count": 2353 },
+        { "startOffset": 8482, "endOffset": 8510, "count": 2326 },
+        { "startOffset": 8511, "endOffset": 8538, "count": 2299 },
+        { "startOffset": 8541, "endOffset": 8647, "count": 81 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeAlgorithm",
+      "ranges": [
+        { "startOffset": 8650, "endOffset": 8839, "count": 3399 },
+        { "startOffset": 8730, "endOffset": 8771, "count": 20 },
+        { "startOffset": 8772, "endOffset": 8836, "count": 3379 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

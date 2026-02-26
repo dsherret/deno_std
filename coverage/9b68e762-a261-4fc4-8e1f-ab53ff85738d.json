@@ -1,0 +1,16 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/semver/is_semver.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1354, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSemVer",
+      "ranges": [{ "startOffset": 810, "endOffset": 1353, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

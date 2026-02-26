@@ -1,0 +1,109 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/io/buf_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 12520, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 559, "endOffset": 698, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 900, "endOffset": 1030, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1211, "endOffset": 12519, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 1389, "endOffset": 1493, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufReader",
+      "ranges": [
+        { "startOffset": 1496, "endOffset": 1648, "count": 2 },
+        { "startOffset": 1567, "endOffset": 1601, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "size",
+      "ranges": [{ "startOffset": 1710, "endOffset": 1755, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buffered",
+      "ranges": [{ "startOffset": 1758, "endOffset": 1804, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#fill",
+      "ranges": [
+        { "startOffset": 1855, "endOffset": 2588, "count": 2 },
+        { "startOffset": 1929, "endOffset": 2030, "count": 0 },
+        { "startOffset": 2072, "endOffset": 2134, "count": 0 },
+        { "startOffset": 2336, "endOffset": 2387, "count": 0 },
+        { "startOffset": 2498, "endOffset": 2587, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reset",
+      "ranges": [{ "startOffset": 2702, "endOffset": 2747, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#reset",
+      "ranges": [{ "startOffset": 2759, "endOffset": 2892, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [{ "startOffset": 3143, "endOffset": 4144, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFull",
+      "ranges": [{ "startOffset": 4753, "endOffset": 5272, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readByte",
+      "ranges": [
+        { "startOffset": 5324, "endOffset": 5553, "count": 16 },
+        { "startOffset": 5373, "endOffset": 5460, "count": 2 },
+        { "startOffset": 5396, "endOffset": 5408, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readString",
+      "ranges": [{ "startOffset": 6024, "endOffset": 6299, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLine",
+      "ranges": [{ "startOffset": 7434, "endOffset": 8995, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readSlice",
+      "ranges": [{ "startOffset": 9822, "endOffset": 11205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "peek",
+      "ranges": [{ "startOffset": 11775, "endOffset": 12517, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

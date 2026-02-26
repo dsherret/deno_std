@@ -1,0 +1,43 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/media_types/format_media_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1720, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatMediaType",
+      "ranges": [
+        { "startOffset": 713, "endOffset": 1719, "count": 19 },
+        { "startOffset": 824, "endOffset": 907, "count": 5 },
+        { "startOffset": 850, "endOffset": 874, "count": 0 },
+        { "startOffset": 907, "endOffset": 1041, "count": 14 },
+        { "startOffset": 939, "endOffset": 955, "count": 13 },
+        { "startOffset": 957, "endOffset": 981, "count": 2 },
+        { "startOffset": 981, "endOffset": 1041, "count": 12 },
+        { "startOffset": 1041, "endOffset": 1055, "count": 17 },
+        { "startOffset": 1055, "endOffset": 1705, "count": 16 },
+        { "startOffset": 1087, "endOffset": 1114, "count": 0 },
+        { "startOffset": 1214, "endOffset": 1701, "count": 19 },
+        { "startOffset": 1247, "endOffset": 1275, "count": 2 },
+        { "startOffset": 1275, "endOffset": 1420, "count": 17 },
+        { "startOffset": 1420, "endOffset": 1447, "count": 5 },
+        { "startOffset": 1447, "endOffset": 1483, "count": 17 },
+        { "startOffset": 1483, "endOffset": 1562, "count": 5 },
+        { "startOffset": 1562, "endOffset": 1589, "count": 12 },
+        { "startOffset": 1589, "endOffset": 1636, "count": 7 },
+        { "startOffset": 1636, "endOffset": 1701, "count": 5 },
+        { "startOffset": 1701, "endOffset": 1705, "count": 14 },
+        { "startOffset": 1705, "endOffset": 1718, "count": 15 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1677, "endOffset": 1690, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

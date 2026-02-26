@@ -1,0 +1,32 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/log/levels.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1182, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 413, "endOffset": 438, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getLevelByName",
+      "ranges": [
+        { "startOffset": 748, "endOffset": 924, "count": 24 },
+        { "startOffset": 863, "endOffset": 923, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getLevelName",
+      "ranges": [
+        { "startOffset": 1006, "endOffset": 1181, "count": 41 },
+        { "startOffset": 1117, "endOffset": 1180, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

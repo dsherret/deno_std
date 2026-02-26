@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/partition_entries.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1188, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partitionEntries",
+      "ranges": [
+        { "startOffset": 856, "endOffset": 1187, "count": 6 },
+        { "startOffset": 1021, "endOffset": 1149, "count": 17 },
+        { "startOffset": 1074, "endOffset": 1107, "count": 9 },
+        { "startOffset": 1107, "endOffset": 1145, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

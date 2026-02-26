@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/merge_readable_streams_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1303, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 228, "endOffset": 748, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 802, "endOffset": 1300, "count": 1 },
+        { "startOffset": 1045, "endOffset": 1136, "count": 2 },
+        { "startOffset": 1087, "endOffset": 1130, "count": 1 },
+        { "startOffset": 1136, "endOffset": 1184, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

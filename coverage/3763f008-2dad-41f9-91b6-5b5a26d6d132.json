@@ -1,0 +1,16 @@
+{
+  "scriptId": "349",
+  "url": "file:///Users/david/dev/deno_std/yaml/_mark.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1733, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 323, "endOffset": 1732, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

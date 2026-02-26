@@ -1,0 +1,20 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/path/posix/normalize_glob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeGlob",
+      "ranges": [
+        { "startOffset": 296, "endOffset": 709, "count": 1 },
+        { "startOffset": 379, "endOffset": 452, "count": 0 },
+        { "startOffset": 470, "endOffset": 503, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

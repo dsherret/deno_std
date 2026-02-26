@@ -1,0 +1,51 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/http/server_sent_event_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2072, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertHasNoNewline",
+      "ranges": [
+        { "startOffset": 185, "endOffset": 347, "count": 16 },
+        { "startOffset": 275, "endOffset": 345, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringify",
+      "ranges": [
+        { "startOffset": 559, "endOffset": 1211, "count": 16 },
+        { "startOffset": 632, "endOffset": 738, "count": 5 },
+        { "startOffset": 738, "endOffset": 760, "count": 13 },
+        { "startOffset": 760, "endOffset": 865, "count": 5 },
+        { "startOffset": 865, "endOffset": 886, "count": 10 },
+        { "startOffset": 886, "endOffset": 975, "count": 2 },
+        { "startOffset": 975, "endOffset": 994, "count": 10 },
+        { "startOffset": 994, "endOffset": 1098, "count": 6 },
+        { "startOffset": 1098, "endOffset": 1120, "count": 7 },
+        { "startOffset": 1120, "endOffset": 1157, "count": 2 },
+        { "startOffset": 1157, "endOffset": 1210, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 935, "endOffset": 969, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerSentEventStream",
+      "ranges": [{ "startOffset": 1933, "endOffset": 2069, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 1977, "endOffset": 2057, "count": 16 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

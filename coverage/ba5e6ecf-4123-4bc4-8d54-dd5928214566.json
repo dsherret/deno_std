@@ -1,0 +1,16 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/to_text_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 546, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 195, "endOffset": 543, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

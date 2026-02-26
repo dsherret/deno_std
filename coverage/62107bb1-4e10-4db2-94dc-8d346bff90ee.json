@@ -1,0 +1,41 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/path/join_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6847, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6101, "endOffset": 6255, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6134, "endOffset": 6251, "count": 47 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6286, "endOffset": 6617, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6319, "endOffset": 6464, "count": 47 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6494, "endOffset": 6613, "count": 34 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6670, "endOffset": 6844, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/front_matter/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1297, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "test",
+      "ranges": [
+        { "startOffset": 901, "endOffset": 1296, "count": 36 },
+        { "startOffset": 947, "endOffset": 1007, "count": 35 },
+        { "startOffset": 1039, "endOffset": 1278, "count": 95 },
+        { "startOffset": 1071, "endOffset": 1155, "count": 1 },
+        { "startOffset": 1155, "endOffset": 1233, "count": 94 },
+        { "startOffset": 1233, "endOffset": 1240, "count": 11 },
+        { "startOffset": 1248, "endOffset": 1274, "count": 10 },
+        { "startOffset": 1278, "endOffset": 1295, "count": 25 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

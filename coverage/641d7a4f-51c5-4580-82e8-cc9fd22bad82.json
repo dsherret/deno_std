@@ -1,0 +1,23 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/io/read_lines.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1285, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readLines",
+      "ranges": [
+        { "startOffset": 801, "endOffset": 1284, "count": 4 },
+        { "startOffset": 957, "endOffset": 967, "count": 1 },
+        { "startOffset": 996, "endOffset": 1282, "count": 39 },
+        { "startOffset": 1056, "endOffset": 1161, "count": 4 },
+        { "startOffset": 1087, "endOffset": 1142, "count": 0 },
+        { "startOffset": 1161, "endOffset": 1278, "count": 35 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

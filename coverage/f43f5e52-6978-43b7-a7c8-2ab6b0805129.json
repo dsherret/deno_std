@@ -1,0 +1,40 @@
+{
+  "scriptId": "417",
+  "url": "file:///Users/david/dev/deno_std/path/_common/normalize_string.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2154, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeString",
+      "ranges": [
+        { "startOffset": 356, "endOffset": 2153, "count": 3 },
+        { "startOffset": 578, "endOffset": 2137, "count": 166 },
+        { "startOffset": 597, "endOffset": 623, "count": 163 },
+        { "startOffset": 623, "endOffset": 702, "count": 3 },
+        { "startOffset": 660, "endOffset": 666, "count": 0 },
+        { "startOffset": 734, "endOffset": 2038, "count": 25 },
+        { "startOffset": 766, "endOffset": 779, "count": 22 },
+        { "startOffset": 781, "endOffset": 804, "count": 3 },
+        { "startOffset": 804, "endOffset": 1995, "count": 22 },
+        { "startOffset": 849, "endOffset": 1807, "count": 1 },
+        { "startOffset": 905, "endOffset": 951, "count": 0 },
+        { "startOffset": 952, "endOffset": 998, "count": 0 },
+        { "startOffset": 1136, "endOffset": 1212, "count": 0 },
+        { "startOffset": 1445, "endOffset": 1634, "count": 0 },
+        { "startOffset": 1644, "endOffset": 1799, "count": 0 },
+        { "startOffset": 1807, "endOffset": 1995, "count": 21 },
+        { "startOffset": 1843, "endOffset": 1891, "count": 18 },
+        { "startOffset": 1891, "endOffset": 1940, "count": 3 },
+        { "startOffset": 1995, "endOffset": 2038, "count": 24 },
+        { "startOffset": 2038, "endOffset": 2133, "count": 141 },
+        { "startOffset": 2066, "endOffset": 2080, "count": 5 },
+        { "startOffset": 2082, "endOffset": 2103, "count": 2 },
+        { "startOffset": 2103, "endOffset": 2133, "count": 139 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/io/to_readable_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1523, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toReadableStream",
+      "ranges": [{ "startOffset": 778, "endOffset": 1522, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pull",
+      "ranges": [
+        { "startOffset": 917, "endOffset": 1406, "count": 19 },
+        { "startOffset": 1076, "endOffset": 1222, "count": 4 },
+        { "startOffset": 1109, "endOffset": 1121, "count": 3 },
+        { "startOffset": 1123, "endOffset": 1164, "count": 2 },
+        { "startOffset": 1222, "endOffset": 1284, "count": 15 },
+        { "startOffset": 1284, "endOffset": 1400, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 1412, "endOffset": 1504, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/media_types/get_charset.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1131, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCharset",
+      "ranges": [{ "startOffset": 709, "endOffset": 1130, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

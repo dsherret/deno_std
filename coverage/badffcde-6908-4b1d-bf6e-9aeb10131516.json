@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/reverse_sort.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 368, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reverseSort",
+      "ranges": [{ "startOffset": 286, "endOffset": 367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 342, "endOffset": 363, "count": 7 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

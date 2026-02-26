@@ -1,0 +1,54 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/async/mux_async_iterator_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1435, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "gen123",
+      "ranges": [
+        { "startOffset": 217, "endOffset": 278, "count": 3 },
+        { "startOffset": 276, "endOffset": 277, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "gen456",
+      "ranges": [{ "startOffset": 279, "endOffset": 340, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "genThrows",
+      "ranges": [{ "startOffset": 341, "endOffset": 426, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 494, "endOffset": 537, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 572, "endOffset": 842, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 908, "endOffset": 1153, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1230, "endOffset": 1430, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1357, "endOffset": 1393, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

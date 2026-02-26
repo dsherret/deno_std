@@ -1,0 +1,21 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/text/compare_similarity_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 688, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 242, "endOffset": 408, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 468, "endOffset": 685, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

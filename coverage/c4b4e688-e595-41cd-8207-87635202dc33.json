@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/take_last_while.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 760, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "takeLastWhile",
+      "ranges": [
+        { "startOffset": 581, "endOffset": 759, "count": 7 },
+        { "startOffset": 672, "endOffset": 703, "count": 17 },
+        { "startOffset": 704, "endOffset": 713, "count": 12 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

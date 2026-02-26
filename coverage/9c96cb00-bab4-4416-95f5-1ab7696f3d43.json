@@ -1,0 +1,86 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/deep_merge.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2742, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepMerge",
+      "ranges": [{ "startOffset": 192, "endOffset": 301, "count": 25 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepMergeInternal",
+      "ranges": [
+        { "startOffset": 302, "endOffset": 1107, "count": 34 },
+        { "startOffset": 563, "endOffset": 1088, "count": 73 },
+        { "startOffset": 690, "endOffset": 713, "count": 1 },
+        { "startOffset": 713, "endOffset": 770, "count": 72 },
+        { "startOffset": 770, "endOffset": 816, "count": 11 },
+        { "startOffset": 816, "endOffset": 870, "count": 61 },
+        { "startOffset": 870, "endOffset": 891, "count": 27 },
+        { "startOffset": 892, "endOffset": 907, "count": 24 },
+        { "startOffset": 908, "endOffset": 923, "count": 23 },
+        { "startOffset": 925, "endOffset": 1041, "count": 23 },
+        { "startOffset": 1041, "endOffset": 1088, "count": 38 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mergeObjects",
+      "ranges": [
+        { "startOffset": 1108, "endOffset": 2065, "count": 23 },
+        { "startOffset": 1283, "endOffset": 1304, "count": 10 },
+        { "startOffset": 1306, "endOffset": 1369, "count": 9 },
+        { "startOffset": 1369, "endOffset": 1393, "count": 14 },
+        { "startOffset": 1393, "endOffset": 1413, "count": 11 },
+        { "startOffset": 1415, "endOffset": 2047, "count": 10 },
+        { "startOffset": 1466, "endOffset": 1489, "count": 5 },
+        { "startOffset": 1491, "endOffset": 1601, "count": 5 },
+        { "startOffset": 1531, "endOffset": 1575, "count": 2 },
+        { "startOffset": 1575, "endOffset": 1601, "count": 3 },
+        { "startOffset": 1601, "endOffset": 1649, "count": 5 },
+        { "startOffset": 1649, "endOffset": 1672, "count": 2 },
+        { "startOffset": 1674, "endOffset": 1822, "count": 2 },
+        { "startOffset": 1712, "endOffset": 1822, "count": 1 },
+        { "startOffset": 1822, "endOffset": 1893, "count": 3 },
+        { "startOffset": 1895, "endOffset": 2043, "count": 3 },
+        { "startOffset": 1933, "endOffset": 2017, "count": 2 },
+        { "startOffset": 2017, "endOffset": 2043, "count": 1 },
+        { "startOffset": 2047, "endOffset": 2064, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isMergeable",
+      "ranges": [{ "startOffset": 2257, "endOffset": 2348, "count": 33 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isIterable",
+      "ranges": [{ "startOffset": 2349, "endOffset": 2434, "count": 25 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNonNullObject",
+      "ranges": [
+        { "startOffset": 2435, "endOffset": 2524, "count": 88 },
+        { "startOffset": 2493, "endOffset": 2521, "count": 85 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getKeys",
+      "ranges": [{ "startOffset": 2525, "endOffset": 2741, "count": 68 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2625, "endOffset": 2687, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

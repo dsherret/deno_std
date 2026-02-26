@@ -1,0 +1,16 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/log/file_handler.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2671, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1050, "endOffset": 2670, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

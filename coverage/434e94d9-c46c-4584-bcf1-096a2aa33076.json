@@ -1,0 +1,21 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/expect/_custom_equality_tester.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 437, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addCustomEqualityTesters",
+      "ranges": [{ "startOffset": 116, "endOffset": 357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCustomEqualityTesters",
+      "ranges": [{ "startOffset": 365, "endOffset": 436, "count": 8 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

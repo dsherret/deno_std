@@ -1,0 +1,11 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/testing/types_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2497, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

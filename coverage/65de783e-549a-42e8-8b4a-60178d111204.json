@@ -1,0 +1,16 @@
+{
+  "scriptId": "396",
+  "url": "file:///Users/david/dev/deno_std/path/posix/resolve.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1519, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [{ "startOffset": 383, "endOffset": 1518, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

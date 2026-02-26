@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/datetime/day_of_year.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1749, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dayOfYear",
+      "ranges": [{ "startOffset": 480, "endOffset": 992, "count": 66 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dayOfYearUtc",
+      "ranges": [{ "startOffset": 1309, "endOffset": 1748, "count": 66 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

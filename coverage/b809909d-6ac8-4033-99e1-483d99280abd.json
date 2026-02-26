@@ -1,0 +1,26 @@
+{
+  "scriptId": "414",
+  "url": "file:///Users/david/dev/deno_std/io/buf_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 12520, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 559, "endOffset": 698, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 900, "endOffset": 1030, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1211, "endOffset": 12519, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

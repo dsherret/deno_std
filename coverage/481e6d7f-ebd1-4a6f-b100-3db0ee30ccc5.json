@@ -1,0 +1,21 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/datetime/day_of_year_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11545, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 228, "endOffset": 5993, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 6039, "endOffset": 11540, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

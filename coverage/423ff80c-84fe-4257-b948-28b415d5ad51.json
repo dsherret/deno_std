@@ -1,0 +1,16 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/log/rotating_file_handler.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4359, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 2358, "endOffset": 4358, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

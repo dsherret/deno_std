@@ -1,0 +1,42 @@
+{
+  "scriptId": "352",
+  "url": "file:///Users/david/dev/deno_std/path/_common/basename.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1144, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stripSuffix",
+      "ranges": [
+        { "startOffset": 167, "endOffset": 492, "count": 1 },
+        { "startOffset": 240, "endOffset": 262, "count": 0 },
+        { "startOffset": 355, "endOffset": 450, "count": 3 },
+        { "startOffset": 420, "endOffset": 446, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lastPathSegment",
+      "ranges": [
+        { "startOffset": 500, "endOffset": 912, "count": 6 },
+        { "startOffset": 658, "endOffset": 877, "count": 48 },
+        { "startOffset": 695, "endOffset": 781, "count": 9 },
+        { "startOffset": 728, "endOffset": 775, "count": 6 },
+        { "startOffset": 781, "endOffset": 873, "count": 39 },
+        { "startOffset": 813, "endOffset": 873, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertArgs",
+      "ranges": [
+        { "startOffset": 920, "endOffset": 1143, "count": 6 },
+        { "startOffset": 1001, "endOffset": 1013, "count": 0 },
+        { "startOffset": 1048, "endOffset": 1141, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/map_not_nullish.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1104, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapNotNullish",
+      "ranges": [
+        { "startOffset": 819, "endOffset": 1103, "count": 7 },
+        { "startOffset": 912, "endOffset": 1087, "count": 22 },
+        { "startOffset": 1008, "endOffset": 1038, "count": 19 },
+        { "startOffset": 1040, "endOffset": 1083, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

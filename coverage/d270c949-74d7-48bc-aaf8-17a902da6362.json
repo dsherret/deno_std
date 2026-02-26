@@ -1,0 +1,16 @@
+{
+  "scriptId": "412",
+  "url": "file:///Users/david/dev/deno_std/path/_common/normalize_string.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2154, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeString",
+      "ranges": [{ "startOffset": 356, "endOffset": 2153, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

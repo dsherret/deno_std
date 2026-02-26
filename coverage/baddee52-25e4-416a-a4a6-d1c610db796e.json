@@ -1,0 +1,67 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/data_structures/_binary_search_node.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1200, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 143, "endOffset": 1199, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BinarySearchNode",
+      "ranges": [{ "startOffset": 183, "endOffset": 309, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 319, "endOffset": 472, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "directionFromParent",
+      "ranges": [
+        { "startOffset": 475, "endOffset": 625, "count": 8 },
+        { "startOffset": 531, "endOffset": 537, "count": 3 },
+        { "startOffset": 538, "endOffset": 620, "count": 5 },
+        { "startOffset": 566, "endOffset": 574, "count": 1 },
+        { "startOffset": 575, "endOffset": 620, "count": 4 },
+        { "startOffset": 604, "endOffset": 613, "count": 3 },
+        { "startOffset": 614, "endOffset": 620, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findMinNode",
+      "ranges": [
+        { "startOffset": 628, "endOffset": 752, "count": 6 },
+        { "startOffset": 690, "endOffset": 696, "count": 5 },
+        { "startOffset": 697, "endOffset": 720, "count": 1 },
+        { "startOffset": 740, "endOffset": 747, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findMaxNode",
+      "ranges": [
+        { "startOffset": 755, "endOffset": 882, "count": 5 },
+        { "startOffset": 826, "endOffset": 850, "count": 1 },
+        { "startOffset": 870, "endOffset": 877, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findSuccessorNode",
+      "ranges": [
+        { "startOffset": 885, "endOffset": 1197, "count": 4 },
+        { "startOffset": 936, "endOffset": 1088, "count": 2 },
+        { "startOffset": 1089, "endOffset": 1196, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

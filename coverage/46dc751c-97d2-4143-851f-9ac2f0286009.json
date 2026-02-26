@@ -1,0 +1,42 @@
+{
+  "scriptId": "315",
+  "url": "file:///Users/david/dev/deno_std/semver/_comparator_max.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1527, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "comparatorMax",
+      "ranges": [
+        { "startOffset": 379, "endOffset": 1526, "count": 71 },
+        { "startOffset": 451, "endOffset": 464, "count": 70 },
+        { "startOffset": 488, "endOffset": 499, "count": 1 },
+        { "startOffset": 499, "endOffset": 535, "count": 70 },
+        { "startOffset": 535, "endOffset": 545, "count": 0 },
+        { "startOffset": 550, "endOffset": 561, "count": 0 },
+        { "startOffset": 566, "endOffset": 575, "count": 10 },
+        { "startOffset": 580, "endOffset": 608, "count": 37 },
+        { "startOffset": 613, "endOffset": 621, "count": 0 },
+        { "startOffset": 626, "endOffset": 636, "count": 0 },
+        { "startOffset": 641, "endOffset": 652, "count": 0 },
+        { "startOffset": 657, "endOffset": 672, "count": 2 },
+        { "startOffset": 677, "endOffset": 686, "count": 2 },
+        { "startOffset": 691, "endOffset": 879, "count": 4 },
+        { "startOffset": 884, "endOffset": 1520, "count": 29 },
+        { "startOffset": 975, "endOffset": 989, "count": 1 },
+        { "startOffset": 990, "endOffset": 1008, "count": 28 },
+        { "startOffset": 1043, "endOffset": 1057, "count": 7 },
+        { "startOffset": 1058, "endOffset": 1076, "count": 22 },
+        { "startOffset": 1225, "endOffset": 1262, "count": 3 },
+        { "startOffset": 1262, "endOffset": 1512, "count": 26 },
+        { "startOffset": 1338, "endOffset": 1345, "count": 7 },
+        { "startOffset": 1346, "endOffset": 1372, "count": 19 },
+        { "startOffset": 1404, "endOffset": 1411, "count": 1 },
+        { "startOffset": 1412, "endOffset": 1438, "count": 25 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

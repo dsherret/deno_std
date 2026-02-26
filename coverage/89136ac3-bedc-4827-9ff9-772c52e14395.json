@@ -1,0 +1,49 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/async/mux_async_iterator.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2376, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 956, "endOffset": 2375, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "add",
+      "ranges": [{ "startOffset": 1133, "endOffset": 1241, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#callIteratorNext",
+      "ranges": [
+        { "startOffset": 1244, "endOffset": 1574, "count": 17 },
+        { "startOffset": 1342, "endOffset": 1359, "count": 16 },
+        { "startOffset": 1359, "endOffset": 1399, "count": 3 },
+        { "startOffset": 1399, "endOffset": 1490, "count": 13 },
+        { "startOffset": 1497, "endOffset": 1542, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "iterate",
+      "ranges": [
+        { "startOffset": 1625, "endOffset": 2269, "count": 3 },
+        { "startOffset": 1678, "endOffset": 2265, "count": 7 },
+        { "startOffset": 1903, "endOffset": 1975, "count": 12 },
+        { "startOffset": 2007, "endOffset": 2117, "count": 1 },
+        { "startOffset": 2076, "endOffset": 2117, "count": 0 },
+        { "startOffset": 2117, "endOffset": 2265, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2324, "endOffset": 2373, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

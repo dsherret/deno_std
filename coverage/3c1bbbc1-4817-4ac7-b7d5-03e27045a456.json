@@ -1,0 +1,51 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/parse_range_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 22589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 313, "endOffset": 12746, "count": 1 },
+        { "startOffset": 12671, "endOffset": 12744, "count": 40 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 12801, "endOffset": 14568, "count": 1 },
+        { "startOffset": 14493, "endOffset": 14566, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 14618, "endOffset": 16751, "count": 1 },
+        { "startOffset": 16676, "endOffset": 16749, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 16806, "endOffset": 19170, "count": 1 },
+        { "startOffset": 19095, "endOffset": 19168, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 19224, "endOffset": 22586, "count": 1 },
+        { "startOffset": 22511, "endOffset": 22584, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

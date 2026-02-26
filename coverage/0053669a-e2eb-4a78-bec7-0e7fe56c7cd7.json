@@ -1,0 +1,40 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/io/string_writer.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1745, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 957, "endOffset": 1744, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StringWriter",
+      "ranges": [{ "startOffset": 1005, "endOffset": 1213, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "write",
+      "ranges": [{ "startOffset": 1216, "endOffset": 1277, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writeSync",
+      "ranges": [{ "startOffset": 1280, "endOffset": 1432, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        { "startOffset": 1435, "endOffset": 1742, "count": 5 },
+        { "startOffset": 1469, "endOffset": 1502, "count": 0 },
+        { "startOffset": 1608, "endOffset": 1675, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

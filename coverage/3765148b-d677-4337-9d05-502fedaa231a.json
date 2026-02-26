@@ -1,0 +1,86 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/associate_by_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2580, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest",
+      "ranges": [{ "startOffset": 173, "endOffset": 310, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 370, "endOffset": 539, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 455, "endOffset": 473, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 603, "endOffset": 672, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 649, "endOffset": 656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 737, "endOffset": 872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.a",
+      "ranges": [{ "startOffset": 833, "endOffset": 840, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 934, "endOffset": 1085, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.o",
+      "ranges": [{ "startOffset": 1014, "endOffset": 1032, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1152, "endOffset": 1601, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.A",
+      "ranges": [{ "startOffset": 1290, "endOffset": 1308, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.1",
+      "ranges": [{ "startOffset": 1504, "endOffset": 1535, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1664, "endOffset": 2575, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.test.name",
+      "ranges": [{ "startOffset": 1986, "endOffset": 1999, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateByTest.anna",
+      "ranges": [{ "startOffset": 2417, "endOffset": 2455, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

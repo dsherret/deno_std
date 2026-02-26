@@ -1,0 +1,19 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/path/posix/basename.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "basename",
+      "ranges": [
+        { "startOffset": 573, "endOffset": 868, "count": 20 },
+        { "startOffset": 809, "endOffset": 847, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

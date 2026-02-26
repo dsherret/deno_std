@@ -1,0 +1,58 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/http/status.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8094, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isStatus",
+      "ranges": [{ "startOffset": 6938, "endOffset": 7021, "count": 28 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isInformationalStatus",
+      "ranges": [{ "startOffset": 7102, "endOffset": 7204, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSuccessfulStatus",
+      "ranges": [
+        { "startOffset": 7282, "endOffset": 7381, "count": 4 },
+        { "startOffset": 7363, "endOffset": 7378, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isRedirectStatus",
+      "ranges": [
+        { "startOffset": 7462, "endOffset": 7559, "count": 4 },
+        { "startOffset": 7541, "endOffset": 7556, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isClientErrorStatus",
+      "ranges": [{ "startOffset": 7641, "endOffset": 7741, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isServerErrorStatus",
+      "ranges": [
+        { "startOffset": 7823, "endOffset": 7923, "count": 4 },
+        { "startOffset": 7905, "endOffset": 7920, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isErrorStatus",
+      "ranges": [
+        { "startOffset": 7999, "endOffset": 8093, "count": 8 },
+        { "startOffset": 8075, "endOffset": 8090, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/join_to_string_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3713, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 236, "endOffset": 666, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 453, "endOffset": 466, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 728, "endOffset": 887, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 834, "endOffset": 842, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 956, "endOffset": 1243, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1185, "endOffset": 1198, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1306, "endOffset": 1635, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.separator",
+      "ranges": [{ "startOffset": 1535, "endOffset": 1548, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1695, "endOffset": 2034, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.prefix",
+      "ranges": [{ "startOffset": 1924, "endOffset": 1937, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2094, "endOffset": 2431, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.suffix",
+      "ranges": [{ "startOffset": 2323, "endOffset": 2336, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2490, "endOffset": 2801, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.limit",
+      "ranges": [{ "startOffset": 2719, "endOffset": 2732, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2864, "endOffset": 3201, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.limit",
+      "ranges": [{ "startOffset": 3093, "endOffset": 3106, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3266, "endOffset": 3708, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString.suffix",
+      "ranges": [{ "startOffset": 3495, "endOffset": 3508, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/encoding/base64_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1228, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 502, "endOffset": 564, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 610, "endOffset": 716, "count": 1 },
+        { "startOffset": 662, "endOffset": 714, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 762, "endOffset": 868, "count": 1 },
+        { "startOffset": 814, "endOffset": 866, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 921, "endOffset": 1034, "count": 1 },
+        { "startOffset": 973, "endOffset": 1032, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1080, "endOffset": 1225, "count": 1 },
+        { "startOffset": 1132, "endOffset": 1223, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

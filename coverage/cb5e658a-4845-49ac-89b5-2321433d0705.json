@@ -1,0 +1,21 @@
+{
+  "scriptId": "447",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/omap.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1104, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlOmap",
+      "ranges": [{ "startOffset": 374, "endOffset": 890, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructYamlOmap",
+      "ranges": [{ "startOffset": 891, "endOffset": 963, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

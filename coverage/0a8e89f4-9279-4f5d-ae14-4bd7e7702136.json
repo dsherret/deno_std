@@ -1,0 +1,31 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/limited_transform_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1095, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 643, "endOffset": 1094, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LimitedTransformStream",
+      "ranges": [{ "startOffset": 694, "endOffset": 1092, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [
+        { "startOffset": 756, "endOffset": 1080, "count": 8 },
+        { "startOffset": 814, "endOffset": 994, "count": 2 },
+        { "startOffset": 845, "endOffset": 984, "count": 1 },
+        { "startOffset": 994, "endOffset": 1072, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

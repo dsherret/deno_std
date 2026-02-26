@@ -1,0 +1,16 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/gtr.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "gtr",
+      "ranges": [{ "startOffset": 406, "endOffset": 486, "count": 116 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

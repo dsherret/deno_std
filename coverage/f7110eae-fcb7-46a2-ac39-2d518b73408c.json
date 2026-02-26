@@ -1,0 +1,29 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/dotenv/parse_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5819, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 345, "endOffset": 2951, "count": 1 },
+        { "startOffset": 1237, "endOffset": 1258, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2992, "endOffset": 3541, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3583, "endOffset": 5816, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

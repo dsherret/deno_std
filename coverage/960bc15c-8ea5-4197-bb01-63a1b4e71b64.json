@@ -1,0 +1,24 @@
+{
+  "scriptId": "311",
+  "url": "file:///Users/david/dev/deno_std/semver/min_satisfying.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 668, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "minSatisfying",
+      "ranges": [
+        { "startOffset": 457, "endOffset": 667, "count": 4 },
+        { "startOffset": 543, "endOffset": 651, "count": 10 },
+        { "startOffset": 581, "endOffset": 590, "count": 2 },
+        { "startOffset": 590, "endOffset": 605, "count": 8 },
+        { "startOffset": 605, "endOffset": 630, "count": 5 },
+        { "startOffset": 631, "endOffset": 636, "count": 4 },
+        { "startOffset": 637, "endOffset": 646, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

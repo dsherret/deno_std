@@ -1,0 +1,19 @@
+{
+  "scriptId": "412",
+  "url": "file:///Users/david/dev/deno_std/path/_common/assert_path.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 284, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertPath",
+      "ranges": [
+        { "startOffset": 132, "endOffset": 283, "count": 167 },
+        { "startOffset": 192, "endOffset": 281, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

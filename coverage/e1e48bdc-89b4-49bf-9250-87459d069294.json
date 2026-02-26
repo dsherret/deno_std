@@ -1,0 +1,16 @@
+{
+  "scriptId": "450",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/seq.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 444, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "construct",
+      "ranges": [{ "startOffset": 359, "endOffset": 419, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

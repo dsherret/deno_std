@@ -1,0 +1,23 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/join_to_string.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1623, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinToString",
+      "ranges": [
+        { "startOffset": 1194, "endOffset": 1622, "count": 9 },
+        { "startOffset": 1380, "endOffset": 1566, "count": 26 },
+        { "startOffset": 1414, "endOffset": 1448, "count": 17 },
+        { "startOffset": 1468, "endOffset": 1485, "count": 8 },
+        { "startOffset": 1487, "endOffset": 1534, "count": 3 },
+        { "startOffset": 1534, "endOffset": 1566, "count": 23 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

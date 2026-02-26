@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/webgpu/describe_texture_format_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2263, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2133, "endOffset": 2260, "count": 1 },
+        { "startOffset": 2177, "endOffset": 2258, "count": 94 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2204, "endOffset": 2252, "count": 94 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

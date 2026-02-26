@@ -1,0 +1,16 @@
+{
+  "scriptId": "348",
+  "url": "file:///Users/david/dev/deno_std/data_structures/_binary_search_node.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1200, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 143, "endOffset": 1199, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

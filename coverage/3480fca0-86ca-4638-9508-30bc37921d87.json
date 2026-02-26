@@ -1,0 +1,56 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/expect/_asymmetric_matchers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 140, "endOffset": 202, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 255, "endOffset": 324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "anything",
+      "ranges": [{ "startOffset": 334, "endOffset": 382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Any",
+      "ranges": [{ "startOffset": 430, "endOffset": 566, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 569, "endOffset": 1292, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1302, "endOffset": 1342, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayContaining",
+      "ranges": [{ "startOffset": 1402, "endOffset": 1439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 1442, "endOffset": 1514, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayContaining",
+      "ranges": [{ "startOffset": 1524, "endOffset": 1588, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

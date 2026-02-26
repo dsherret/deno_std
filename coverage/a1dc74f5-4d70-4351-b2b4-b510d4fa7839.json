@@ -1,0 +1,44 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/async/debounce.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1583, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debounce",
+      "ranges": [{ "startOffset": 1016, "endOffset": 1582, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debounced",
+      "ranges": [{ "startOffset": 1108, "endOffset": 1271, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flush",
+      "ranges": [{ "startOffset": 1156, "endOffset": 1227, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debounced.clear",
+      "ranges": [
+        { "startOffset": 1293, "endOffset": 1418, "count": 20 },
+        { "startOffset": 1336, "endOffset": 1414, "count": 15 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debounced.flush",
+      "ranges": [{ "startOffset": 1440, "endOffset": 1464, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1523, "endOffset": 1554, "count": 11 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

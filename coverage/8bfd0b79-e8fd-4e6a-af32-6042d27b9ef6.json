@@ -1,0 +1,16 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/datetime/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2136, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [{ "startOffset": 1878, "endOffset": 2135, "count": 31 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

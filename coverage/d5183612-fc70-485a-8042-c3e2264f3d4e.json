@@ -1,0 +1,16 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/webgpu/create_capture.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1854, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCapture",
+      "ranges": [{ "startOffset": 1337, "endOffset": 1853, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

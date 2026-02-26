@@ -1,0 +1,11 @@
+{
+  "scriptId": "376",
+  "url": "file:///Users/david/dev/deno_std/path/windows/is_glob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 153, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

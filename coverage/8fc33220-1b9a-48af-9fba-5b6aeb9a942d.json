@@ -1,0 +1,26 @@
+{
+  "scriptId": "347",
+  "url": "file:///Users/david/dev/deno_std/data_structures/_red_black_node.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 501, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 225, "endOffset": 500, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RedBlackNode",
+      "ranges": [{ "startOffset": 236, "endOffset": 314, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 324, "endOffset": 498, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/crypto/_fnv/util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1269, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "swap32",
+      "ranges": [{ "startOffset": 120, "endOffset": 234, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "n16",
+      "ranges": [{ "startOffset": 235, "endOffset": 275, "count": 96 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "n32",
+      "ranges": [{ "startOffset": 276, "endOffset": 313, "count": 168 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "add32WithCarry",
+      "ranges": [
+        { "startOffset": 314, "endOffset": 443, "count": 24 },
+        { "startOffset": 429, "endOffset": 432, "count": 6 },
+        { "startOffset": 433, "endOffset": 436, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mul32WithCarry",
+      "ranges": [{ "startOffset": 444, "endOffset": 776, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mul32",
+      "ranges": [{ "startOffset": 863, "endOffset": 1007, "count": 36 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mul64",
+      "ranges": [{ "startOffset": 1123, "endOffset": 1268, "count": 12 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

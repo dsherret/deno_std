@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/greater_or_equal_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1743, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 262, "endOffset": 1738, "count": 1 },
+        { "startOffset": 1531, "endOffset": 1734, "count": 20 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1570, "endOffset": 1726, "count": 20 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

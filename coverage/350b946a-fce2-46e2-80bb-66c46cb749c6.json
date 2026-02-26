@@ -1,0 +1,43 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/log/console_handler.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1120, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 391, "endOffset": 1119, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConsoleHandler",
+      "ranges": [{ "startOffset": 409, "endOffset": 530, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 533, "endOffset": 696, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "applyColors",
+      "ranges": [
+        { "startOffset": 699, "endOffset": 1078, "count": 8 },
+        { "startOffset": 750, "endOffset": 810, "count": 2 },
+        { "startOffset": 817, "endOffset": 879, "count": 2 },
+        { "startOffset": 886, "endOffset": 946, "count": 2 },
+        { "startOffset": 953, "endOffset": 1022, "count": 2 },
+        { "startOffset": 1029, "endOffset": 1052, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 1081, "endOffset": 1117, "count": 8 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "382",
+  "url": "file:///Users/david/dev/deno_std/path/windows/join_globs.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 784, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "joinGlobs",
+      "ranges": [{ "startOffset": 326, "endOffset": 783, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

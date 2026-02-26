@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/equals_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2471, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 244, "endOffset": 2466, "count": 1 },
+        { "startOffset": 2046, "endOffset": 2462, "count": 23 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2085, "endOffset": 2454, "count": 23 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

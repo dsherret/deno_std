@@ -1,0 +1,65 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/csv/csv_parse_stream_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 14577, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 618, "endOffset": 1035, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1111, "endOffset": 1911, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1689, "endOffset": 1706, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 2006, "endOffset": 12122, "count": 1 },
+        { "startOffset": 11262, "endOffset": 12118, "count": 36 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 11298, "endOffset": 12110, "count": 36 },
+        { "startOffset": 11370, "endOffset": 11431, "count": 3 },
+        { "startOffset": 11462, "endOffset": 11519, "count": 4 },
+        { "startOffset": 11555, "endOffset": 11622, "count": 3 },
+        { "startOffset": 11653, "endOffset": 11710, "count": 3 },
+        { "startOffset": 11843, "endOffset": 11961, "count": 35 },
+        { "startOffset": 11961, "endOffset": 12102, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 11999, "endOffset": 12067, "count": 1 },
+        { "startOffset": 12054, "endOffset": 12066, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 12296, "endOffset": 12607, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 12671, "endOffset": 14572, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

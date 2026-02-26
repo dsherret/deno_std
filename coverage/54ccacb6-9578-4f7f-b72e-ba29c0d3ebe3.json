@@ -1,0 +1,43 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/semver/format.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1116, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatNumber",
+      "ranges": [
+        { "startOffset": 113, "endOffset": 316, "count": 243 },
+        { "startOffset": 186, "endOffset": 207, "count": 0 },
+        { "startOffset": 253, "endOffset": 274, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [
+        { "startOffset": 632, "endOffset": 1115, "count": 87 },
+        { "startOffset": 680, "endOffset": 701, "count": 6 },
+        { "startOffset": 701, "endOffset": 865, "count": 81 },
+        { "startOffset": 865, "endOffset": 871, "count": 26 },
+        { "startOffset": 877, "endOffset": 882, "count": 55 },
+        { "startOffset": 912, "endOffset": 918, "count": 20 },
+        { "startOffset": 924, "endOffset": 929, "count": 61 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1031, "endOffset": 1037, "count": 162 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1095, "endOffset": 1101, "count": 162 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

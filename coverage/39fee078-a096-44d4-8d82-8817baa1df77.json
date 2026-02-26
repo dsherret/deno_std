@@ -1,0 +1,185 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/testing/snapshot.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15768, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getErrorMessage",
+      "ranges": [{ "startOffset": 5079, "endOffset": 5191, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serialize",
+      "ranges": [{ "startOffset": 5199, "endOffset": 5467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeStringForJs",
+      "ranges": [{ "startOffset": 5678, "endOffset": 5793, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMode",
+      "ranges": [
+        { "startOffset": 5839, "endOffset": 6081, "count": 2 },
+        { "startOffset": 5887, "endOffset": 5917, "count": 0 },
+        { "startOffset": 5934, "endOffset": 6079, "count": 1 },
+        { "startOffset": 6046, "endOffset": 6056, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5992, "endOffset": 6033, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getIsUpdate",
+      "ranges": [{ "startOffset": 6139, "endOffset": 6212, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<static_initializer>",
+      "ranges": [{ "startOffset": 6241, "endOffset": 13469, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 6241, "endOffset": 13469, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromOptions",
+      "ranges": [
+        { "startOffset": 6454, "endOffset": 7050, "count": 1 },
+        { "startOffset": 6631, "endOffset": 6679, "count": 0 },
+        { "startOffset": 6702, "endOffset": 6776, "count": 0 },
+        { "startOffset": 6918, "endOffset": 6947, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AssertSnapshotContext",
+      "ranges": [{ "startOffset": 7261, "endOffset": 7339, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#getCurrentSnapshotsInitialized",
+      "ranges": [{ "startOffset": 7529, "endOffset": 7707, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#teardown",
+      "ranges": [
+        { "startOffset": 7792, "endOffset": 9784, "count": 1 },
+        { "startOffset": 9446, "endOffset": 9459, "count": 0 },
+        { "startOffset": 9551, "endOffset": 9780, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8059, "endOffset": 8107, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 8147, "endOffset": 9129, "count": 1 },
+        { "startOffset": 8409, "endOffset": 8817, "count": 0 },
+        { "startOffset": 8970, "endOffset": 8989, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#readSnapshotFile",
+      "ranges": [
+        { "startOffset": 10036, "endOffset": 11079, "count": 1 },
+        { "startOffset": 10103, "endOffset": 10147, "count": 0 },
+        { "startOffset": 10453, "endOffset": 10808, "count": 0 },
+        { "startOffset": 10853, "endOffset": 11075, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 10492, "endOffset": 10806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "registerTeardown",
+      "ranges": [{ "startOffset": 11364, "endOffset": 11531, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCount",
+      "ranges": [{ "startOffset": 11657, "endOffset": 11817, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getSnapshot",
+      "ranges": [{ "startOffset": 11923, "endOffset": 12070, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateSnapshot",
+      "ranges": [{ "startOffset": 12297, "endOffset": 12685, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getUpdatedCount",
+      "ranges": [{ "startOffset": 12740, "endOffset": 12805, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pushSnapshotToUpdateQueue",
+      "ranges": [{ "startOffset": 13214, "endOffset": 13308, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasSnapshot",
+      "ranges": [{ "startOffset": 13350, "endOffset": 13467, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assertSnapshot",
+      "ranges": [
+        { "startOffset": 13477, "endOffset": 15376, "count": 1 },
+        { "startOffset": 14206, "endOffset": 14972, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatter",
+      "ranges": [{ "startOffset": 14637, "endOffset": 14664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getOptions",
+      "ranges": [
+        { "startOffset": 14975, "endOffset": 15136, "count": 1 },
+        { "startOffset": 15037, "endOffset": 15058, "count": 0 },
+        { "startOffset": 15060, "endOffset": 15091, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getTestName",
+      "ranges": [
+        { "startOffset": 15139, "endOffset": 15374, "count": 1 },
+        { "startOffset": 15213, "endOffset": 15247, "count": 0 },
+        { "startOffset": 15273, "endOffset": 15345, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createAssertSnapshot",
+      "ranges": [{ "startOffset": 15384, "endOffset": 15767, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

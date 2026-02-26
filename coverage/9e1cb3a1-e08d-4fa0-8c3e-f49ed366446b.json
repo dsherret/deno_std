@@ -1,0 +1,106 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/semver/_shared.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5292, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareNumber",
+      "ranges": [
+        { "startOffset": 82, "endOffset": 232, "count": 122 },
+        { "startOffset": 141, "endOffset": 191, "count": 0 },
+        { "startOffset": 209, "endOffset": 212, "count": 110 },
+        { "startOffset": 213, "endOffset": 229, "count": 12 },
+        { "startOffset": 221, "endOffset": 225, "count": 6 },
+        { "startOffset": 226, "endOffset": 229, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkIdentifier",
+      "ranges": [
+        { "startOffset": 240, "endOffset": 470, "count": 34 },
+        { "startOffset": 390, "endOffset": 403, "count": 26 },
+        { "startOffset": 405, "endOffset": 415, "count": 4 },
+        { "startOffset": 415, "endOffset": 433, "count": 30 },
+        { "startOffset": 433, "endOffset": 445, "count": 8 },
+        { "startOffset": 447, "endOffset": 456, "count": 4 },
+        { "startOffset": 456, "endOffset": 469, "count": 26 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareIdentifier",
+      "ranges": [
+        { "startOffset": 478, "endOffset": 1151, "count": 26 },
+        { "startOffset": 607, "endOffset": 1137, "count": 38 },
+        { "startOffset": 703, "endOffset": 721, "count": 1 },
+        { "startOffset": 723, "endOffset": 732, "count": 0 },
+        { "startOffset": 782, "endOffset": 791, "count": 1 },
+        { "startOffset": 791, "endOffset": 841, "count": 37 },
+        { "startOffset": 841, "endOffset": 851, "count": 1 },
+        { "startOffset": 851, "endOffset": 905, "count": 36 },
+        { "startOffset": 905, "endOffset": 929, "count": 24 },
+        { "startOffset": 931, "endOffset": 940, "count": 2 },
+        { "startOffset": 940, "endOffset": 994, "count": 34 },
+        { "startOffset": 994, "endOffset": 1018, "count": 12 },
+        { "startOffset": 1020, "endOffset": 1030, "count": 2 },
+        { "startOffset": 1030, "endOffset": 1046, "count": 32 },
+        { "startOffset": 1046, "endOffset": 1056, "count": 6 },
+        { "startOffset": 1056, "endOffset": 1072, "count": 26 },
+        { "startOffset": 1072, "endOffset": 1081, "count": 6 },
+        { "startOffset": 1137, "endOffset": 1150, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isValidNumber",
+      "ranges": [
+        { "startOffset": 3794, "endOffset": 3966, "count": 157 },
+        { "startOffset": 3885, "endOffset": 3963, "count": 153 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isValidString",
+      "ranges": [{ "startOffset": 4305, "endOffset": 4455, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parsePrerelease",
+      "ranges": [{ "startOffset": 4536, "endOffset": 4789, "count": 26 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 4626, "endOffset": 4785, "count": 45 },
+        { "startOffset": 4678, "endOffset": 4766, "count": 19 },
+        { "startOffset": 4746, "endOffset": 4760, "count": 15 },
+        { "startOffset": 4766, "endOffset": 4784, "count": 30 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseBuild",
+      "ranges": [{ "startOffset": 4797, "endOffset": 4886, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseNumber",
+      "ranges": [
+        { "startOffset": 4894, "endOffset": 5053, "count": 138 },
+        { "startOffset": 5000, "endOffset": 5034, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWildcardComparator",
+      "ranges": [{ "startOffset": 5061, "endOffset": 5291, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

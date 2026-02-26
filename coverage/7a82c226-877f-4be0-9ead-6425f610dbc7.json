@@ -1,0 +1,20 @@
+{
+  "scriptId": "311",
+  "url": "file:///Users/david/dev/deno_std/io/read_string_delim.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1077, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readStringDelim",
+      "ranges": [
+        { "startOffset": 797, "endOffset": 1076, "count": 1 },
+        { "startOffset": 941, "endOffset": 951, "count": 0 },
+        { "startOffset": 1036, "endOffset": 1074, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

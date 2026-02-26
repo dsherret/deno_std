@@ -1,0 +1,48 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/comparator_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9126, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 524, "endOffset": 8472, "count": 1 },
+        { "startOffset": 7743, "endOffset": 8468, "count": 41 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 7799, "endOffset": 8452, "count": 41 },
+        { "startOffset": 7895, "endOffset": 8162, "count": 89 },
+        { "startOffset": 8211, "endOffset": 8442, "count": 101 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 7969, "endOffset": 8134, "count": 89 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 8287, "endOffset": 8414, "count": 101 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8536, "endOffset": 8720, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8801, "endOffset": 9123, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

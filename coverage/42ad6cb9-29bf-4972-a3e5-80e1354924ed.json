@@ -1,0 +1,50 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/http/negotiation.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1320, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "accepts",
+      "ranges": [
+        { "startOffset": 498, "endOffset": 725, "count": 5 },
+        { "startOffset": 606, "endOffset": 665, "count": 3 },
+        { "startOffset": 615, "endOffset": 654, "count": 2 },
+        { "startOffset": 655, "endOffset": 665, "count": 1 },
+        { "startOffset": 666, "endOffset": 722, "count": 2 },
+        { "startOffset": 675, "endOffset": 704, "count": 1 },
+        { "startOffset": 705, "endOffset": 722, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "acceptsEncodings",
+      "ranges": [
+        { "startOffset": 733, "endOffset": 1030, "count": 5 },
+        { "startOffset": 875, "endOffset": 957, "count": 3 },
+        { "startOffset": 892, "endOffset": 942, "count": 2 },
+        { "startOffset": 943, "endOffset": 957, "count": 1 },
+        { "startOffset": 958, "endOffset": 1027, "count": 2 },
+        { "startOffset": 975, "endOffset": 1011, "count": 1 },
+        { "startOffset": 1012, "endOffset": 1027, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "acceptsLanguages",
+      "ranges": [
+        { "startOffset": 1038, "endOffset": 1319, "count": 5 },
+        { "startOffset": 1172, "endOffset": 1246, "count": 3 },
+        { "startOffset": 1189, "endOffset": 1235, "count": 2 },
+        { "startOffset": 1236, "endOffset": 1246, "count": 1 },
+        { "startOffset": 1247, "endOffset": 1316, "count": 2 },
+        { "startOffset": 1264, "endOffset": 1300, "count": 1 },
+        { "startOffset": 1301, "endOffset": 1316, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

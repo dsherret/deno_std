@@ -1,0 +1,31 @@
+{
+  "scriptId": "344",
+  "url": "file:///Users/david/dev/deno_std/http/_negotiation/common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1629, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSpecs",
+      "ranges": [
+        { "startOffset": 1448, "endOffset": 1571, "count": 19 },
+        { "startOffset": 1497, "endOffset": 1523, "count": 8 },
+        { "startOffset": 1505, "endOffset": 1509, "count": 3 },
+        { "startOffset": 1518, "endOffset": 1522, "count": 3 },
+        { "startOffset": 1524, "endOffset": 1550, "count": 5 },
+        { "startOffset": 1532, "endOffset": 1536, "count": 4 },
+        { "startOffset": 1545, "endOffset": 1549, "count": 4 },
+        { "startOffset": 1551, "endOffset": 1563, "count": 5 },
+        { "startOffset": 1564, "endOffset": 1568, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isQuality",
+      "ranges": [{ "startOffset": 1579, "endOffset": 1628, "count": 23 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

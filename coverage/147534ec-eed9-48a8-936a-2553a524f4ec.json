@@ -1,0 +1,36 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/fs/empty_dir.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2096, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emptyDir",
+      "ranges": [
+        { "startOffset": 583, "endOffset": 1100, "count": 3 },
+        { "startOffset": 681, "endOffset": 914, "count": 1 },
+        { "startOffset": 914, "endOffset": 1098, "count": 2 },
+        { "startOffset": 976, "endOffset": 1000, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 714, "endOffset": 906, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emptyDirSync",
+      "ranges": [
+        { "startOffset": 1511, "endOffset": 2095, "count": 3 },
+        { "startOffset": 1691, "endOffset": 1906, "count": 1 },
+        { "startOffset": 1911, "endOffset": 2093, "count": 2 },
+        { "startOffset": 1973, "endOffset": 1997, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

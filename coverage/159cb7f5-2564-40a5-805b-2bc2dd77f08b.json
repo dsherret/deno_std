@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/range_max_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8311, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 390, "endOffset": 8306, "count": 1 },
+        { "startOffset": 8157, "endOffset": 8302, "count": 40 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8187, "endOffset": 8294, "count": 40 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

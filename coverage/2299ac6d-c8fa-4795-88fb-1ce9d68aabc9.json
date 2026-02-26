@@ -1,0 +1,22 @@
+{
+  "scriptId": "387",
+  "url": "file:///Users/david/dev/deno_std/path/posix/dirname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1072, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dirname",
+      "ranges": [
+        { "startOffset": 408, "endOffset": 1071, "count": 1 },
+        { "startOffset": 546, "endOffset": 729, "count": 12 },
+        { "startOffset": 598, "endOffset": 678, "count": 1 },
+        { "startOffset": 678, "endOffset": 725, "count": 11 },
+        { "startOffset": 923, "endOffset": 993, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

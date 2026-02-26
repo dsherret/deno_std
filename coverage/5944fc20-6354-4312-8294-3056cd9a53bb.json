@@ -1,0 +1,38 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/path/posix/extname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1928, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extname",
+      "ranges": [
+        { "startOffset": 432, "endOffset": 1927, "count": 50 },
+        { "startOffset": 742, "endOffset": 1615, "count": 311 },
+        { "startOffset": 817, "endOffset": 1047, "count": 25 },
+        { "startOffset": 974, "endOffset": 1025, "count": 14 },
+        { "startOffset": 1025, "endOffset": 1047, "count": 11 },
+        { "startOffset": 1047, "endOffset": 1068, "count": 286 },
+        { "startOffset": 1068, "endOffset": 1215, "count": 49 },
+        { "startOffset": 1215, "endOffset": 1243, "count": 286 },
+        { "startOffset": 1243, "endOffset": 1415, "count": 69 },
+        { "startOffset": 1345, "endOffset": 1358, "count": 41 },
+        { "startOffset": 1358, "endOffset": 1409, "count": 28 },
+        { "startOffset": 1393, "endOffset": 1409, "count": 21 },
+        { "startOffset": 1415, "endOffset": 1611, "count": 217 },
+        { "startOffset": 1442, "endOffset": 1611, "count": 100 },
+        { "startOffset": 1638, "endOffset": 1651, "count": 41 },
+        { "startOffset": 1652, "endOffset": 1731, "count": 41 },
+        { "startOffset": 1732, "endOffset": 1867, "count": 34 },
+        { "startOffset": 1814, "endOffset": 1837, "count": 18 },
+        { "startOffset": 1838, "endOffset": 1867, "count": 9 },
+        { "startOffset": 1869, "endOffset": 1889, "count": 19 },
+        { "startOffset": 1889, "endOffset": 1926, "count": 31 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

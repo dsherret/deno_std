@@ -1,0 +1,16 @@
+{
+  "scriptId": "384",
+  "url": "file:///Users/david/dev/deno_std/path/posix/dirname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1072, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dirname",
+      "ranges": [{ "startOffset": 408, "endOffset": 1071, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

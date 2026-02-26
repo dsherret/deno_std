@@ -1,0 +1,39 @@
+{
+  "scriptId": "352",
+  "url": "file:///Users/david/dev/deno_std/semver/increment.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5544, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bumpPrereleaseNumber",
+      "ranges": [{ "startOffset": 118, "endOffset": 484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bumpPrerelease",
+      "ranges": [{ "startOffset": 485, "endOffset": 847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "increment",
+      "ranges": [
+        { "startOffset": 2177, "endOffset": 5543, "count": 9 },
+        { "startOffset": 2287, "endOffset": 2314, "count": 0 },
+        { "startOffset": 2355, "endOffset": 2547, "count": 0 },
+        { "startOffset": 2552, "endOffset": 2756, "count": 0 },
+        { "startOffset": 2761, "endOffset": 2977, "count": 0 },
+        { "startOffset": 2982, "endOffset": 3438, "count": 0 },
+        { "startOffset": 3443, "endOffset": 3958, "count": 0 },
+        { "startOffset": 3963, "endOffset": 4467, "count": 0 },
+        { "startOffset": 4768, "endOffset": 4773, "count": 0 },
+        { "startOffset": 4844, "endOffset": 4859, "count": 0 },
+        { "startOffset": 5024, "endOffset": 5459, "count": 0 },
+        { "startOffset": 5464, "endOffset": 5537, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

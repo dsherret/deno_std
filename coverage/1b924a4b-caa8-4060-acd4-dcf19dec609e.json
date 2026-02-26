@@ -1,0 +1,106 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/yaml/parse_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5693, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 595, "endOffset": 873, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 958, "endOffset": 1288, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1379, "endOffset": 1501, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1452, "endOffset": 1467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1602, "endOffset": 1982, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2079, "endOffset": 2356, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "foobar",
+      "ranges": [{ "startOffset": 2104, "endOffset": 2158, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2239, "endOffset": 2258, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2292, "endOffset": 2350, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2431, "endOffset": 3037, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [{ "startOffset": 2516, "endOffset": 2592, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "construct",
+      "ranges": [{ "startOffset": 2600, "endOffset": 2724, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3100, "endOffset": 3786, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockCallback",
+      "ranges": [{ "startOffset": 3322, "endOffset": 3525, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3366, "endOffset": 3396, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "calls",
+      "ranges": [{ "startOffset": 3431, "endOffset": 3475, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3842, "endOffset": 5057, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 5146, "endOffset": 5426, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 5484, "endOffset": 5688, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

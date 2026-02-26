@@ -1,0 +1,16 @@
+{
+  "scriptId": "350",
+  "url": "file:///Users/david/dev/deno_std/path/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 440, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [{ "startOffset": 355, "endOffset": 439, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

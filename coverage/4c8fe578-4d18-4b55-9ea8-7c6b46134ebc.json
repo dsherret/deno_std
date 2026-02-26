@@ -1,0 +1,27 @@
+{
+  "scriptId": "337",
+  "url": "file:///Users/david/dev/deno_std/encoding/_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 736, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getTypeName",
+      "ranges": [{ "startOffset": 110, "endOffset": 328, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateBinaryLike",
+      "ranges": [
+        { "startOffset": 336, "endOffset": 735, "count": 8 },
+        { "startOffset": 408, "endOffset": 448, "count": 1 },
+        { "startOffset": 448, "endOffset": 593, "count": 7 },
+        { "startOffset": 512, "endOffset": 593, "count": 0 },
+        { "startOffset": 593, "endOffset": 734, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

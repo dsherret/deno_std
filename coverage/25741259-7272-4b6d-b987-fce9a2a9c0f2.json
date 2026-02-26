@@ -1,0 +1,110 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/http/_negotiation/media_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4283, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "splitKeyValuePair",
+      "ranges": [{ "startOffset": 1570, "endOffset": 1693, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseMediaType",
+      "ranges": [
+        { "startOffset": 1694, "endOffset": 2389, "count": 26 },
+        { "startOffset": 1791, "endOffset": 1808, "count": 0 },
+        { "startOffset": 1881, "endOffset": 1898, "count": 0 },
+        { "startOffset": 1968, "endOffset": 2323, "count": 4 },
+        { "startOffset": 2130, "endOffset": 2160, "count": 0 },
+        { "startOffset": 2161, "endOffset": 2191, "count": 0 },
+        { "startOffset": 2286, "endOffset": 2319, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2013, "endOffset": 2026, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseAccept",
+      "ranges": [
+        { "startOffset": 2390, "endOffset": 2701, "count": 3 },
+        { "startOffset": 2552, "endOffset": 2678, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2461, "endOffset": 2474, "count": 13 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getFullType",
+      "ranges": [{ "startOffset": 2702, "endOffset": 2773, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "specify",
+      "ranges": [
+        { "startOffset": 2774, "endOffset": 3432, "count": 13 },
+        { "startOffset": 2863, "endOffset": 2880, "count": 0 },
+        { "startOffset": 2950, "endOffset": 2967, "count": 4 },
+        { "startOffset": 2967, "endOffset": 3013, "count": 9 },
+        { "startOffset": 2996, "endOffset": 3013, "count": 7 },
+        { "startOffset": 3013, "endOffset": 3076, "count": 6 },
+        { "startOffset": 3076, "endOffset": 3093, "count": 2 },
+        { "startOffset": 3093, "endOffset": 3142, "count": 4 },
+        { "startOffset": 3125, "endOffset": 3142, "count": 2 },
+        { "startOffset": 3142, "endOffset": 3203, "count": 4 },
+        { "startOffset": 3203, "endOffset": 3364, "count": 0 },
+        { "startOffset": 3364, "endOffset": 3431, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3224, "endOffset": 3309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getMediaTypePriority",
+      "ranges": [
+        { "startOffset": 3433, "endOffset": 3825, "count": 3 },
+        { "startOffset": 3589, "endOffset": 3804, "count": 13 },
+        { "startOffset": 3652, "endOffset": 3768, "count": 4 },
+        { "startOffset": 3668, "endOffset": 3672, "count": 2 },
+        { "startOffset": 3684, "endOffset": 3688, "count": 2 },
+        { "startOffset": 3690, "endOffset": 3726, "count": 0 },
+        { "startOffset": 3727, "endOffset": 3763, "count": 0 },
+        { "startOffset": 3770, "endOffset": 3800, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "preferredMediaTypes",
+      "ranges": [
+        { "startOffset": 3833, "endOffset": 4282, "count": 3 },
+        { "startOffset": 3933, "endOffset": 3940, "count": 0 },
+        { "startOffset": 3950, "endOffset": 3955, "count": 0 },
+        { "startOffset": 3975, "endOffset": 4054, "count": 1 },
+        { "startOffset": 4054, "endOffset": 4281, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4089, "endOffset": 4164, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4228, "endOffset": 4278, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

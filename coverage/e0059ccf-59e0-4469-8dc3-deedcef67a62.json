@@ -1,0 +1,21 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/text/levenshtein_distance_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 421, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 227, "endOffset": 293, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 352, "endOffset": 418, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

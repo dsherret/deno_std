@@ -1,0 +1,22 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/bytes/repeat.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1040, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "repeat",
+      "ranges": [
+        { "startOffset": 602, "endOffset": 1039, "count": 1 },
+        { "startOffset": 654, "endOffset": 688, "count": 0 },
+        { "startOffset": 706, "endOffset": 769, "count": 0 },
+        { "startOffset": 802, "endOffset": 870, "count": 0 },
+        { "startOffset": 984, "endOffset": 1024, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

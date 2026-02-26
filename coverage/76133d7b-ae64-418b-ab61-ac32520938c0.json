@@ -1,0 +1,23 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/find_single.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1183, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findSingle",
+      "ranges": [
+        { "startOffset": 911, "endOffset": 1182, "count": 14 },
+        { "startOffset": 1027, "endOffset": 1164, "count": 29 },
+        { "startOffset": 1057, "endOffset": 1160, "count": 12 },
+        { "startOffset": 1076, "endOffset": 1111, "count": 2 },
+        { "startOffset": 1111, "endOffset": 1160, "count": 10 },
+        { "startOffset": 1164, "endOffset": 1181, "count": 12 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

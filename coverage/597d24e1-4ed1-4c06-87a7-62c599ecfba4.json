@@ -1,0 +1,30 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/path/dirname_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3502, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2551, "endOffset": 3061, "count": 1 },
+        { "startOffset": 2617, "endOffset": 2665, "count": 13 },
+        { "startOffset": 2715, "endOffset": 2769, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3095, "endOffset": 3499, "count": 1 },
+        { "startOffset": 3159, "endOffset": 3215, "count": 33 },
+        { "startOffset": 3335, "endOffset": 3391, "count": 13 },
+        { "startOffset": 3441, "endOffset": 3497, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

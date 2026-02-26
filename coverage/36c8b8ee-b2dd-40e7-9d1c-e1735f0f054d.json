@@ -1,0 +1,26 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/range_max.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 747, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "rangeMax",
+      "ranges": [
+        { "startOffset": 426, "endOffset": 746, "count": 40 },
+        { "startOffset": 498, "endOffset": 719, "count": 47 },
+        { "startOffset": 541, "endOffset": 715, "count": 71 },
+        { "startOffset": 634, "endOffset": 643, "count": 27 },
+        { "startOffset": 643, "endOffset": 660, "count": 44 },
+        { "startOffset": 660, "endOffset": 690, "count": 7 },
+        { "startOffset": 691, "endOffset": 696, "count": 1 },
+        { "startOffset": 697, "endOffset": 708, "count": 43 },
+        { "startOffset": 733, "endOffset": 743, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

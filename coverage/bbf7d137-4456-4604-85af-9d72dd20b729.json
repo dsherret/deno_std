@@ -1,0 +1,16 @@
+{
+  "scriptId": "371",
+  "url": "file:///Users/david/dev/deno_std/path/windows/extname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2275, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extname",
+      "ranges": [{ "startOffset": 460, "endOffset": 2274, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

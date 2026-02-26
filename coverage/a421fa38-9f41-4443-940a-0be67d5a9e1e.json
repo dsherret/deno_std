@@ -1,0 +1,16 @@
+{
+  "scriptId": "450",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/str.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "construct",
+      "ranges": [{ "startOffset": 284, "endOffset": 344, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

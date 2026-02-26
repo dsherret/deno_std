@@ -1,0 +1,30 @@
+{
+  "scriptId": "396",
+  "url": "file:///Users/david/dev/deno_std/path/posix/relative.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2959, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "relative",
+      "ranges": [
+        { "startOffset": 455, "endOffset": 2958, "count": 86 },
+        { "startOffset": 572, "endOffset": 582, "count": 4 },
+        { "startOffset": 582, "endOffset": 1140, "count": 82 },
+        { "startOffset": 1141, "endOffset": 1148, "count": 0 },
+        { "startOffset": 1214, "endOffset": 2332, "count": 3466 },
+        { "startOffset": 1238, "endOffset": 2128, "count": 82 },
+        { "startOffset": 1514, "endOffset": 1677, "count": 0 },
+        { "startOffset": 1685, "endOffset": 2128, "count": 0 },
+        { "startOffset": 2128, "endOffset": 2258, "count": 3384 },
+        { "startOffset": 2258, "endOffset": 2264, "count": 0 },
+        { "startOffset": 2264, "endOffset": 2328, "count": 3384 },
+        { "startOffset": 2310, "endOffset": 2328, "count": 496 },
+        { "startOffset": 2332, "endOffset": 2956, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

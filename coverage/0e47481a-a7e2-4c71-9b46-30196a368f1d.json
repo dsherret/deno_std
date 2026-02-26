@@ -1,0 +1,37 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/gtr_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6103, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 336, "endOffset": 2922, "count": 1 },
+        { "startOffset": 2787, "endOffset": 2920, "count": 53 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2821, "endOffset": 2914, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2968, "endOffset": 6100, "count": 1 },
+        { "startOffset": 5944, "endOffset": 6098, "count": 63 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5978, "endOffset": 6092, "count": 63 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "scriptId": "366",
+  "url": "file:///Users/david/dev/deno_std/collections/deep_merge.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2742, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepMerge",
+      "ranges": [{ "startOffset": 192, "endOffset": 301, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepMergeInternal",
+      "ranges": [
+        { "startOffset": 302, "endOffset": 1107, "count": 8 },
+        { "startOffset": 563, "endOffset": 1088, "count": 18 },
+        { "startOffset": 690, "endOffset": 713, "count": 0 },
+        { "startOffset": 770, "endOffset": 816, "count": 6 },
+        { "startOffset": 816, "endOffset": 870, "count": 12 },
+        { "startOffset": 870, "endOffset": 891, "count": 0 },
+        { "startOffset": 892, "endOffset": 907, "count": 0 },
+        { "startOffset": 908, "endOffset": 923, "count": 0 },
+        { "startOffset": 925, "endOffset": 1041, "count": 0 },
+        { "startOffset": 1041, "endOffset": 1088, "count": 12 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mergeObjects",
+      "ranges": [{ "startOffset": 1108, "endOffset": 2065, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMergeable",
+      "ranges": [{ "startOffset": 2257, "endOffset": 2348, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isIterable",
+      "ranges": [{ "startOffset": 2349, "endOffset": 2434, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNonNullObject",
+      "ranges": [{ "startOffset": 2435, "endOffset": 2524, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getKeys",
+      "ranges": [{ "startOffset": 2525, "endOffset": 2741, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2625, "endOffset": 2687, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

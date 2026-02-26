@@ -1,0 +1,28 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/io/read_range.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3184, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readRange",
+      "ranges": [
+        { "startOffset": 945, "endOffset": 1694, "count": 3 },
+        { "startOffset": 1196, "endOffset": 1268, "count": 2 },
+        { "startOffset": 1675, "endOffset": 1693, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readRangeSync",
+      "ranges": [
+        { "startOffset": 2440, "endOffset": 3183, "count": 3 },
+        { "startOffset": 3164, "endOffset": 3182, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

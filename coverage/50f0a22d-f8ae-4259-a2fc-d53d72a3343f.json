@@ -1,0 +1,16 @@
+{
+  "scriptId": "362",
+  "url": "file:///Users/david/dev/deno_std/path/windows/dirname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2838, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dirname",
+      "ranges": [{ "startOffset": 500, "endOffset": 2837, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/distinct_by_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2352, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "distinctByTest",
+      "ranges": [{ "startOffset": 171, "endOffset": 323, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 396, "endOffset": 443, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 427, "endOffset": 433, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 513, "endOffset": 614, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 584, "endOffset": 590, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 708, "endOffset": 1020, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 804, "endOffset": 812, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 956, "endOffset": 964, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1108, "endOffset": 1665, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1244, "endOffset": 1252, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1338, "endOffset": 1346, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1429, "endOffset": 1437, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "noops",
+      "ranges": [{ "startOffset": 1489, "endOffset": 1495, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noops",
+      "ranges": [{ "startOffset": 1503, "endOffset": 1509, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1543, "endOffset": 1551, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1645, "endOffset": 1653, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1764, "endOffset": 2347, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2117, "endOffset": 2140, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2203, "endOffset": 2215, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2276, "endOffset": 2296, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

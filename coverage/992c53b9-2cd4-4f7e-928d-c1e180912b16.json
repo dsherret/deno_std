@@ -1,0 +1,19 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/media_types/get_charset_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 687, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 201, "endOffset": 682, "count": 1 },
+        { "startOffset": 620, "endOffset": 678, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

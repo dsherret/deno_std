@@ -1,0 +1,29 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/text/compare_similarity.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1159, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSimilarity",
+      "ranges": [
+        { "startOffset": 802, "endOffset": 1158, "count": 2 },
+        { "startOffset": 922, "endOffset": 1157, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 935, "endOffset": 1004, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1058, "endOffset": 1155, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

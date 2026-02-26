@@ -1,0 +1,29 @@
+{
+  "scriptId": "351",
+  "url": "file:///Users/david/dev/deno_std/yaml/_dumper/dumper_state.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1972, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compileStyleMap",
+      "ranges": [
+        { "startOffset": 332, "endOffset": 971, "count": 5 },
+        { "startOffset": 432, "endOffset": 970, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1011, "endOffset": 1971, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DumperState",
+      "ranges": [{ "startOffset": 1262, "endOffset": 1969, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

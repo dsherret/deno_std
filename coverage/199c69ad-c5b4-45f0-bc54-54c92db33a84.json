@@ -1,0 +1,98 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/log/file_handler_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6199, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dispose_SuppressedError",
+      "ranges": [{ "startOffset": 75, "endOffset": 681, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_dispose",
+      "ranges": [{ "startOffset": 682, "endOffset": 1147, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "next",
+      "ranges": [
+        { "startOffset": 728, "endOffset": 998, "count": 3 },
+        { "startOffset": 864, "endOffset": 906, "count": 0 },
+        { "startOffset": 915, "endOffset": 957, "count": 0 },
+        { "startOffset": 982, "endOffset": 994, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "err",
+      "ranges": [{ "startOffset": 1001, "endOffset": 1128, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_using",
+      "ranges": [
+        { "startOffset": 1148, "endOffset": 1815, "count": 3 },
+        { "startOffset": 1231, "endOffset": 1244, "count": 0 },
+        { "startOffset": 1276, "endOffset": 1390, "count": 0 },
+        { "startOffset": 1406, "endOffset": 1494, "count": 0 },
+        { "startOffset": 1578, "endOffset": 1609, "count": 0 },
+        { "startOffset": 1653, "endOffset": 1731, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 2121, "endOffset": 3122, "count": 1 },
+        { "startOffset": 2757, "endOffset": 2986, "count": 300 },
+        { "startOffset": 2993, "endOffset": 3060, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flush",
+      "ranges": [{ "startOffset": 2220, "endOffset": 2459, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [{ "startOffset": 2468, "endOffset": 2553, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3208, "endOffset": 3924, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 4014, "endOffset": 4513, "count": 1 },
+        { "startOffset": 4384, "endOffset": 4451, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4273, "endOffset": 4315, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 4580, "endOffset": 5112, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 5196, "endOffset": 6194, "count": 1 },
+        { "startOffset": 6065, "endOffset": 6132, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

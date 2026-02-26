@@ -1,0 +1,16 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/distinct.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 655, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "distinct",
+      "ranges": [{ "startOffset": 570, "endOffset": 654, "count": 9 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

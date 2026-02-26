@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/increment_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 22038, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 315, "endOffset": 22035, "count": 1 },
+        { "startOffset": 21820, "endOffset": 22033, "count": 106 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 21891, "endOffset": 22021, "count": 106 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

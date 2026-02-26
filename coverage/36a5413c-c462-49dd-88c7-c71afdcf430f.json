@@ -1,0 +1,33 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/zip_readable_streams.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zipReadableStreams",
+      "ranges": [{ "startOffset": 838, "endOffset": 1466, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 918, "endOffset": 936, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "start",
+      "ranges": [
+        { "startOffset": 974, "endOffset": 1458, "count": 1 },
+        { "startOffset": 1081, "endOffset": 1367, "count": 4 },
+        { "startOffset": 1122, "endOffset": 1357, "count": 8 },
+        { "startOffset": 1204, "endOffset": 1260, "count": 6 },
+        { "startOffset": 1260, "endOffset": 1345, "count": 2 },
+        { "startOffset": 1404, "endOffset": 1452, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

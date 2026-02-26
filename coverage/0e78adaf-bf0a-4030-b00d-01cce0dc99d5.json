@@ -1,0 +1,66 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/zip_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3593, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zip1Test",
+      "ranges": [{ "startOffset": 156, "endOffset": 278, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 355, "endOffset": 526, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zipTest",
+      "ranges": [{ "startOffset": 531, "endOffset": 652, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zip3Test",
+      "ranges": [{ "startOffset": 653, "endOffset": 775, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 828, "endOffset": 1163, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1251, "endOffset": 1526, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1582, "endOffset": 1846, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1902, "endOffset": 2146, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2202, "endOffset": 2691, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2749, "endOffset": 3142, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3201, "endOffset": 3588, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

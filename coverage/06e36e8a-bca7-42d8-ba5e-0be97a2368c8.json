@@ -1,0 +1,46 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/data_structures/_binary_search_node_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3095, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "beforeEach",
+      "ranges": [{ "startOffset": 228, "endOffset": 362, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 393, "endOffset": 745, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 785, "endOffset": 1281, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1336, "endOffset": 1645, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1692, "endOffset": 2146, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2193, "endOffset": 2719, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2772, "endOffset": 3092, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

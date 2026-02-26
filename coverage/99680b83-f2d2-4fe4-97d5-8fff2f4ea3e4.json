@@ -1,0 +1,116 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/io/buffer.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7889, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1124, "endOffset": 7888, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Buffer",
+      "ranges": [
+        { "startOffset": 1148, "endOffset": 1243, "count": 2 },
+        { "startOffset": 1218, "endOffset": 1238, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bytes",
+      "ranges": [
+        { "startOffset": 1733, "endOffset": 1885, "count": 2 },
+        { "startOffset": 1805, "endOffset": 1842, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "empty",
+      "ranges": [{ "startOffset": 1954, "endOffset": 2013, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get length",
+      "ranges": [{ "startOffset": 2088, "endOffset": 2151, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get capacity",
+      "ranges": [{ "startOffset": 2286, "endOffset": 2346, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "truncate",
+      "ranges": [{ "startOffset": 2546, "endOffset": 2758, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [{ "startOffset": 2761, "endOffset": 2815, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#tryGrowByReslice",
+      "ranges": [
+        { "startOffset": 2818, "endOffset": 2979, "count": 2 },
+        { "startOffset": 2909, "endOffset": 2960, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#reslice",
+      "ranges": [{ "startOffset": 2982, "endOffset": 3107, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readSync",
+      "ranges": [{ "startOffset": 3306, "endOffset": 3667, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [{ "startOffset": 3990, "endOffset": 4068, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeSync",
+      "ranges": [{ "startOffset": 4071, "endOffset": 4163, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "write",
+      "ranges": [{ "startOffset": 4282, "endOffset": 4360, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#grow",
+      "ranges": [
+        { "startOffset": 4363, "endOffset": 5439, "count": 2 },
+        { "startOffset": 4488, "endOffset": 4515, "count": 0 },
+        { "startOffset": 4621, "endOffset": 4644, "count": 0 },
+        { "startOffset": 4710, "endOffset": 4992, "count": 0 },
+        { "startOffset": 5020, "endOffset": 5105, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "grow",
+      "ranges": [{ "startOffset": 5833, "endOffset": 5970, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFrom",
+      "ranges": [{ "startOffset": 6311, "endOffset": 6933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFromSync",
+      "ranges": [{ "startOffset": 7268, "endOffset": 7886, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

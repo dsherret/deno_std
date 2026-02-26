@@ -1,0 +1,19 @@
+{
+  "scriptId": "344",
+  "url": "file:///Users/david/dev/deno_std/path/_common/normalize.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 253, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertArg",
+      "ranges": [
+        { "startOffset": 167, "endOffset": 252, "count": 2 },
+        { "startOffset": 239, "endOffset": 250, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

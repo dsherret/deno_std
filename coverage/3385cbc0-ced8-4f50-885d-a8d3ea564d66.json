@@ -1,0 +1,109 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/crypto/crypto_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 65650, "count": 1 },
+        { "startOffset": 63372, "endOffset": 65109, "count": 27 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 491, "endOffset": 2237, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1467, "endOffset": 1601, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1688, "endOffset": 1786, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1875, "endOffset": 1914, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2285, "endOffset": 2857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2548, "endOffset": 2587, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2665, "endOffset": 2710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2904, "endOffset": 3359, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3432, "endOffset": 4688, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4759, "endOffset": 5561, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5715, "endOffset": 5730, "count": 1237 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5867, "endOffset": 5882, "count": 1000000 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 62673, "endOffset": 63328, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 63426, "endOffset": 65105, "count": 27 },
+        { "startOffset": 63517, "endOffset": 65101, "count": 1296 },
+        { "startOffset": 63624, "endOffset": 65095, "count": 1728 },
+        { "startOffset": 63984, "endOffset": 64376, "count": 591 },
+        { "startOffset": 64208, "endOffset": 64246, "count": 336 },
+        { "startOffset": 64247, "endOffset": 64251, "count": 255 },
+        { "startOffset": 64376, "endOffset": 65087, "count": 1137 },
+        { "startOffset": 64584, "endOffset": 64597, "count": 0 },
+        { "startOffset": 64759, "endOffset": 64988, "count": 0 },
+        { "startOffset": 64998, "endOffset": 65087, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 63664, "endOffset": 63740, "count": 2349 },
+        { "startOffset": 63699, "endOffset": 63732, "count": 729 },
+        { "startOffset": 63733, "endOffset": 63740, "count": 1620 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 65562, "endOffset": 65647, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

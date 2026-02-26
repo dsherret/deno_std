@@ -1,0 +1,65 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/semver/range_intersects.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1135, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "rangesSatisfiable",
+      "ranges": [{ "startOffset": 143, "endOffset": 343, "count": 118 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 202, "endOffset": 339, "count": 230 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 283, "endOffset": 333, "count": 230 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "comparatorsSatisfiable",
+      "ranges": [
+        { "startOffset": 344, "endOffset": 691, "count": 230 },
+        { "startOffset": 511, "endOffset": 674, "count": 77 },
+        { "startOffset": 633, "endOffset": 664, "count": 12 },
+        { "startOffset": 670, "endOffset": 674, "count": 65 },
+        { "startOffset": 674, "endOffset": 690, "count": 218 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "rangeIntersects",
+      "ranges": [
+        { "startOffset": 884, "endOffset": 1134, "count": 118 },
+        { "startOffset": 968, "endOffset": 1131, "count": 106 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 979, "endOffset": 1130, "count": 112 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1007, "endOffset": 1124, "count": 126 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1039, "endOffset": 1116, "count": 156 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1072, "endOffset": 1106, "count": 194 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

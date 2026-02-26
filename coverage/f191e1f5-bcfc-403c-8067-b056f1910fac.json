@@ -1,0 +1,19 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/url/join_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 895, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 755, "endOffset": 892, "count": 1 },
+        { "startOffset": 827, "endOffset": 890, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

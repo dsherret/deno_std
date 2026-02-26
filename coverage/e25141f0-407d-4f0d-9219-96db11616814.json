@@ -1,0 +1,16 @@
+{
+  "scriptId": "356",
+  "url": "file:///Users/david/dev/deno_std/path/glob_to_regexp.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3355, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "globToRegExp",
+      "ranges": [{ "startOffset": 3174, "endOffset": 3354, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

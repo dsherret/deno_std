@@ -1,0 +1,62 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/aggregate_groups_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1792, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "aggregateGroupsTest",
+      "ranges": [{ "startOffset": 181, "endOffset": 326, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 390, "endOffset": 717, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 562, "endOffset": 567, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 806, "endOffset": 1272, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "aggregateGroupsTest.Curry",
+      "ranges": [
+        { "startOffset": 1005, "endOffset": 1154, "count": 4 },
+        { "startOffset": 1054, "endOffset": 1153, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1359, "endOffset": 1648, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "aggregateGroupsTest.Woody",
+      "ranges": [
+        { "startOffset": 1546, "endOffset": 1596, "count": 6 },
+        { "startOffset": 1591, "endOffset": 1595, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1716, "endOffset": 1787, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1766, "endOffset": 1771, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

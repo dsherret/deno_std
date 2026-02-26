@@ -1,0 +1,29 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/bytes/index_of_needle.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1348, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "indexOfNeedle",
+      "ranges": [
+        { "startOffset": 799, "endOffset": 1347, "count": 4 },
+        { "startOffset": 881, "endOffset": 901, "count": 0 },
+        { "startOffset": 919, "endOffset": 972, "count": 2 },
+        { "startOffset": 1040, "endOffset": 1332, "count": 6 },
+        { "startOffset": 1067, "endOffset": 1076, "count": 2 },
+        { "startOffset": 1076, "endOffset": 1166, "count": 4 },
+        { "startOffset": 1166, "endOffset": 1267, "count": 8 },
+        { "startOffset": 1220, "endOffset": 1244, "count": 1 },
+        { "startOffset": 1244, "endOffset": 1267, "count": 7 },
+        { "startOffset": 1267, "endOffset": 1303, "count": 4 },
+        { "startOffset": 1303, "endOffset": 1328, "count": 3 },
+        { "startOffset": 1332, "endOffset": 1346, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

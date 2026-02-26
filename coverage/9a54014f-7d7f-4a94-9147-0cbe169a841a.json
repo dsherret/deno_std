@@ -1,0 +1,32 @@
+{
+  "scriptId": "366",
+  "url": "file:///Users/david/dev/deno_std/io/multi_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 686, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 347, "endOffset": 685, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MultiReader",
+      "ranges": [{ "startOffset": 384, "endOffset": 455, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        { "startOffset": 458, "endOffset": 683, "count": 38 },
+        { "startOffset": 535, "endOffset": 547, "count": 2 },
+        { "startOffset": 547, "endOffset": 609, "count": 36 },
+        { "startOffset": 609, "endOffset": 660, "count": 19 },
+        { "startOffset": 660, "endOffset": 682, "count": 17 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

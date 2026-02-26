@@ -1,0 +1,61 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/webgpu/texture_with_data.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3556, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "textureDimensionArrayLayerCount",
+      "ranges": [
+        { "startOffset": 204, "endOffset": 441, "count": 1 },
+        { "startOffset": 289, "endOffset": 299, "count": 0 },
+        { "startOffset": 304, "endOffset": 330, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeExtent3D",
+      "ranges": [
+        { "startOffset": 442, "endOffset": 665, "count": 3 },
+        { "startOffset": 504, "endOffset": 635, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extent3DPhysicalSize",
+      "ranges": [
+        { "startOffset": 666, "endOffset": 1109, "count": 1 },
+        { "startOffset": 965, "endOffset": 969, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extent3DMipLevelSize",
+      "ranges": [
+        { "startOffset": 1110, "endOffset": 1437, "count": 1 },
+        { "startOffset": 1297, "endOffset": 1301, "count": 0 },
+        { "startOffset": 1343, "endOffset": 1398, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "textureMipLevelSize",
+      "ranges": [
+        { "startOffset": 1438, "endOffset": 1651, "count": 1 },
+        { "startOffset": 1536, "endOffset": 1563, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createTextureWithData",
+      "ranges": [
+        { "startOffset": 2172, "endOffset": 3555, "count": 1 },
+        { "startOffset": 2598, "endOffset": 2602, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

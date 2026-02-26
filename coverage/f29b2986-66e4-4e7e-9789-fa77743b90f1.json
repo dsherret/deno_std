@@ -1,0 +1,16 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/io/string_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 992, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StringReader",
+      "ranges": [{ "startOffset": 923, "endOffset": 989, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

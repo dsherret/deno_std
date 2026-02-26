@@ -1,0 +1,16 @@
+{
+  "scriptId": "364",
+  "url": "file:///Users/david/dev/deno_std/fs/_is_same_path.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 491, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSamePath",
+      "ranges": [{ "startOffset": 359, "endOffset": 490, "count": 26 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

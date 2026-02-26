@@ -1,0 +1,24 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 405, "endOffset": 1230, "count": 24 },
+        { "startOffset": 466, "endOffset": 524, "count": 0 },
+        { "startOffset": 560, "endOffset": 641, "count": 0 },
+        { "startOffset": 738, "endOffset": 789, "count": 0 },
+        { "startOffset": 1033, "endOffset": 1069, "count": 8 },
+        { "startOffset": 1070, "endOffset": 1074, "count": 16 },
+        { "startOffset": 1113, "endOffset": 1147, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

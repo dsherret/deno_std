@@ -1,0 +1,24 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/fs/ensure_link.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1407, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureLink",
+      "ranges": [
+        { "startOffset": 677, "endOffset": 824, "count": 3 },
+        { "startOffset": 822, "endOffset": 823, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureLinkSync",
+      "ranges": [{ "startOffset": 1265, "endOffset": 1406, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

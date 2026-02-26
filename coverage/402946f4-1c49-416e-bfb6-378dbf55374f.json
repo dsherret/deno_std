@@ -1,0 +1,21 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/early_zip_readable_streams_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1031, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 258, "endOffset": 608, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 669, "endOffset": 1028, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

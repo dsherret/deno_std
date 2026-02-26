@@ -1,0 +1,16 @@
+{
+  "scriptId": "356",
+  "url": "file:///Users/david/dev/deno_std/media_types/type_by_extension.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 915, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "typeByExtension",
+      "ranges": [{ "startOffset": 705, "endOffset": 914, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

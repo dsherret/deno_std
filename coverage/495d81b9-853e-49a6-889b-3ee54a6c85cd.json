@@ -1,0 +1,21 @@
+{
+  "scriptId": "375",
+  "url": "file:///Users/david/dev/deno_std/yaml/_state.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 420, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 336, "endOffset": 419, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "State",
+      "ranges": [{ "startOffset": 350, "endOffset": 417, "count": 6 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

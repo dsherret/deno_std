@@ -1,0 +1,87 @@
+{
+  "scriptId": "317",
+  "url": "file:///Users/david/dev/deno_std/http/file_server.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 22033, "count": 1 },
+        { "startOffset": 1948, "endOffset": 1960, "count": 0 },
+        { "startOffset": 2075, "endOffset": 2086, "count": 0 },
+        { "startOffset": 2141, "endOffset": 2190, "count": 0 },
+        { "startOffset": 22019, "endOffset": 22032, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "modeToString",
+      "ranges": [{ "startOffset": 2204, "endOffset": 2698, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createStandardResponse",
+      "ranges": [{ "startOffset": 2699, "endOffset": 2872, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRangeHeader",
+      "ranges": [{ "startOffset": 3283, "endOffset": 4047, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveFile",
+      "ranges": [{ "startOffset": 4248, "endOffset": 8376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveDirIndex",
+      "ranges": [{ "startOffset": 8377, "endOffset": 10587, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveFallback",
+      "ranges": [{ "startOffset": 10588, "endOffset": 10908, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serverLog",
+      "ranges": [{ "startOffset": 10909, "endOffset": 11269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createBaseHeaders",
+      "ranges": [{ "startOffset": 11270, "endOffset": 11478, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dirViewerTemplate",
+      "ranges": [{ "startOffset": 11479, "endOffset": 14377, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveDir",
+      "ranges": [{ "startOffset": 15351, "endOffset": 16279, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createServeDirResponse",
+      "ranges": [{ "startOffset": 16280, "endOffset": 18913, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "logError",
+      "ranges": [{ "startOffset": 18914, "endOffset": 19017, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "main",
+      "ranges": [{ "startOffset": 19018, "endOffset": 20920, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "printUsage",
+      "ranges": [{ "startOffset": 20921, "endOffset": 21996, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/encoding/base64url.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2213, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addPaddingToBase64url",
+      "ranges": [
+        { "startOffset": 495, "endOffset": 771, "count": 13 },
+        { "startOffset": 573, "endOffset": 597, "count": 3 },
+        { "startOffset": 597, "endOffset": 632, "count": 10 },
+        { "startOffset": 632, "endOffset": 655, "count": 3 },
+        { "startOffset": 655, "endOffset": 690, "count": 7 },
+        { "startOffset": 690, "endOffset": 749, "count": 4 },
+        { "startOffset": 749, "endOffset": 770, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convertBase64urlToBase64",
+      "ranges": [
+        { "startOffset": 772, "endOffset": 1076, "count": 17 },
+        { "startOffset": 861, "endOffset": 995, "count": 4 },
+        { "startOffset": 995, "endOffset": 1075, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convertBase64ToBase64url",
+      "ranges": [
+        { "startOffset": 1077, "endOffset": 1332, "count": 18 },
+        { "startOffset": 1145, "endOffset": 1283, "count": 12 },
+        { "startOffset": 1166, "endOffset": 1224, "count": 6 },
+        { "startOffset": 1225, "endOffset": 1283, "count": 6 },
+        { "startOffset": 1284, "endOffset": 1329, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encodeBase64Url",
+      "ranges": [{ "startOffset": 1671, "endOffset": 1767, "count": 18 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decodeBase64Url",
+      "ranges": [{ "startOffset": 2112, "endOffset": 2212, "count": 17 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

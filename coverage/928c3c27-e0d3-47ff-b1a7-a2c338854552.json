@@ -1,0 +1,19 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/log/error.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 356, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "error",
+      "ranges": [
+        { "startOffset": 127, "endOffset": 355, "count": 2 },
+        { "startOffset": 244, "endOffset": 354, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

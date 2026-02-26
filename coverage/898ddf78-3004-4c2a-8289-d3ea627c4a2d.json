@@ -1,0 +1,22 @@
+{
+  "scriptId": "365",
+  "url": "file:///Users/david/dev/deno_std/path/posix/normalize.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1025, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [
+        { "startOffset": 573, "endOffset": 1024, "count": 144 },
+        { "startOffset": 886, "endOffset": 900, "count": 0 },
+        { "startOffset": 902, "endOffset": 913, "count": 0 },
+        { "startOffset": 958, "endOffset": 970, "count": 0 },
+        { "startOffset": 1007, "endOffset": 1023, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

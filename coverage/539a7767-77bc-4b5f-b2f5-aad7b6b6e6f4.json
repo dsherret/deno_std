@@ -1,0 +1,28 @@
+{
+  "scriptId": "342",
+  "url": "file:///Users/david/dev/deno_std/text/levenshtein_distance.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1214, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "levenshteinDistance",
+      "ranges": [
+        { "startOffset": 461, "endOffset": 1213, "count": 30 },
+        { "startOffset": 537, "endOffset": 593, "count": 0 },
+        { "startOffset": 733, "endOffset": 1184, "count": 118 },
+        { "startOffset": 854, "endOffset": 1149, "count": 156 },
+        { "startOffset": 957, "endOffset": 1016, "count": 18 },
+        { "startOffset": 1016, "endOffset": 1143, "count": 138 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 658, "endOffset": 668, "count": 66 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

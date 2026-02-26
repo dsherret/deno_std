@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/drop_while.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 840, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dropWhile",
+      "ranges": [
+        { "startOffset": 640, "endOffset": 839, "count": 7 },
+        { "startOffset": 752, "endOffset": 779, "count": 20 },
+        { "startOffset": 780, "endOffset": 799, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

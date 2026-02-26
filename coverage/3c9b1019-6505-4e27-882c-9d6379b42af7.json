@@ -1,0 +1,21 @@
+{
+  "scriptId": "355",
+  "url": "file:///Users/david/dev/deno_std/fs/exists.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5335, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exists",
+      "ranges": [{ "startOffset": 1321, "endOffset": 2740, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "existsSync",
+      "ranges": [{ "startOffset": 3923, "endOffset": 5334, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

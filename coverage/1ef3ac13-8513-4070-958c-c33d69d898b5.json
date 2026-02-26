@@ -1,0 +1,24 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/collections/includes_value.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 874, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "includesValue",
+      "ranges": [
+        { "startOffset": 650, "endOffset": 873, "count": 11 },
+        { "startOffset": 714, "endOffset": 855, "count": 10 },
+        { "startOffset": 749, "endOffset": 823, "count": 9 },
+        { "startOffset": 773, "endOffset": 822, "count": 6 },
+        { "startOffset": 796, "endOffset": 822, "count": 1 },
+        { "startOffset": 825, "endOffset": 851, "count": 4 },
+        { "startOffset": 855, "endOffset": 872, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/ltr_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6365, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 336, "endOffset": 3150, "count": 1 },
+        { "startOffset": 2995, "endOffset": 3148, "count": 57 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3029, "endOffset": 3142, "count": 57 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3196, "endOffset": 6362, "count": 1 },
+        { "startOffset": 6206, "endOffset": 6360, "count": 62 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6240, "endOffset": 6354, "count": 62 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/expect/expect.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3565, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "expect",
+      "ranges": [{ "startOffset": 1965, "endOffset": 3422, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [
+        { "startOffset": 2087, "endOffset": 3399, "count": 11 },
+        { "startOffset": 2129, "endOffset": 2183, "count": 2 },
+        { "startOffset": 2183, "endOffset": 2215, "count": 9 },
+        { "startOffset": 2215, "endOffset": 2393, "count": 0 },
+        { "startOffset": 2393, "endOffset": 2424, "count": 9 },
+        { "startOffset": 2424, "endOffset": 2750, "count": 0 },
+        { "startOffset": 2750, "endOffset": 2809, "count": 9 },
+        { "startOffset": 2809, "endOffset": 2926, "count": 0 },
+        { "startOffset": 2926, "endOffset": 3398, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2576, "endOffset": 2680, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2682, "endOffset": 2692, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2940, "endOffset": 3392, "count": 9 },
+        { "startOffset": 3307, "endOffset": 3355, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "applyMatcher",
+      "ranges": [
+        { "startOffset": 2961, "endOffset": 3280, "count": 9 },
+        { "startOffset": 3186, "endOffset": 3233, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3320, "endOffset": 3354, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

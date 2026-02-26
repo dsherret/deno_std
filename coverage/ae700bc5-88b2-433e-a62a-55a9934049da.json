@@ -1,0 +1,28 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/range_min_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3277, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 448, "endOffset": 3272, "count": 1 },
+        { "startOffset": 3049, "endOffset": 3268, "count": 42 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3073, "endOffset": 3260, "count": 42 },
+        { "startOffset": 3162, "endOffset": 3172, "count": 40 },
+        { "startOffset": 3173, "endOffset": 3176, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/text/case.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2023, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toCamelCase",
+      "ranges": [{ "startOffset": 467, "endOffset": 663, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toKebabCase",
+      "ranges": [{ "startOffset": 1002, "endOffset": 1117, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toPascalCase",
+      "ranges": [{ "startOffset": 1456, "endOffset": 1571, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toSnakeCase",
+      "ranges": [{ "startOffset": 1907, "endOffset": 2022, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

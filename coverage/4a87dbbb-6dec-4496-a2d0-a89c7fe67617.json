@@ -1,0 +1,84 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/http/_negotiation/language.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3704, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseLanguage",
+      "ranges": [
+        { "startOffset": 1575, "endOffset": 2153, "count": 33 },
+        { "startOffset": 1672, "endOffset": 1699, "count": 0 },
+        { "startOffset": 1751, "endOffset": 1778, "count": 0 },
+        { "startOffset": 1801, "endOffset": 1824, "count": 13 },
+        { "startOffset": 1825, "endOffset": 1833, "count": 20 },
+        { "startOffset": 1864, "endOffset": 2088, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseAcceptLanguage",
+      "ranges": [
+        { "startOffset": 2154, "endOffset": 2430, "count": 3 },
+        { "startOffset": 2297, "endOffset": 2411, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "specify",
+      "ranges": [
+        { "startOffset": 2431, "endOffset": 2900, "count": 19 },
+        { "startOffset": 2519, "endOffset": 2546, "count": 0 },
+        { "startOffset": 2616, "endOffset": 2633, "count": 1 },
+        { "startOffset": 2633, "endOffset": 2839, "count": 18 },
+        { "startOffset": 2697, "endOffset": 2714, "count": 2 },
+        { "startOffset": 2714, "endOffset": 2839, "count": 16 },
+        { "startOffset": 2776, "endOffset": 2793, "count": 0 },
+        { "startOffset": 2822, "endOffset": 2839, "count": 13 },
+        { "startOffset": 2839, "endOffset": 2899, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getLanguagePriority",
+      "ranges": [
+        { "startOffset": 2901, "endOffset": 3283, "count": 4 },
+        { "startOffset": 3057, "endOffset": 3262, "count": 19 },
+        { "startOffset": 3124, "endOffset": 3226, "count": 6 },
+        { "startOffset": 3140, "endOffset": 3144, "count": 0 },
+        { "startOffset": 3156, "endOffset": 3160, "count": 0 },
+        { "startOffset": 3162, "endOffset": 3184, "count": 0 },
+        { "startOffset": 3185, "endOffset": 3221, "count": 0 },
+        { "startOffset": 3228, "endOffset": 3258, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "preferredLanguages",
+      "ranges": [
+        { "startOffset": 3291, "endOffset": 3703, "count": 3 },
+        { "startOffset": 3409, "endOffset": 3494, "count": 1 },
+        { "startOffset": 3494, "endOffset": 3702, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3471, "endOffset": 3488, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3529, "endOffset": 3585, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3649, "endOffset": 3699, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

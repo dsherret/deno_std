@@ -1,0 +1,45 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/to_transform_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2130, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toTransformStream",
+      "ranges": [
+        { "startOffset": 878, "endOffset": 2129, "count": 8 },
+        { "startOffset": 1130, "endOffset": 1134, "count": 3 },
+        { "startOffset": 1135, "endOffset": 1167, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pull",
+      "ranges": [
+        { "startOffset": 1235, "endOffset": 1746, "count": 14 },
+        { "startOffset": 1336, "endOffset": 1347, "count": 11 },
+        { "startOffset": 1347, "endOffset": 1611, "count": 3 },
+        { "startOffset": 1611, "endOffset": 1637, "count": 11 },
+        { "startOffset": 1637, "endOffset": 1696, "count": 3 },
+        { "startOffset": 1696, "endOffset": 1745, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1540, "endOffset": 1546, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [
+        { "startOffset": 1754, "endOffset": 2097, "count": 2 },
+        { "startOffset": 1946, "endOffset": 2040, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

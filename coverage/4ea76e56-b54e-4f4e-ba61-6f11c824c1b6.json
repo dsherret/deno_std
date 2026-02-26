@@ -1,0 +1,21 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/async/retry.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3286, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RetryError",
+      "ranges": [{ "startOffset": 607, "endOffset": 757, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retry",
+      "ranges": [{ "startOffset": 2549, "endOffset": 3285, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

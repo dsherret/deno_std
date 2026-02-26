@@ -1,0 +1,61 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/async/tee_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "iter",
+      "ranges": [{ "startOffset": 202, "endOffset": 261, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 301, "endOffset": 560, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 372, "endOffset": 411, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 628, "endOffset": 945, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 708, "endOffset": 747, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1011, "endOffset": 1360, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1095, "endOffset": 1146, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1123, "endOffset": 1136, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1192, "endOffset": 1231, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1414, "endOffset": 1796, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

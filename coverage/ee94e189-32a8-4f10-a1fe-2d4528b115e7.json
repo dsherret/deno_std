@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/unzip.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1008, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unzip",
+      "ranges": [{ "startOffset": 777, "endOffset": 1007, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 903, "endOffset": 989, "count": 12 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

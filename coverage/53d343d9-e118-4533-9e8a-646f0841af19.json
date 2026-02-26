@@ -1,0 +1,43 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/semver/is_semver.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1354, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSemVer",
+      "ranges": [
+        { "startOffset": 810, "endOffset": 1353, "count": 35 },
+        { "startOffset": 858, "endOffset": 880, "count": 34 },
+        { "startOffset": 882, "endOffset": 895, "count": 2 },
+        { "startOffset": 895, "endOffset": 924, "count": 33 },
+        { "startOffset": 924, "endOffset": 937, "count": 1 },
+        { "startOffset": 937, "endOffset": 971, "count": 32 },
+        { "startOffset": 971, "endOffset": 984, "count": 4 },
+        { "startOffset": 984, "endOffset": 1010, "count": 28 },
+        { "startOffset": 1010, "endOffset": 1022, "count": 0 },
+        { "startOffset": 1022, "endOffset": 1044, "count": 28 },
+        { "startOffset": 1044, "endOffset": 1056, "count": 0 },
+        { "startOffset": 1056, "endOffset": 1157, "count": 28 },
+        { "startOffset": 1157, "endOffset": 1180, "count": 25 },
+        { "startOffset": 1181, "endOffset": 1204, "count": 23 },
+        { "startOffset": 1205, "endOffset": 1233, "count": 21 },
+        { "startOffset": 1234, "endOffset": 1296, "count": 20 },
+        { "startOffset": 1297, "endOffset": 1320, "count": 16 },
+        { "startOffset": 1321, "endOffset": 1350, "count": 15 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1254, "endOffset": 1295, "count": 7 },
+        { "startOffset": 1276, "endOffset": 1295, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "378",
+  "url": "file:///Users/david/dev/deno_std/path/windows/normalize.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3695, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [{ "startOffset": 643, "endOffset": 3694, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

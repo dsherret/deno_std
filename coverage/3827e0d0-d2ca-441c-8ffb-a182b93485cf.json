@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/uuid/v3.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1838, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validate",
+      "ranges": [{ "startOffset": 773, "endOffset": 825, "count": 10003 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "generate",
+      "ranges": [{ "startOffset": 1351, "endOffset": 1837, "count": 10003 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/semver/_shared.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5292, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareNumber",
+      "ranges": [
+        { "startOffset": 82, "endOffset": 232, "count": 177 },
+        { "startOffset": 141, "endOffset": 191, "count": 0 },
+        { "startOffset": 209, "endOffset": 212, "count": 52 },
+        { "startOffset": 213, "endOffset": 229, "count": 125 },
+        { "startOffset": 221, "endOffset": 225, "count": 34 },
+        { "startOffset": 226, "endOffset": 229, "count": 91 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkIdentifier",
+      "ranges": [
+        { "startOffset": 240, "endOffset": 470, "count": 6 },
+        { "startOffset": 390, "endOffset": 403, "count": 0 },
+        { "startOffset": 405, "endOffset": 415, "count": 0 },
+        { "startOffset": 447, "endOffset": 456, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareIdentifier",
+      "ranges": [
+        { "startOffset": 478, "endOffset": 1151, "count": 6 },
+        { "startOffset": 607, "endOffset": 1137, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isValidNumber",
+      "ranges": [{ "startOffset": 3794, "endOffset": 3966, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isValidString",
+      "ranges": [{ "startOffset": 4305, "endOffset": 4455, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parsePrerelease",
+      "ranges": [{ "startOffset": 4536, "endOffset": 4789, "count": 33 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 4626, "endOffset": 4785, "count": 16 },
+        { "startOffset": 4678, "endOffset": 4766, "count": 3 },
+        { "startOffset": 4766, "endOffset": 4784, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseBuild",
+      "ranges": [{ "startOffset": 4797, "endOffset": 4886, "count": 29 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseNumber",
+      "ranges": [{ "startOffset": 4894, "endOffset": 5053, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isWildcardComparator",
+      "ranges": [
+        { "startOffset": 5061, "endOffset": 5291, "count": 128 },
+        { "startOffset": 5127, "endOffset": 5151, "count": 1 },
+        { "startOffset": 5152, "endOffset": 5176, "count": 1 },
+        { "startOffset": 5177, "endOffset": 5237, "count": 1 },
+        { "startOffset": 5238, "endOffset": 5288, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

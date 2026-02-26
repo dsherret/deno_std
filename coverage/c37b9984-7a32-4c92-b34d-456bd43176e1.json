@@ -1,0 +1,71 @@
+{
+  "scriptId": "445",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/int.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4174, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isHexCode",
+      "ranges": [{ "startOffset": 349, "endOffset": 483, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isOctCode",
+      "ranges": [{ "startOffset": 484, "endOffset": 559, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDecCode",
+      "ranges": [{ "startOffset": 560, "endOffset": 635, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlInteger",
+      "ranges": [
+        { "startOffset": 636, "endOffset": 2358, "count": 16 },
+        { "startOffset": 753, "endOffset": 766, "count": 0 },
+        { "startOffset": 833, "endOffset": 862, "count": 0 },
+        { "startOffset": 881, "endOffset": 1786, "count": 0 },
+        { "startOffset": 1878, "endOffset": 1891, "count": 0 },
+        { "startOffset": 1965, "endOffset": 1974, "count": 0 },
+        { "startOffset": 1995, "endOffset": 2001, "count": 0 },
+        { "startOffset": 2073, "endOffset": 2182, "count": 0 },
+        { "startOffset": 2184, "endOffset": 2357, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructYamlInteger",
+      "ranges": [{ "startOffset": 2359, "endOffset": 3198, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isInteger",
+      "ranges": [{ "startOffset": 3199, "endOffset": 3347, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "binary",
+      "ranges": [{ "startOffset": 3526, "endOffset": 3629, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "octal",
+      "ranges": [{ "startOffset": 3635, "endOffset": 3735, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decimal",
+      "ranges": [{ "startOffset": 3741, "endOffset": 3793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hexadecimal",
+      "ranges": [{ "startOffset": 3799, "endOffset": 3937, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

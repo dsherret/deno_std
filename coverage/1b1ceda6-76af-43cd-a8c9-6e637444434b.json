@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/distinct_by.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1014, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "distinctBy",
+      "ranges": [
+        { "startOffset": 685, "endOffset": 1013, "count": 12 },
+        { "startOffset": 808, "endOffset": 997, "count": 35 },
+        { "startOffset": 913, "endOffset": 993, "count": 23 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

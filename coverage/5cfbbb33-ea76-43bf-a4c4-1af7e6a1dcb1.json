@@ -1,0 +1,36 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/log/console_handler.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1120, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 391, "endOffset": 1119, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConsoleHandler",
+      "ranges": [{ "startOffset": 409, "endOffset": 530, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 533, "endOffset": 696, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applyColors",
+      "ranges": [{ "startOffset": 699, "endOffset": 1078, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 1081, "endOffset": 1117, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/http/cookie.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8927, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toString",
+      "ranges": [{ "startOffset": 345, "endOffset": 1736, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateName",
+      "ranges": [{ "startOffset": 1798, "endOffset": 1943, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validatePath",
+      "ranges": [{ "startOffset": 2071, "endOffset": 2380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateValue",
+      "ranges": [{ "startOffset": 2509, "endOffset": 3141, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateDomain",
+      "ranges": [{ "startOffset": 3287, "endOffset": 3543, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCookies",
+      "ranges": [{ "startOffset": 4005, "endOffset": 4387, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setCookie",
+      "ranges": [{ "startOffset": 4905, "endOffset": 5151, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteCookie",
+      "ranges": [{ "startOffset": 5819, "endOffset": 5975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseSetCookie",
+      "ranges": [{ "startOffset": 5976, "endOffset": 8138, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSetCookies",
+      "ranges": [{ "startOffset": 8747, "endOffset": 8926, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

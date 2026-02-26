@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/filter_keys.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 925, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterKeys",
+      "ranges": [
+        { "startOffset": 736, "endOffset": 924, "count": 5 },
+        { "startOffset": 847, "endOffset": 908, "count": 12 },
+        { "startOffset": 873, "endOffset": 904, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

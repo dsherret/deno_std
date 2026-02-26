@@ -1,0 +1,21 @@
+{
+  "scriptId": "424",
+  "url": "file:///Users/david/dev/deno_std/path/_common/format.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 647, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_format",
+      "ranges": [{ "startOffset": 120, "endOffset": 424, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assertArg",
+      "ranges": [{ "startOffset": 432, "endOffset": 646, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

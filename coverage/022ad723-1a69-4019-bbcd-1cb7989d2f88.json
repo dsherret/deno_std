@@ -1,0 +1,11 @@
+{
+  "scriptId": "301",
+  "url": "",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1679, "count": 8 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

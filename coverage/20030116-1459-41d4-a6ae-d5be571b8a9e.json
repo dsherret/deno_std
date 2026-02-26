@@ -1,0 +1,19 @@
+{
+  "scriptId": "345",
+  "url": "file:///Users/david/dev/deno_std/path/posix/is_absolute.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 443, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAbsolute",
+      "ranges": [
+        { "startOffset": 323, "endOffset": 442, "count": 5 },
+        { "startOffset": 396, "endOffset": 439, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

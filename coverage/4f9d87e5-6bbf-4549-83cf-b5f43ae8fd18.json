@@ -1,0 +1,42 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/permissions/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1779, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getPermissionString",
+      "ranges": [{ "startOffset": 335, "endOffset": 763, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "grant",
+      "ranges": [
+        { "startOffset": 771, "endOffset": 1269, "count": 3 },
+        { "startOffset": 885, "endOffset": 897, "count": 1 },
+        { "startOffset": 898, "endOffset": 940, "count": 2 },
+        { "startOffset": 981, "endOffset": 1222, "count": 5 },
+        { "startOffset": 1077, "endOffset": 1150, "count": 0 },
+        { "startOffset": 1255, "endOffset": 1266, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "grantOrThrow",
+      "ranges": [
+        { "startOffset": 1277, "endOffset": 1778, "count": 4 },
+        { "startOffset": 1398, "endOffset": 1410, "count": 1 },
+        { "startOffset": 1411, "endOffset": 1453, "count": 3 },
+        { "startOffset": 1494, "endOffset": 1633, "count": 6 },
+        { "startOffset": 1561, "endOffset": 1591, "count": 4 },
+        { "startOffset": 1591, "endOffset": 1629, "count": 0 },
+        { "startOffset": 1633, "endOffset": 1655, "count": 2 },
+        { "startOffset": 1655, "endOffset": 1776, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

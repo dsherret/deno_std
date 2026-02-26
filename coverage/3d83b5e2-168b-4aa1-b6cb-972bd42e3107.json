@@ -1,0 +1,36 @@
+{
+  "scriptId": "321",
+  "url": "file:///Users/david/dev/deno_std/path/posix/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2942, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 443, "endOffset": 2941, "count": 5 },
+        { "startOffset": 599, "endOffset": 610, "count": 0 },
+        { "startOffset": 745, "endOffset": 771, "count": 0 },
+        { "startOffset": 1067, "endOffset": 1940, "count": 40 },
+        { "startOffset": 1142, "endOffset": 1372, "count": 5 },
+        { "startOffset": 1350, "endOffset": 1372, "count": 0 },
+        { "startOffset": 1372, "endOffset": 1393, "count": 35 },
+        { "startOffset": 1393, "endOffset": 1540, "count": 5 },
+        { "startOffset": 1540, "endOffset": 1568, "count": 35 },
+        { "startOffset": 1568, "endOffset": 1740, "count": 5 },
+        { "startOffset": 1683, "endOffset": 1734, "count": 0 },
+        { "startOffset": 1740, "endOffset": 1936, "count": 30 },
+        { "startOffset": 1767, "endOffset": 1936, "count": 20 },
+        { "startOffset": 2139, "endOffset": 2162, "count": 0 },
+        { "startOffset": 2163, "endOffset": 2192, "count": 0 },
+        { "startOffset": 2194, "endOffset": 2485, "count": 0 },
+        { "startOffset": 2517, "endOffset": 2530, "count": 0 },
+        { "startOffset": 2532, "endOffset": 2618, "count": 0 },
+        { "startOffset": 2889, "endOffset": 2925, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

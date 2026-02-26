@@ -1,0 +1,19 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/url/basename_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 875, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 735, "endOffset": 872, "count": 1 },
+        { "startOffset": 805, "endOffset": 870, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

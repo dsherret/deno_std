@@ -1,0 +1,31 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/crypto/unstable_keystack.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5229, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "importKey",
+      "ranges": [{ "startOffset": 447, "endOffset": 757, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sign",
+      "ranges": [{ "startOffset": 758, "endOffset": 975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compare",
+      "ranges": [{ "startOffset": 1435, "endOffset": 1711, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 2501, "endOffset": 5228, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

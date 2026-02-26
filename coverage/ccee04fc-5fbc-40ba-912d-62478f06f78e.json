@@ -1,0 +1,72 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/encoding/base32_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4254, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromHexString",
+      "ranges": [{ "startOffset": 479, "endOffset": 566, "count": 34 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 538, "endOffset": 564, "count": 512 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toHexString",
+      "ranges": [{ "startOffset": 588, "endOffset": 668, "count": 34 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 610, "endOffset": 663, "count": 512 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 3500, "endOffset": 3617, "count": 1 },
+        { "startOffset": 3547, "endOffset": 3613, "count": 34 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 3662, "endOffset": 3777, "count": 1 },
+        { "startOffset": 3709, "endOffset": 3773, "count": 34 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 3843, "endOffset": 3950, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3868, "endOffset": 3894, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 4017, "endOffset": 4096, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4042, "endOffset": 4068, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 4164, "endOffset": 4249, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scriptId": "357",
+  "url": "file:///Users/david/dev/deno_std/path/is_glob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isGlob",
+      "ranges": [
+        { "startOffset": 167, "endOffset": 871, "count": 58 },
+        { "startOffset": 381, "endOffset": 404, "count": 0 },
+        { "startOffset": 450, "endOffset": 853, "count": 32 },
+        { "startOffset": 482, "endOffset": 692, "count": 0 },
+        { "startOffset": 693, "endOffset": 699, "count": 0 },
+        { "startOffset": 714, "endOffset": 722, "count": 0 },
+        { "startOffset": 724, "endOffset": 853, "count": 0 },
+        { "startOffset": 853, "endOffset": 870, "count": 26 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

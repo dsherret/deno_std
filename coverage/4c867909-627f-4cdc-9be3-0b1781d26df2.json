@@ -1,0 +1,25 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/chunk.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1227, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "chunk",
+      "ranges": [
+        { "startOffset": 730, "endOffset": 1226, "count": 15 },
+        { "startOffset": 776, "endOffset": 802, "count": 11 },
+        { "startOffset": 804, "endOffset": 897, "count": 5 },
+        { "startOffset": 897, "endOffset": 924, "count": 10 },
+        { "startOffset": 924, "endOffset": 944, "count": 1 },
+        { "startOffset": 944, "endOffset": 1097, "count": 9 },
+        { "startOffset": 1097, "endOffset": 1210, "count": 20 },
+        { "startOffset": 1210, "endOffset": 1225, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

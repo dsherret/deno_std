@@ -1,0 +1,47 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/async/deadline.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1636, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DeadlineError",
+      "ranges": [{ "startOffset": 484, "endOffset": 564, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deadline",
+      "ranges": [
+        { "startOffset": 1146, "endOffset": 1635, "count": 6 },
+        { "startOffset": 1273, "endOffset": 1282, "count": 3 },
+        { "startOffset": 1284, "endOffset": 1337, "count": 1 },
+        { "startOffset": 1337, "endOffset": 1346, "count": 5 },
+        { "startOffset": 1346, "endOffset": 1364, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1374, "endOffset": 1409, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1477, "endOffset": 1483, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1517, "endOffset": 1556, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1597, "endOffset": 1619, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

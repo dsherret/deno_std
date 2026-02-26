@@ -1,0 +1,16 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/testing/types.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 918, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertType",
+      "ranges": [{ "startOffset": 882, "endOffset": 917, "count": 44 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

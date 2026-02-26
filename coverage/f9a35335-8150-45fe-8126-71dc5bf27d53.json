@@ -1,0 +1,31 @@
+{
+  "scriptId": "306",
+  "url": "file:///var/folders/v4/3smqxpkj0dx9w4cqs40nmh3c0000gn/T/8ea903ff7e428e0b/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 546, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 131, "endOffset": 198, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 246, "endOffset": 313, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 361, "endOffset": 428, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 475, "endOffset": 543, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

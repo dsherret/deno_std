@@ -1,0 +1,33 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/reader_from_iterable.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1758, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readerFromIterable",
+      "ranges": [
+        { "startOffset": 945, "endOffset": 1757, "count": 1 },
+        { "startOffset": 1034, "endOffset": 1038, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        { "startOffset": 1119, "endOffset": 1750, "count": 5 },
+        { "startOffset": 1167, "endOffset": 1604, "count": 4 },
+        { "startOffset": 1240, "endOffset": 1274, "count": 1 },
+        { "startOffset": 1274, "endOffset": 1596, "count": 3 },
+        { "startOffset": 1337, "endOffset": 1427, "count": 2 },
+        { "startOffset": 1427, "endOffset": 1596, "count": 1 },
+        { "startOffset": 1604, "endOffset": 1744, "count": 1 },
+        { "startOffset": 1676, "endOffset": 1718, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

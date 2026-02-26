@@ -1,0 +1,26 @@
+{
+  "scriptId": "326",
+  "url": "file:///Users/david/dev/deno_std/expect/_equal.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4992, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isKeyedCollection",
+      "ranges": [{ "startOffset": 193, "endOffset": 293, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructorsEqual",
+      "ranges": [{ "startOffset": 294, "endOffset": 464, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equal",
+      "ranges": [{ "startOffset": 860, "endOffset": 4991, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

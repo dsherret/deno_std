@@ -1,0 +1,16 @@
+{
+  "scriptId": "343",
+  "url": "file:///Users/david/dev/deno_std/semver/_parse_comparator.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 979, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseComparator",
+      "ranges": [{ "startOffset": 333, "endOffset": 978, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

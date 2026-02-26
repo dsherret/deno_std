@@ -1,0 +1,16 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/io/multi_reader_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 675, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 373, "endOffset": 672, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

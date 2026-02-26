@@ -1,0 +1,42 @@
+{
+  "scriptId": "366",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/regexp.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1264, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [
+        { "startOffset": 479, "endOffset": 978, "count": 6 },
+        { "startOffset": 535, "endOffset": 562, "count": 0 },
+        { "startOffset": 627, "endOffset": 957, "count": 1 },
+        { "startOffset": 704, "endOffset": 735, "count": 0 },
+        { "startOffset": 851, "endOffset": 856, "count": 0 },
+        { "startOffset": 920, "endOffset": 951, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "construct",
+      "ranges": [
+        { "startOffset": 982, "endOffset": 1136, "count": 6 },
+        { "startOffset": 1075, "endOffset": 1083, "count": 1 },
+        { "startOffset": 1084, "endOffset": 1089, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "predicate",
+      "ranges": [{ "startOffset": 1140, "endOffset": 1201, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "represent",
+      "ranges": [{ "startOffset": 1205, "endOffset": 1259, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

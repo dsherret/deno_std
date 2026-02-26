@@ -1,0 +1,22 @@
+{
+  "scriptId": "347",
+  "url": "file:///Users/david/dev/deno_std/log/get_logger.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 692, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getLogger",
+      "ranges": [
+        { "startOffset": 282, "endOffset": 691, "count": 19 },
+        { "startOffset": 322, "endOffset": 478, "count": 5 },
+        { "startOffset": 478, "endOffset": 536, "count": 14 },
+        { "startOffset": 536, "endOffset": 672, "count": 1 },
+        { "startOffset": 672, "endOffset": 690, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

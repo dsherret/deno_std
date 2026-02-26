@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/min_with.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 870, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "minWith",
+      "ranges": [
+        { "startOffset": 634, "endOffset": 869, "count": 7 },
+        { "startOffset": 747, "endOffset": 853, "count": 18 },
+        { "startOffset": 765, "endOffset": 796, "count": 12 },
+        { "startOffset": 798, "endOffset": 849, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

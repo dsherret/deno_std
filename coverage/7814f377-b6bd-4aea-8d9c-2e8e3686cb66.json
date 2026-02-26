@@ -1,0 +1,41 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/distinct_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1476, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "distinctTest",
+      "ranges": [{ "startOffset": 166, "endOffset": 294, "count": 9 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 365, "endOffset": 402, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 482, "endOffset": 900, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 974, "endOffset": 1471, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "noops",
+      "ranges": [{ "startOffset": 1319, "endOffset": 1325, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noops",
+      "ranges": [{ "startOffset": 1333, "endOffset": 1339, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

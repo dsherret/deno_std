@@ -1,0 +1,45 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/test_range_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9159, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 401, "endOffset": 4475, "count": 1 },
+        { "startOffset": 4326, "endOffset": 4473, "count": 83 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4360, "endOffset": 4467, "count": 83 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 4570, "endOffset": 8733, "count": 1 },
+        { "startOffset": 8540, "endOffset": 8729, "count": 70 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8576, "endOffset": 8721, "count": 70 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 8783, "endOffset": 9156, "count": 1 },
+        { "startOffset": 8994, "endOffset": 9154, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

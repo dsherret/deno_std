@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/json/json_stringify_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3043, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "JsonStringifyStream",
+      "ranges": [{ "startOffset": 2775, "endOffset": 3040, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 2879, "endOffset": 2992, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

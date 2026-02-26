@@ -1,0 +1,71 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/http/_mock_conn.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1148, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockConn",
+      "ranges": [{ "startOffset": 149, "endOffset": 1147, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "closeWrite",
+      "ranges": [{ "startOffset": 385, "endOffset": 428, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [{ "startOffset": 440, "endOffset": 484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "write",
+      "ranges": [{ "startOffset": 497, "endOffset": 542, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 555, "endOffset": 561, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pull",
+      "ranges": [{ "startOffset": 625, "endOffset": 652, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 660, "endOffset": 672, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "write",
+      "ranges": [{ "startOffset": 754, "endOffset": 790, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 798, "endOffset": 809, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 817, "endOffset": 828, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setNoDelay",
+      "ranges": [{ "startOffset": 989, "endOffset": 1003, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setKeepAlive",
+      "ranges": [{ "startOffset": 1111, "endOffset": 1127, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

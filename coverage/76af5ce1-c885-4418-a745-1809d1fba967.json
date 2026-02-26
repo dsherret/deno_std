@@ -1,0 +1,41 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/http/etag.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4927, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFileInfo",
+      "ranges": [{ "startOffset": 686, "endOffset": 809, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calcEntity",
+      "ranges": [{ "startOffset": 810, "endOffset": 1225, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calcFileInfo",
+      "ranges": [{ "startOffset": 1226, "endOffset": 1510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calculate",
+      "ranges": [{ "startOffset": 2066, "endOffset": 2332, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ifMatch",
+      "ranges": [{ "startOffset": 3323, "endOffset": 3599, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ifNoneMatch",
+      "ranges": [{ "startOffset": 4612, "endOffset": 4926, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

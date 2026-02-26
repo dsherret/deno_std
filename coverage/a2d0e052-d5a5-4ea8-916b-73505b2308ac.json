@@ -1,0 +1,11 @@
+{
+  "scriptId": "343",
+  "url": "file:///Users/david/dev/deno_std/expect/_constants.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 168, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

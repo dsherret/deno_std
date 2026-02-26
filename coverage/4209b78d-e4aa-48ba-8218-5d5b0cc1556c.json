@@ -1,0 +1,16 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/text/word_similarity_sort.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1191, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wordSimilaritySort",
+      "ranges": [{ "startOffset": 911, "endOffset": 1190, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

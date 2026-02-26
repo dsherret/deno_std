@@ -1,0 +1,19 @@
+{
+  "scriptId": "321",
+  "url": "file:///Users/david/dev/deno_std/assert/assert_match.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 715, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertMatch",
+      "ranges": [
+        { "startOffset": 472, "endOffset": 714, "count": 785 },
+        { "startOffset": 548, "endOffset": 712, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

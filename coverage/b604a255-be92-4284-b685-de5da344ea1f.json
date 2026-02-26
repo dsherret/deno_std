@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/ini/stringify_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 958, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertValidStringify",
+      "ranges": [{ "startOffset": 237, "endOffset": 345, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 383, "endOffset": 953, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replacer",
+      "ranges": [{ "startOffset": 918, "endOffset": 941, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

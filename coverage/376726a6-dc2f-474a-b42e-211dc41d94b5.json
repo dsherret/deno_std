@@ -1,0 +1,66 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/associate_with_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1804, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateWithTest",
+      "ranges": [{ "startOffset": 177, "endOffset": 318, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 380, "endOffset": 551, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 467, "endOffset": 485, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 617, "endOffset": 690, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 665, "endOffset": 674, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 755, "endOffset": 1470, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateWithTest.Kim",
+      "ranges": [{ "startOffset": 860, "endOffset": 875, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateWithTest.Kim@example.org",
+      "ranges": [{ "startOffset": 1079, "endOffset": 1109, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateWithTest.Kim",
+      "ranges": [{ "startOffset": 1367, "endOffset": 1385, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1539, "endOffset": 1799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "associateWithTest.Jonathan",
+      "ranges": [{ "startOffset": 1680, "endOffset": 1698, "count": 5 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

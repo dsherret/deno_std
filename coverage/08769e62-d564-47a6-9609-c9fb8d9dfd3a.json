@@ -1,0 +1,26 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/expect/fn.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 916, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 248, "endOffset": 915, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "f",
+      "ranges": [
+        { "startOffset": 304, "endOffset": 800, "count": 1 },
+        { "startOffset": 353, "endOffset": 363, "count": 0 },
+        { "startOffset": 425, "endOffset": 440, "count": 0 },
+        { "startOffset": 620, "endOffset": 796, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

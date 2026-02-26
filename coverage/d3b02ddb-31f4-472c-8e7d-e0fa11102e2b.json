@@ -1,0 +1,16 @@
+{
+  "scriptId": "377",
+  "url": "file:///Users/david/dev/deno_std/path/windows/to_namespaced_path.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1401, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toNamespacedPath",
+      "ranges": [{ "startOffset": 399, "endOffset": 1400, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

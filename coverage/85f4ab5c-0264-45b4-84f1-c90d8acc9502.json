@@ -1,0 +1,33 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/data_structures/comparators.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ascend",
+      "ranges": [
+        { "startOffset": 228, "endOffset": 290, "count": 978 },
+        { "startOffset": 267, "endOffset": 271, "count": 367 },
+        { "startOffset": 272, "endOffset": 287, "count": 611 },
+        { "startOffset": 280, "endOffset": 283, "count": 466 },
+        { "startOffset": 284, "endOffset": 287, "count": 145 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "descend",
+      "ranges": [
+        { "startOffset": 403, "endOffset": 466, "count": 701 },
+        { "startOffset": 443, "endOffset": 446, "count": 237 },
+        { "startOffset": 447, "endOffset": 463, "count": 464 },
+        { "startOffset": 455, "endOffset": 459, "count": 382 },
+        { "startOffset": 460, "endOffset": 463, "count": 82 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

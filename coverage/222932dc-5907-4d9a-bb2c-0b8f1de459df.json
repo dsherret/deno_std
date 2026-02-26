@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/take_while.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 774, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "takeWhile",
+      "ranges": [
+        { "startOffset": 579, "endOffset": 773, "count": 7 },
+        { "startOffset": 691, "endOffset": 718, "count": 21 },
+        { "startOffset": 719, "endOffset": 738, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

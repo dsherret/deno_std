@@ -1,0 +1,21 @@
+{
+  "scriptId": "446",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/pairs.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlPairs",
+      "ranges": [{ "startOffset": 347, "endOffset": 750, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructYamlPairs",
+      "ranges": [{ "startOffset": 751, "endOffset": 1086, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

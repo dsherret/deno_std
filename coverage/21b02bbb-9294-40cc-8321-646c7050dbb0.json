@@ -1,0 +1,33 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/async/retry.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3286, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RetryError",
+      "ranges": [{ "startOffset": 607, "endOffset": 757, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "retry",
+      "ranges": [
+        { "startOffset": 2549, "endOffset": 3285, "count": 7 },
+        { "startOffset": 2895, "endOffset": 3283, "count": 19 },
+        { "startOffset": 2938, "endOffset": 3264, "count": 18 },
+        { "startOffset": 3000, "endOffset": 3067, "count": 3 },
+        { "startOffset": 3067, "endOffset": 3264, "count": 15 },
+        { "startOffset": 3264, "endOffset": 3283, "count": 15 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3229, "endOffset": 3256, "count": 15 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

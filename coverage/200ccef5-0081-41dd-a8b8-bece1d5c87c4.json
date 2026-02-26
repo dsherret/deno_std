@@ -1,0 +1,33 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/io/iterate_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2471, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "iterateReader",
+      "ranges": [
+        { "startOffset": 904, "endOffset": 1186, "count": 2 },
+        { "startOffset": 978, "endOffset": 987, "count": 0 },
+        { "startOffset": 1062, "endOffset": 1184, "count": 5 },
+        { "startOffset": 1130, "endOffset": 1150, "count": 2 },
+        { "startOffset": 1150, "endOffset": 1184, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "iterateReaderSync",
+      "ranges": [
+        { "startOffset": 2192, "endOffset": 2470, "count": 2 },
+        { "startOffset": 2264, "endOffset": 2273, "count": 0 },
+        { "startOffset": 2348, "endOffset": 2468, "count": 5 },
+        { "startOffset": 2414, "endOffset": 2434, "count": 2 },
+        { "startOffset": 2434, "endOffset": 2468, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

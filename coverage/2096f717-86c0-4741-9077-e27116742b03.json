@@ -1,0 +1,26 @@
+{
+  "scriptId": "316",
+  "url": "file:///Users/david/dev/deno_std/fs/move.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2294, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SubdirectoryMoveError",
+      "ranges": [{ "startOffset": 456, "endOffset": 558, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "move",
+      "ranges": [{ "startOffset": 760, "endOffset": 1410, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "moveSync",
+      "ranges": [{ "startOffset": 1619, "endOffset": 2293, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

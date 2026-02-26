@@ -1,0 +1,138 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/io/buf_writer.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6676, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 207, "endOffset": 692, "count": 204 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AbstractBufBase",
+      "ranges": [{ "startOffset": 255, "endOffset": 296, "count": 204 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "size",
+      "ranges": [{ "startOffset": 363, "endOffset": 407, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "available",
+      "ranges": [{ "startOffset": 466, "endOffset": 538, "count": 24834 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "buffered",
+      "ranges": [{ "startOffset": 641, "endOffset": 690, "count": 24648 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1253, "endOffset": 3665, "count": 102 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 1330, "endOffset": 1454, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufWriter",
+      "ranges": [
+        { "startOffset": 1457, "endOffset": 1597, "count": 102 },
+        { "startOffset": 1538, "endOffset": 1556, "count": 10 },
+        { "startOffset": 1557, "endOffset": 1563, "count": 92 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reset",
+      "ranges": [{ "startOffset": 1715, "endOffset": 1802, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [
+        { "startOffset": 1872, "endOffset": 2361, "count": 103 },
+        { "startOffset": 1915, "endOffset": 1930, "count": 0 },
+        { "startOffset": 1967, "endOffset": 1974, "count": 46 },
+        { "startOffset": 1974, "endOffset": 2101, "count": 57 },
+        { "startOffset": 2101, "endOffset": 2178, "count": 4152 },
+        { "startOffset": 2185, "endOffset": 2279, "count": 0 },
+        { "startOffset": 2279, "endOffset": 2360, "count": 57 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "write",
+      "ranges": [
+        { "startOffset": 2682, "endOffset": 3663, "count": 103 },
+        { "startOffset": 2729, "endOffset": 2744, "count": 0 },
+        { "startOffset": 2772, "endOffset": 2781, "count": 10 },
+        { "startOffset": 2781, "endOffset": 2887, "count": 93 },
+        { "startOffset": 2887, "endOffset": 3476, "count": 12324 },
+        { "startOffset": 3097, "endOffset": 3211, "count": 0 },
+        { "startOffset": 3219, "endOffset": 3381, "count": 0 },
+        { "startOffset": 3476, "endOffset": 3662, "count": 93 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 4245, "endOffset": 6675, "count": 102 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 4330, "endOffset": 4462, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufWriterSync",
+      "ranges": [
+        { "startOffset": 4465, "endOffset": 4605, "count": 102 },
+        { "startOffset": 4546, "endOffset": 4564, "count": 10 },
+        { "startOffset": 4565, "endOffset": 4571, "count": 92 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reset",
+      "ranges": [{ "startOffset": 4723, "endOffset": 4810, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [
+        { "startOffset": 4884, "endOffset": 5365, "count": 103 },
+        { "startOffset": 4921, "endOffset": 4936, "count": 0 },
+        { "startOffset": 4973, "endOffset": 4980, "count": 46 },
+        { "startOffset": 4980, "endOffset": 5107, "count": 57 },
+        { "startOffset": 5107, "endOffset": 5182, "count": 4152 },
+        { "startOffset": 5189, "endOffset": 5283, "count": 0 },
+        { "startOffset": 5283, "endOffset": 5364, "count": 57 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writeSync",
+      "ranges": [
+        { "startOffset": 5702, "endOffset": 6673, "count": 103 },
+        { "startOffset": 5747, "endOffset": 5762, "count": 0 },
+        { "startOffset": 5790, "endOffset": 5799, "count": 10 },
+        { "startOffset": 5799, "endOffset": 5905, "count": 93 },
+        { "startOffset": 5905, "endOffset": 6486, "count": 12324 },
+        { "startOffset": 6113, "endOffset": 6227, "count": 0 },
+        { "startOffset": 6235, "endOffset": 6391, "count": 0 },
+        { "startOffset": 6486, "endOffset": 6672, "count": 93 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

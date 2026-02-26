@@ -1,0 +1,62 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/net/get_available_port.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dispose_SuppressedError",
+      "ranges": [{ "startOffset": 124, "endOffset": 730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_dispose",
+      "ranges": [{ "startOffset": 731, "endOffset": 1196, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "next",
+      "ranges": [
+        { "startOffset": 777, "endOffset": 1047, "count": 3 },
+        { "startOffset": 822, "endOffset": 1012, "count": 2 },
+        { "startOffset": 913, "endOffset": 955, "count": 0 },
+        { "startOffset": 964, "endOffset": 1006, "count": 0 },
+        { "startOffset": 1031, "endOffset": 1043, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "err",
+      "ranges": [{ "startOffset": 1050, "endOffset": 1177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_using",
+      "ranges": [
+        { "startOffset": 1197, "endOffset": 1864, "count": 2 },
+        { "startOffset": 1280, "endOffset": 1293, "count": 0 },
+        { "startOffset": 1325, "endOffset": 1439, "count": 0 },
+        { "startOffset": 1455, "endOffset": 1543, "count": 0 },
+        { "startOffset": 1627, "endOffset": 1658, "count": 0 },
+        { "startOffset": 1702, "endOffset": 1780, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAvailablePort",
+      "ranges": [
+        { "startOffset": 2150, "endOffset": 3098, "count": 2 },
+        { "startOffset": 2231, "endOffset": 2246, "count": 1 },
+        { "startOffset": 2248, "endOffset": 2868, "count": 1 },
+        { "startOffset": 2515, "endOffset": 2595, "count": 0 },
+        { "startOffset": 2670, "endOffset": 2862, "count": 0 },
+        { "startOffset": 2868, "endOffset": 2977, "count": 1 },
+        { "startOffset": 2977, "endOffset": 3041, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

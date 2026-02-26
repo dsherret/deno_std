@@ -1,0 +1,30 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/uuid/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1943, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNil",
+      "ranges": [{ "startOffset": 1053, "endOffset": 1101, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validate",
+      "ranges": [{ "startOffset": 1373, "endOffset": 1539, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "version",
+      "ranges": [
+        { "startOffset": 1813, "endOffset": 1942, "count": 9 },
+        { "startOffset": 1861, "endOffset": 1907, "count": 4 },
+        { "startOffset": 1907, "endOffset": 1941, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

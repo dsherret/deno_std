@@ -1,0 +1,27 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/sliding_windows.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1736, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "slidingWindows",
+      "ranges": [
+        { "startOffset": 1248, "endOffset": 1735, "count": 42 },
+        { "startOffset": 1353, "endOffset": 1379, "count": 36 },
+        { "startOffset": 1380, "endOffset": 1392, "count": 30 },
+        { "startOffset": 1393, "endOffset": 1405, "count": 28 },
+        { "startOffset": 1407, "endOffset": 1486, "count": 16 },
+        { "startOffset": 1486, "endOffset": 1574, "count": 26 },
+        { "startOffset": 1574, "endOffset": 1577, "count": 10 },
+        { "startOffset": 1578, "endOffset": 1584, "count": 16 },
+        { "startOffset": 1654, "endOffset": 1716, "count": 56 },
+        { "startOffset": 1716, "endOffset": 1734, "count": 26 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

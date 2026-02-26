@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/partition.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 955, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "partition",
+      "ranges": [
+        { "startOffset": 695, "endOffset": 954, "count": 8 },
+        { "startOffset": 805, "endOffset": 914, "count": 20 },
+        { "startOffset": 835, "endOffset": 910, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

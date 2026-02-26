@@ -1,0 +1,40 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/io/read_string_delim_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1654, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 473, "endOffset": 816, "count": 1 },
+        { "startOffset": 766, "endOffset": 788, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 880, "endOffset": 1279, "count": 1 },
+        { "startOffset": 1229, "endOffset": 1251, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 966, "endOffset": 980, "count": 1025 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1327, "endOffset": 1651, "count": 1 },
+        { "startOffset": 1601, "endOffset": 1623, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

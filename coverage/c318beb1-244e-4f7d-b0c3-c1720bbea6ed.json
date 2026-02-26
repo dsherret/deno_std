@@ -1,0 +1,40 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/encoding/hex_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2593, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1617, "endOffset": 1917, "count": 1 },
+        { "startOffset": 1764, "endOffset": 1915, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1957, "endOffset": 2416, "count": 1 },
+        { "startOffset": 2331, "endOffset": 2414, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2468, "endOffset": 2590, "count": 1 },
+        { "startOffset": 2525, "endOffset": 2588, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2544, "endOffset": 2564, "count": 8 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

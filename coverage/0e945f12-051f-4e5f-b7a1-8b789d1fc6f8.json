@@ -1,0 +1,19 @@
+{
+  "scriptId": "337",
+  "url": "file:///Users/david/dev/deno_std/collections/map_entries.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1068, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntries",
+      "ranges": [
+        { "startOffset": 822, "endOffset": 1067, "count": 4 },
+        { "startOffset": 955, "endOffset": 1051, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

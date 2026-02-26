@@ -1,0 +1,11 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/path/posix/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1465, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scriptId": "408",
+  "url": "file:///Users/david/dev/deno_std/path/_common/basename.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1144, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stripSuffix",
+      "ranges": [{ "startOffset": 167, "endOffset": 492, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lastPathSegment",
+      "ranges": [{ "startOffset": 500, "endOffset": 912, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assertArgs",
+      "ranges": [{ "startOffset": 920, "endOffset": 1143, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

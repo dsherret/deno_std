@@ -1,0 +1,27 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/media_types/get_charset.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1131, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCharset",
+      "ranges": [
+        { "startOffset": 709, "endOffset": 1130, "count": 5 },
+        { "startOffset": 814, "endOffset": 834, "count": 1 },
+        { "startOffset": 836, "endOffset": 875, "count": 1 },
+        { "startOffset": 875, "endOffset": 923, "count": 4 },
+        { "startOffset": 923, "endOffset": 939, "count": 3 },
+        { "startOffset": 941, "endOffset": 976, "count": 1 },
+        { "startOffset": 976, "endOffset": 1016, "count": 3 },
+        { "startOffset": 1016, "endOffset": 1045, "count": 2 },
+        { "startOffset": 1050, "endOffset": 1108, "count": 0 },
+        { "startOffset": 1108, "endOffset": 1129, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

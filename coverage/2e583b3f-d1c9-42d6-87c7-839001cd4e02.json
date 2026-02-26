@@ -1,0 +1,50 @@
+{
+  "scriptId": "448",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/nil.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 965, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlNull",
+      "ranges": [
+        { "startOffset": 302, "endOffset": 471, "count": 16 },
+        { "startOffset": 381, "endOffset": 396, "count": 0 },
+        { "startOffset": 410, "endOffset": 468, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructYamlNull",
+      "ranges": [{ "startOffset": 472, "endOffset": 519, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNull",
+      "ranges": [{ "startOffset": 520, "endOffset": 573, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "canonical",
+      "ranges": [{ "startOffset": 749, "endOffset": 787, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lowercase",
+      "ranges": [{ "startOffset": 793, "endOffset": 834, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uppercase",
+      "ranges": [{ "startOffset": 840, "endOffset": 881, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "camelcase",
+      "ranges": [{ "startOffset": 887, "endOffset": 928, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

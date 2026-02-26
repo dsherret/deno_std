@@ -1,0 +1,19 @@
+{
+  "scriptId": "342",
+  "url": "file:///Users/david/dev/deno_std/bytes/copy.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1340, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        { "startOffset": 1061, "endOffset": 1339, "count": 5 },
+        { "startOffset": 1240, "endOffset": 1291, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

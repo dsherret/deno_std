@@ -1,0 +1,16 @@
+{
+  "scriptId": "349",
+  "url": "file:///Users/david/dev/deno_std/path/posix/extname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1928, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extname",
+      "ranges": [{ "startOffset": 432, "endOffset": 1927, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

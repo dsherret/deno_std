@@ -1,0 +1,36 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/http/server.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 19325, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 707, "endOffset": 12211, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serveListener",
+      "ranges": [{ "startOffset": 13061, "endOffset": 13327, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hostnameForDisplay",
+      "ranges": [{ "startOffset": 13328, "endOffset": 13630, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serve",
+      "ranges": [{ "startOffset": 15324, "endOffset": 16065, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveTls",
+      "ranges": [{ "startOffset": 18192, "endOffset": 19324, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

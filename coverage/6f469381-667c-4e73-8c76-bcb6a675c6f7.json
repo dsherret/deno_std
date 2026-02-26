@@ -1,0 +1,16 @@
+{
+  "scriptId": "351",
+  "url": "file:///Users/david/dev/deno_std/path/posix/relative.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2959, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "relative",
+      "ranges": [{ "startOffset": 455, "endOffset": 2958, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

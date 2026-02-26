@@ -1,0 +1,36 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/ulid/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2604, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decodeTime",
+      "ranges": [
+        { "startOffset": 788, "endOffset": 1322, "count": 7 },
+        { "startOffset": 857, "endOffset": 901, "count": 1 },
+        { "startOffset": 901, "endOffset": 1240, "count": 6 },
+        { "startOffset": 1240, "endOffset": 1305, "count": 1 },
+        { "startOffset": 1305, "endOffset": 1321, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 970, "endOffset": 1211, "count": 60 },
+        { "startOffset": 1074, "endOffset": 1140, "count": 1 },
+        { "startOffset": 1140, "endOffset": 1210, "count": 59 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ulid",
+      "ranges": [{ "startOffset": 2495, "endOffset": 2603, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

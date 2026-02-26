@@ -1,0 +1,107 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/csv/csv_parse_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 296, "endOffset": 737, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StreamLineReader",
+      "ranges": [{ "startOffset": 328, "endOffset": 379, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readLine",
+      "ranges": [
+        { "startOffset": 382, "endOffset": 652, "count": 156 },
+        { "startOffset": 455, "endOffset": 470, "count": 142 },
+        { "startOffset": 470, "endOffset": 521, "count": 37 },
+        { "startOffset": 521, "endOffset": 648, "count": 105 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isEOF",
+      "ranges": [{ "startOffset": 655, "endOffset": 691, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 694, "endOffset": 735, "count": 37 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stripLastCR",
+      "ranges": [
+        { "startOffset": 738, "endOffset": 813, "count": 105 },
+        { "startOffset": 790, "endOffset": 806, "count": 21 },
+        { "startOffset": 807, "endOffset": 810, "count": 84 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1355, "endOffset": 3396, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CsvParseStream",
+      "ranges": [{ "startOffset": 1499, "endOffset": 1871, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pull",
+      "ranges": [{ "startOffset": 1778, "endOffset": 1814, "count": 114 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 1830, "endOffset": 1859, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#pull",
+      "ranges": [
+        { "startOffset": 1874, "endOffset": 3188, "count": 146 },
+        { "startOffset": 1951, "endOffset": 1973, "count": 132 },
+        { "startOffset": 1973, "endOffset": 2071, "count": 25 },
+        { "startOffset": 2071, "endOffset": 2095, "count": 107 },
+        { "startOffset": 2095, "endOffset": 2199, "count": 36 },
+        { "startOffset": 2199, "endOffset": 2293, "count": 71 },
+        { "startOffset": 2293, "endOffset": 2319, "count": 70 },
+        { "startOffset": 2319, "endOffset": 2399, "count": 0 },
+        { "startOffset": 2399, "endOffset": 2426, "count": 70 },
+        { "startOffset": 2426, "endOffset": 2864, "count": 38 },
+        { "startOffset": 2497, "endOffset": 2521, "count": 35 },
+        { "startOffset": 2523, "endOffset": 2771, "count": 4 },
+        { "startOffset": 2593, "endOffset": 2667, "count": 3 },
+        { "startOffset": 2703, "endOffset": 2763, "count": 3 },
+        { "startOffset": 2810, "endOffset": 2858, "count": 3 },
+        { "startOffset": 2864, "endOffset": 2915, "count": 67 },
+        { "startOffset": 2915, "endOffset": 3134, "count": 63 },
+        { "startOffset": 2954, "endOffset": 2978, "count": 59 },
+        { "startOffset": 2980, "endOffset": 3077, "count": 6 },
+        { "startOffset": 3077, "endOffset": 3128, "count": 57 },
+        { "startOffset": 3134, "endOffset": 3184, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get readable",
+      "ranges": [{ "startOffset": 3241, "endOffset": 3288, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get writable",
+      "ranges": [{ "startOffset": 3341, "endOffset": 3394, "count": 39 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

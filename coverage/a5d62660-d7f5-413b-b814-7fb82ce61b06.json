@@ -1,0 +1,16 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/streams/to_blob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 596, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toBlob",
+      "ranges": [{ "startOffset": 518, "endOffset": 595, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

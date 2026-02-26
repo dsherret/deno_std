@@ -1,0 +1,21 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/webgpu/row_padding.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2147, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRowPadding",
+      "ranges": [{ "startOffset": 712, "endOffset": 1357, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resliceBufferWithPadding",
+      "ranges": [{ "startOffset": 1789, "endOffset": 2146, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/map_values.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1058, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValues",
+      "ranges": [
+        { "startOffset": 782, "endOffset": 1057, "count": 9 },
+        { "startOffset": 959, "endOffset": 1041, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/encoding/varint.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5644, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decode",
+      "ranges": [
+        { "startOffset": 1407, "endOffset": 3660, "count": 83 },
+        { "startOffset": 1685, "endOffset": 1734, "count": 1 },
+        { "startOffset": 1734, "endOffset": 1752, "count": 82 },
+        { "startOffset": 1752, "endOffset": 2918, "count": 386 },
+        { "startOffset": 2399, "endOffset": 2760, "count": 40 },
+        { "startOffset": 2918, "endOffset": 3346, "count": 82 },
+        { "startOffset": 3346, "endOffset": 3366, "count": 5 },
+        { "startOffset": 3367, "endOffset": 3382, "count": 81 },
+        { "startOffset": 3383, "endOffset": 3400, "count": 81 },
+        { "startOffset": 3402, "endOffset": 3465, "count": 1 },
+        { "startOffset": 3465, "endOffset": 3659, "count": 81 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decode32",
+      "ranges": [
+        { "startOffset": 4215, "endOffset": 4589, "count": 49 },
+        { "startOffset": 4384, "endOffset": 4531, "count": 127 },
+        { "startOffset": 4485, "endOffset": 4527, "count": 48 },
+        { "startOffset": 4531, "endOffset": 4588, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encode",
+      "ranges": [
+        { "startOffset": 5153, "endOffset": 5643, "count": 130 },
+        { "startOffset": 5263, "endOffset": 5306, "count": 1 },
+        { "startOffset": 5306, "endOffset": 5390, "count": 129 },
+        { "startOffset": 5390, "endOffset": 5590, "count": 498 },
+        { "startOffset": 5412, "endOffset": 5525, "count": 128 },
+        { "startOffset": 5525, "endOffset": 5590, "count": 370 },
+        { "startOffset": 5590, "endOffset": 5642, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

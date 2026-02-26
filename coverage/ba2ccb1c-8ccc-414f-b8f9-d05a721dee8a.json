@@ -1,0 +1,39 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/http/unstable_signed_cookie.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3141, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "splitByLast",
+      "ranges": [
+        { "startOffset": 169, "endOffset": 368, "count": 9 },
+        { "startOffset": 278, "endOffset": 303, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "signCookie",
+      "ranges": [{ "startOffset": 1038, "endOffset": 1264, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "verifyCookie",
+      "ranges": [
+        { "startOffset": 1947, "endOffset": 2256, "count": 7 },
+        { "startOffset": 2073, "endOffset": 2089, "count": 5 },
+        { "startOffset": 2091, "endOffset": 2104, "count": 3 },
+        { "startOffset": 2104, "endOffset": 2255, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseSignedCookie",
+      "ranges": [{ "startOffset": 3052, "endOffset": 3140, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

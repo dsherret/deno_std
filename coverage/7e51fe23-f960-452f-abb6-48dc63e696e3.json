@@ -1,0 +1,38 @@
+{
+  "scriptId": "314",
+  "url": "file:///Users/david/dev/deno_std/fs/ensure_symlink.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3561, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveSymlinkTarget",
+      "ranges": [
+        { "startOffset": 387, "endOffset": 656, "count": 2 },
+        { "startOffset": 471, "endOffset": 485, "count": 0 },
+        { "startOffset": 605, "endOffset": 654, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureSymlink",
+      "ranges": [
+        { "startOffset": 1047, "endOffset": 2114, "count": 1 },
+        { "startOffset": 1353, "endOffset": 1413, "count": 0 },
+        { "startOffset": 1490, "endOffset": 2112, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureSymlinkSync",
+      "ranges": [
+        { "startOffset": 2505, "endOffset": 3560, "count": 1 },
+        { "startOffset": 2805, "endOffset": 2865, "count": 0 },
+        { "startOffset": 2940, "endOffset": 3558, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

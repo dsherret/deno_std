@@ -1,0 +1,56 @@
+{
+  "scriptId": "347",
+  "url": "file:///Users/david/dev/deno_std/path/posix/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2942, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 443, "endOffset": 2941, "count": 25 },
+        { "startOffset": 599, "endOffset": 610, "count": 1 },
+        { "startOffset": 610, "endOffset": 705, "count": 24 },
+        { "startOffset": 705, "endOffset": 745, "count": 16 },
+        { "startOffset": 745, "endOffset": 771, "count": 8 },
+        { "startOffset": 771, "endOffset": 1067, "count": 24 },
+        { "startOffset": 1067, "endOffset": 1940, "count": 152 },
+        { "startOffset": 1142, "endOffset": 1372, "count": 15 },
+        { "startOffset": 1299, "endOffset": 1350, "count": 8 },
+        { "startOffset": 1350, "endOffset": 1372, "count": 7 },
+        { "startOffset": 1372, "endOffset": 1393, "count": 137 },
+        { "startOffset": 1393, "endOffset": 1540, "count": 21 },
+        { "startOffset": 1540, "endOffset": 1568, "count": 137 },
+        { "startOffset": 1568, "endOffset": 1740, "count": 18 },
+        { "startOffset": 1670, "endOffset": 1683, "count": 16 },
+        { "startOffset": 1683, "endOffset": 1734, "count": 2 },
+        { "startOffset": 1740, "endOffset": 1936, "count": 119 },
+        { "startOffset": 1767, "endOffset": 1936, "count": 67 },
+        { "startOffset": 1940, "endOffset": 1963, "count": 24 },
+        { "startOffset": 1963, "endOffset": 1976, "count": 16 },
+        { "startOffset": 1977, "endOffset": 2056, "count": 16 },
+        { "startOffset": 2057, "endOffset": 2192, "count": 11 },
+        { "startOffset": 2139, "endOffset": 2162, "count": 2 },
+        { "startOffset": 2163, "endOffset": 2192, "count": 1 },
+        { "startOffset": 2194, "endOffset": 2485, "count": 14 },
+        { "startOffset": 2216, "endOffset": 2397, "count": 11 },
+        { "startOffset": 2244, "endOffset": 2257, "count": 10 },
+        { "startOffset": 2259, "endOffset": 2318, "count": 4 },
+        { "startOffset": 2318, "endOffset": 2391, "count": 7 },
+        { "startOffset": 2474, "endOffset": 2480, "count": 3 },
+        { "startOffset": 2485, "endOffset": 2771, "count": 10 },
+        { "startOffset": 2517, "endOffset": 2530, "count": 3 },
+        { "startOffset": 2532, "endOffset": 2618, "count": 3 },
+        { "startOffset": 2618, "endOffset": 2726, "count": 7 },
+        { "startOffset": 2771, "endOffset": 2793, "count": 24 },
+        { "startOffset": 2793, "endOffset": 2889, "count": 8 },
+        { "startOffset": 2889, "endOffset": 2925, "count": 16 },
+        { "startOffset": 2911, "endOffset": 2925, "count": 10 },
+        { "startOffset": 2925, "endOffset": 2940, "count": 24 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

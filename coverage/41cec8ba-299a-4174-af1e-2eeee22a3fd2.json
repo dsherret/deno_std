@@ -1,0 +1,21 @@
+{
+  "scriptId": "388",
+  "url": "file:///Users/david/dev/deno_std/media_types/parse_media_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3161, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseMediaType",
+      "ranges": [
+        { "startOffset": 1112, "endOffset": 3160, "count": 34 },
+        { "startOffset": 1426, "endOffset": 2051, "count": 0 },
+        { "startOffset": 2231, "endOffset": 3050, "count": 0 },
+        { "startOffset": 3087, "endOffset": 3120, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

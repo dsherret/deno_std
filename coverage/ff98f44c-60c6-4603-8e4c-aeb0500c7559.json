@@ -1,0 +1,61 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/filter_keys_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1361, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterKeysTest",
+      "ranges": [{ "startOffset": 171, "endOffset": 306, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 365, "endOffset": 535, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 450, "endOffset": 468, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 598, "endOffset": 667, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 643, "endOffset": 651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 727, "endOffset": 912, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterKeysTest.foo",
+      "ranges": [{ "startOffset": 834, "endOffset": 842, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 971, "endOffset": 1356, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterKeysTest.bar",
+      "ranges": [{ "startOffset": 1095, "endOffset": 1119, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterKeysTest.Andrew",
+      "ranges": [{ "startOffset": 1277, "endOffset": 1296, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

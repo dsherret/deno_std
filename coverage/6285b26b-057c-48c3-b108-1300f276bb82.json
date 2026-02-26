@@ -1,0 +1,40 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/console/_run_length.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "runLengthEncode",
+      "ranges": [
+        { "startOffset": 128, "endOffset": 559, "count": 5 },
+        { "startOffset": 255, "endOffset": 406, "count": 269 },
+        { "startOffset": 277, "endOffset": 327, "count": 258 },
+        { "startOffset": 327, "endOffset": 402, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 433, "endOffset": 447, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "runLengthDecode",
+      "ranges": [
+        { "startOffset": 567, "endOffset": 856, "count": 4 },
+        { "startOffset": 732, "endOffset": 783, "count": 6 },
+        { "startOffset": 783, "endOffset": 855, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 830, "endOffset": 851, "count": 9 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

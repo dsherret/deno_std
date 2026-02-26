@@ -1,0 +1,50 @@
+{
+  "scriptId": "457",
+  "url": "file:///Users/david/dev/deno_std/yaml/type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 992, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkTagFormat",
+      "ranges": [{ "startOffset": 305, "endOffset": 351, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 370, "endOffset": 991, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Type",
+      "ranges": [
+        { "startOffset": 480, "endOffset": 939, "count": 16 },
+        { "startOffset": 631, "endOffset": 644, "count": 3 },
+        { "startOffset": 687, "endOffset": 704, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Type.resolve",
+      "ranges": [{ "startOffset": 635, "endOffset": 643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Type.construct",
+      "ranges": [{ "startOffset": 691, "endOffset": 703, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolve",
+      "ranges": [{ "startOffset": 952, "endOffset": 960, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "construct",
+      "ranges": [{ "startOffset": 976, "endOffset": 988, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

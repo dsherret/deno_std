@@ -1,0 +1,26 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/permutations.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1344, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "permutations",
+      "ranges": [
+        { "startOffset": 686, "endOffset": 1343, "count": 7 },
+        { "startOffset": 822, "endOffset": 843, "count": 1 },
+        { "startOffset": 843, "endOffset": 959, "count": 6 },
+        { "startOffset": 959, "endOffset": 1327, "count": 29 },
+        { "startOffset": 979, "endOffset": 1280, "count": 16 },
+        { "startOffset": 1004, "endOffset": 1096, "count": 6 },
+        { "startOffset": 1096, "endOffset": 1200, "count": 10 },
+        { "startOffset": 1280, "endOffset": 1323, "count": 13 },
+        { "startOffset": 1327, "endOffset": 1342, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

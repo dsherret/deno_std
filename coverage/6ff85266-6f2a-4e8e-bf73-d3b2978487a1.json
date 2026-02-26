@@ -1,0 +1,26 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/streams/byte_slice_stream_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1673, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 225, "endOffset": 1670, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createStream",
+      "ranges": [{ "startOffset": 246, "endOffset": 493, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1636, "endOffset": 1666, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

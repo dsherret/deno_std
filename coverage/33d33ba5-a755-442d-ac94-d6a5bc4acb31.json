@@ -1,0 +1,26 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/media_types/content_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2042, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "contentType",
+      "ranges": [
+        { "startOffset": 1502, "endOffset": 2041, "count": 14 },
+        { "startOffset": 1617, "endOffset": 1650, "count": 6 },
+        { "startOffset": 1651, "endOffset": 1716, "count": 8 },
+        { "startOffset": 1738, "endOffset": 1769, "count": 4 },
+        { "startOffset": 1769, "endOffset": 1802, "count": 10 },
+        { "startOffset": 1802, "endOffset": 1917, "count": 8 },
+        { "startOffset": 1868, "endOffset": 1911, "count": 6 },
+        { "startOffset": 1917, "endOffset": 1969, "count": 10 },
+        { "startOffset": 1969, "endOffset": 2040, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

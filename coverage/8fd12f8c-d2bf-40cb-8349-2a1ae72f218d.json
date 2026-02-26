@@ -1,0 +1,44 @@
+{
+  "scriptId": "356",
+  "url": "file:///Users/david/dev/deno_std/yaml/_type/bool.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveYamlBoolean",
+      "ranges": [
+        { "startOffset": 344, "endOffset": 562, "count": 20 },
+        { "startOffset": 426, "endOffset": 484, "count": 2 },
+        { "startOffset": 498, "endOffset": 559, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "constructYamlBoolean",
+      "ranges": [{ "startOffset": 563, "endOffset": 666, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lowercase",
+      "ranges": [
+        { "startOffset": 849, "endOffset": 915, "count": 3 },
+        { "startOffset": 890, "endOffset": 898, "count": 1 },
+        { "startOffset": 899, "endOffset": 908, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "uppercase",
+      "ranges": [{ "startOffset": 921, "endOffset": 987, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "camelcase",
+      "ranges": [{ "startOffset": 993, "endOffset": 1059, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

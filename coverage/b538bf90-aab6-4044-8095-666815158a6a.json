@@ -1,0 +1,16 @@
+{
+  "scriptId": "414",
+  "url": "file:///Users/david/dev/deno_std/async/_util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 306, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exponentialBackoffWithJitter",
+      "ranges": [{ "startOffset": 120, "endOffset": 305, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

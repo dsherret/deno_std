@@ -1,0 +1,99 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/map_keys_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2539, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest",
+      "ranges": [{ "startOffset": 165, "endOffset": 294, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 350, "endOffset": 513, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 432, "endOffset": 446, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 573, "endOffset": 639, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 615, "endOffset": 623, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 696, "endOffset": 878, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.foo",
+      "ranges": [{ "startOffset": 800, "endOffset": 808, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 942, "endOffset": 1067, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.a",
+      "ranges": [{ "startOffset": 1027, "endOffset": 1034, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1132, "endOffset": 1556, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.A",
+      "ranges": [{ "startOffset": 1283, "endOffset": 1305, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.ad",
+      "ranges": [{ "startOffset": 1477, "endOffset": 1497, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1614, "endOffset": 1817, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.b",
+      "ranges": [{ "startOffset": 1733, "endOffset": 1752, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1880, "endOffset": 2534, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.food.txt",
+      "ranges": [{ "startOffset": 2054, "endOffset": 2090, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapKeysTest.Euro",
+      "ranges": [
+        { "startOffset": 2310, "endOffset": 2441, "count": 3 },
+        { "startOffset": 2435, "endOffset": 2441, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

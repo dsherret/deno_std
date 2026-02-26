@@ -1,0 +1,11 @@
+{
+  "scriptId": "345",
+  "url": "file:///Users/david/dev/deno_std/yaml/schema/json.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 651, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

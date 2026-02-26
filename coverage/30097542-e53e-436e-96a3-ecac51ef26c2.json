@@ -1,0 +1,45 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/bytes/equals.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1342, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equalsNaive",
+      "ranges": [
+        { "startOffset": 295, "endOffset": 418, "count": 22 },
+        { "startOffset": 359, "endOffset": 401, "count": 14968 },
+        { "startOffset": 384, "endOffset": 397, "count": 11 },
+        { "startOffset": 401, "endOffset": 417, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals32Bit",
+      "ranges": [
+        { "startOffset": 602, "endOffset": 1043, "count": 24 },
+        { "startOffset": 876, "endOffset": 918, "count": 25 },
+        { "startOffset": 901, "endOffset": 914, "count": 8 },
+        { "startOffset": 918, "endOffset": 964, "count": 16 },
+        { "startOffset": 964, "endOffset": 1026, "count": 3507 },
+        { "startOffset": 1009, "endOffset": 1022, "count": 4 },
+        { "startOffset": 1026, "endOffset": 1042, "count": 12 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals",
+      "ranges": [
+        { "startOffset": 1197, "endOffset": 1341, "count": 47 },
+        { "startOffset": 1250, "endOffset": 1273, "count": 1 },
+        { "startOffset": 1273, "endOffset": 1299, "count": 46 },
+        { "startOffset": 1299, "endOffset": 1318, "count": 22 },
+        { "startOffset": 1319, "endOffset": 1338, "count": 24 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

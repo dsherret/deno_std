@@ -1,0 +1,80 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/log/base_handler.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1084, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DEFAULT_FORMATTER",
+      "ranges": [{ "startOffset": 179, "endOffset": 222, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 280, "endOffset": 1083, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BaseHandler",
+      "ranges": [{ "startOffset": 321, "endOffset": 498, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get level",
+      "ranges": [{ "startOffset": 501, "endOffset": 542, "count": 37 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "set level",
+      "ranges": [{ "startOffset": 545, "endOffset": 635, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get levelName",
+      "ranges": [{ "startOffset": 638, "endOffset": 687, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "set levelName",
+      "ranges": [{ "startOffset": 690, "endOffset": 798, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handle",
+      "ranges": [
+        { "startOffset": 801, "endOffset": 929, "count": 32 },
+        { "startOffset": 859, "endOffset": 866, "count": 15 },
+        { "startOffset": 866, "endOffset": 928, "count": 17 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 932, "endOffset": 993, "count": 17 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 996, "endOffset": 1008, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setup",
+      "ranges": [{ "startOffset": 1011, "endOffset": 1021, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [{ "startOffset": 1024, "endOffset": 1036, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1039, "endOffset": 1081, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

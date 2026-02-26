@@ -1,0 +1,30 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/zip.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1044, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zip",
+      "ranges": [
+        { "startOffset": 805, "endOffset": 1043, "count": 15 },
+        { "startOffset": 882, "endOffset": 886, "count": 1 },
+        { "startOffset": 963, "endOffset": 1042, "count": 21 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 865, "endOffset": 880, "count": 28 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 992, "endOffset": 1003, "count": 44 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

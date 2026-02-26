@@ -1,0 +1,94 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/crypto/unstable_keystack.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5229, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "importKey",
+      "ranges": [
+        { "startOffset": 447, "endOffset": 757, "count": 40 },
+        { "startOffset": 504, "endOffset": 540, "count": 16 },
+        { "startOffset": 540, "endOffset": 606, "count": 24 },
+        { "startOffset": 570, "endOffset": 606, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sign",
+      "ranges": [
+        { "startOffset": 758, "endOffset": 975, "count": 68 },
+        { "startOffset": 817, "endOffset": 855, "count": 62 },
+        { "startOffset": 855, "endOffset": 925, "count": 6 },
+        { "startOffset": 886, "endOffset": 925, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compare",
+      "ranges": [{ "startOffset": 1435, "endOffset": 1711, "count": 18 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 2501, "endOffset": 5228, "count": 19 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#toCryptoKey",
+      "ranges": [
+        { "startOffset": 2541, "endOffset": 2707, "count": 32 },
+        { "startOffset": 2603, "endOffset": 2665, "count": 22 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get length",
+      "ranges": [{ "startOffset": 2732, "endOffset": 2780, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "KeyStack",
+      "ranges": [
+        { "startOffset": 3115, "endOffset": 3332, "count": 19 },
+        { "startOffset": 3173, "endOffset": 3179, "count": 18 },
+        { "startOffset": 3180, "endOffset": 3203, "count": 1 },
+        { "startOffset": 3229, "endOffset": 3303, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sign",
+      "ranges": [{ "startOffset": 3540, "endOffset": 3669, "count": 14 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "verify",
+      "ranges": [{ "startOffset": 3880, "endOffset": 3962, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "indexOf",
+      "ranges": [
+        { "startOffset": 4180, "endOffset": 4476, "count": 15 },
+        { "startOffset": 4256, "endOffset": 4457, "count": 18 },
+        { "startOffset": 4424, "endOffset": 4451, "count": 12 },
+        { "startOffset": 4457, "endOffset": 4475, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4530, "endOffset": 4660, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4780, "endOffset": 5226, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "357",
+  "url": "file:///Users/david/dev/deno_std/log/_config.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 378, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

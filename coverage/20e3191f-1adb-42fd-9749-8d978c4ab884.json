@@ -1,0 +1,19 @@
+{
+  "scriptId": "310",
+  "url": "file:///Users/david/dev/deno_std/io/slice_long_to_bytes.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 593, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sliceLongToBytes",
+      "ranges": [
+        { "startOffset": 397, "endOffset": 592, "count": 2 },
+        { "startOffset": 515, "endOffset": 575, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

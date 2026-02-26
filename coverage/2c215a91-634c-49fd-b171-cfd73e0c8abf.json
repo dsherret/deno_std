@@ -1,0 +1,16 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/text/compare_similarity.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1159, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSimilarity",
+      "ranges": [{ "startOffset": 802, "endOffset": 1158, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

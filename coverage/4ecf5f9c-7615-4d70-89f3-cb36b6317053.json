@@ -1,0 +1,16 @@
+{
+  "scriptId": "340",
+  "url": "file:///Users/david/dev/deno_std/semver/greater_than.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 266, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "greaterThan",
+      "ranges": [{ "startOffset": 203, "endOffset": 265, "count": 139 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

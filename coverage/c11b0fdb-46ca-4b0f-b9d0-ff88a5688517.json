@@ -1,0 +1,36 @@
+{
+  "scriptId": "320",
+  "url": "file:///Users/david/dev/deno_std/http/_negotiation/encoding.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3848, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseEncoding",
+      "ranges": [{ "startOffset": 1556, "endOffset": 1994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "specify",
+      "ranges": [{ "startOffset": 1995, "endOffset": 2292, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAcceptEncoding",
+      "ranges": [{ "startOffset": 2293, "endOffset": 2901, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEncodingPriority",
+      "ranges": [{ "startOffset": 2902, "endOffset": 3243, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "preferredEncodings",
+      "ranges": [{ "startOffset": 3437, "endOffset": 3847, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

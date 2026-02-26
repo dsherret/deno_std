@@ -1,0 +1,36 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/fs/eol.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1665, "count": 1 },
+        { "startOffset": 539, "endOffset": 545, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "detect",
+      "ranges": [
+        { "startOffset": 1124, "endOffset": 1314, "count": 5 },
+        { "startOffset": 1198, "endOffset": 1215, "count": 4 },
+        { "startOffset": 1217, "endOffset": 1239, "count": 1 },
+        { "startOffset": 1239, "endOffset": 1300, "count": 4 },
+        { "startOffset": 1300, "endOffset": 1306, "count": 3 },
+        { "startOffset": 1307, "endOffset": 1311, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1265, "endOffset": 1280, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 1589, "endOffset": 1664, "count": 10 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

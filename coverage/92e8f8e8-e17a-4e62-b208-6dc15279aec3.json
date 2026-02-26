@@ -1,0 +1,37 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/is_semver_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 266, "endOffset": 2819, "count": 1 },
+        { "startOffset": 2690, "endOffset": 2815, "count": 22 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2733, "endOffset": 2807, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [
+        { "startOffset": 2864, "endOffset": 4705, "count": 1 },
+        { "startOffset": 4577, "endOffset": 4701, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4620, "endOffset": 4693, "count": 13 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

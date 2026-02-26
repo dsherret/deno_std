@@ -1,0 +1,48 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/streams/text_delimiter_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2187, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 619, "endOffset": 2186, "count": 53 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TextDelimiterStream",
+      "ranges": [
+        { "startOffset": 746, "endOffset": 1122, "count": 53 },
+        { "startOffset": 1091, "endOffset": 1104, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 808, "endOffset": 879, "count": 557 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flush",
+      "ranges": [{ "startOffset": 894, "endOffset": 956, "count": 38 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#handle",
+      "ranges": [
+        { "startOffset": 1125, "endOffset": 2184, "count": 557 },
+        { "startOffset": 1250, "endOffset": 2180, "count": 66134 },
+        { "startOffset": 1319, "endOffset": 1971, "count": 10988 },
+        { "startOffset": 1599, "endOffset": 1619, "count": 0 },
+        { "startOffset": 1761, "endOffset": 1768, "count": 0 },
+        { "startOffset": 1892, "endOffset": 1916, "count": 0 },
+        { "startOffset": 1971, "endOffset": 2174, "count": 55146 },
+        { "startOffset": 2082, "endOffset": 2166, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

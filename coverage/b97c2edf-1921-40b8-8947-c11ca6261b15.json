@@ -1,0 +1,26 @@
+{
+  "scriptId": "315",
+  "url": "file:///Users/david/dev/deno_std/http/server_sent_event_stream.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2072, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertHasNoNewline",
+      "ranges": [{ "startOffset": 185, "endOffset": 347, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringify",
+      "ranges": [{ "startOffset": 559, "endOffset": 1211, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSentEventStream",
+      "ranges": [{ "startOffset": 1933, "endOffset": 2069, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

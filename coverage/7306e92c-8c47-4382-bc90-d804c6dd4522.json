@@ -1,0 +1,30 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/format_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1301, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 356, "endOffset": 1298, "count": 1 },
+        { "startOffset": 743, "endOffset": 928, "count": 6 },
+        { "startOffset": 1131, "endOffset": 1296, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 795, "endOffset": 916, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1191, "endOffset": 1284, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

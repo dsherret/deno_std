@@ -1,0 +1,36 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/data_structures/red_black_tree.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7030, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RedBlackTree",
+      "ranges": [{ "startOffset": 3177, "endOffset": 3231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 3241, "endOffset": 4446, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeFixup",
+      "ranges": [{ "startOffset": 4449, "endOffset": 5592, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "insert",
+      "ranges": [{ "startOffset": 5720, "endOffset": 6615, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [{ "startOffset": 6730, "endOffset": 7027, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

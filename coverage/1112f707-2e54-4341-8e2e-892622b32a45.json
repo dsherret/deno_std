@@ -1,0 +1,16 @@
+{
+  "scriptId": "371",
+  "url": "file:///Users/david/dev/deno_std/path/windows/from_file_url.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1058, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromFileUrl",
+      "ranges": [{ "startOffset": 563, "endOffset": 1057, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

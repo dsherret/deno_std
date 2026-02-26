@@ -1,0 +1,16 @@
+{
+  "scriptId": "335",
+  "url": "file:///Users/david/dev/deno_std/path/windows/format.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 274, "endOffset": 366, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

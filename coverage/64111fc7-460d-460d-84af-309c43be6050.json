@@ -1,0 +1,21 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/collections/without_all.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 619, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "withoutAll",
+      "ranges": [{ "startOffset": 494, "endOffset": 618, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 590, "endOffset": 614, "count": 140 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

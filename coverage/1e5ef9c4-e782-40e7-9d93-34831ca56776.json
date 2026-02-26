@@ -1,0 +1,16 @@
+{
+  "scriptId": "306",
+  "url": "file:///var/folders/v4/3smqxpkj0dx9w4cqs40nmh3c0000gn/T/dd76d037fd8d2046/test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 299, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 109, "endOffset": 296, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

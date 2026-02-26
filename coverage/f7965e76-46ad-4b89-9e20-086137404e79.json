@@ -1,0 +1,21 @@
+{
+  "scriptId": "311",
+  "url": "file:///Users/david/dev/deno_std/streams/_common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createLPS",
+      "ranges": [
+        { "startOffset": 274, "endOffset": 668, "count": 3 },
+        { "startOffset": 434, "endOffset": 652, "count": 9 },
+        { "startOffset": 471, "endOffset": 534, "count": 0 },
+        { "startOffset": 597, "endOffset": 648, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

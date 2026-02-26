@@ -1,0 +1,16 @@
+{
+  "scriptId": "355",
+  "url": "file:///Users/david/dev/deno_std/path/_common/dirname.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 253, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertArg",
+      "ranges": [{ "startOffset": 167, "endOffset": 252, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

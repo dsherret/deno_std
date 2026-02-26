@@ -1,0 +1,11 @@
+{
+  "scriptId": "341",
+  "url": "file:///Users/david/dev/deno_std/testing/_time.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 251, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

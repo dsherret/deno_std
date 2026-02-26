@@ -1,0 +1,46 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/io/reader_from_stream_reader_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2679, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "repeat",
+      "ranges": [{ "startOffset": 277, "endOffset": 415, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 464, "endOffset": 1087, "count": 1 },
+        { "startOffset": 826, "endOffset": 1011, "count": 4 },
+        { "startOffset": 920, "endOffset": 926, "count": 1 },
+        { "startOffset": 926, "endOffset": 1011, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1052, "endOffset": 1082, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1149, "endOffset": 1897, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1965, "endOffset": 2676, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2373, "endOffset": 2404, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

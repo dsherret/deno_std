@@ -1,0 +1,24 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/streams/_test_common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 984, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "init",
+      "ranges": [{ "startOffset": 221, "endOffset": 380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "testTransformStream",
+      "ranges": [
+        { "startOffset": 587, "endOffset": 983, "count": 3 },
+        { "startOffset": 770, "endOffset": 888, "count": 21 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

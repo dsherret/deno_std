@@ -1,0 +1,19 @@
+{
+  "scriptId": "346",
+  "url": "file:///Users/david/dev/deno_std/io/_common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 324, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isCloser",
+      "ranges": [
+        { "startOffset": 120, "endOffset": 323, "count": 4 },
+        { "startOffset": 243, "endOffset": 320, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

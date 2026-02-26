@@ -1,0 +1,21 @@
+{
+  "scriptId": "352",
+  "url": "file:///Users/david/dev/deno_std/expect/_build_message.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1479, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "buildEqualErrorMessage",
+      "ranges": [{ "startOffset": 270, "endOffset": 1002, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildNotEqualErrorMessage",
+      "ranges": [{ "startOffset": 1010, "endOffset": 1478, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

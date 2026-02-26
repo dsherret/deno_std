@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/io/read_int.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 574, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readInt",
+      "ranges": [
+        { "startOffset": 349, "endOffset": 573, "count": 1 },
+        { "startOffset": 437, "endOffset": 449, "count": 0 },
+        { "startOffset": 506, "endOffset": 544, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

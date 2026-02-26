@@ -1,0 +1,69 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/io/to_writable_stream_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3003, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 207, "endOffset": 461, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "write",
+      "ranges": [
+        { "startOffset": 243, "endOffset": 421, "count": 9 },
+        { "startOffset": 278, "endOffset": 326, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [{ "startOffset": 424, "endOffset": 459, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 494, "endOffset": 1015, "count": 1 },
+        { "startOffset": 922, "endOffset": 980, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "write",
+      "ranges": [{ "startOffset": 634, "endOffset": 744, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1071, "endOffset": 1661, "count": 1 },
+        { "startOffset": 1418, "endOffset": 1476, "count": 3 },
+        { "startOffset": 1543, "endOffset": 1589, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1717, "endOffset": 2307, "count": 1 },
+        { "startOffset": 2064, "endOffset": 2122, "count": 3 },
+        { "startOffset": 2189, "endOffset": 2235, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2382, "endOffset": 3000, "count": 1 },
+        { "startOffset": 2757, "endOffset": 2815, "count": 3 },
+        { "startOffset": 2882, "endOffset": 2928, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

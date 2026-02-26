@@ -1,0 +1,49 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/front_matter/create_extractor.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4938, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_extract",
+      "ranges": [
+        { "startOffset": 164, "endOffset": 524, "count": 25 },
+        { "startOffset": 243, "endOffset": 263, "count": 4 },
+        { "startOffset": 265, "endOffset": 322, "count": 21 },
+        { "startOffset": 322, "endOffset": 366, "count": 4 },
+        { "startOffset": 385, "endOffset": 390, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "recognize",
+      "ranges": [
+        { "startOffset": 1471, "endOffset": 1830, "count": 28 },
+        { "startOffset": 1522, "endOffset": 1583, "count": 0 },
+        { "startOffset": 1659, "endOffset": 1808, "count": 49 },
+        { "startOffset": 1691, "endOffset": 1714, "count": 0 },
+        { "startOffset": 1776, "endOffset": 1804, "count": 25 },
+        { "startOffset": 1808, "endOffset": 1829, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createExtractor",
+      "ranges": [{ "startOffset": 4555, "endOffset": 4937, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extract",
+      "ranges": [
+        { "startOffset": 4643, "endOffset": 4934, "count": 28 },
+        { "startOffset": 4779, "endOffset": 4789, "count": 25 },
+        { "startOffset": 4791, "endOffset": 4860, "count": 3 },
+        { "startOffset": 4860, "endOffset": 4933, "count": 25 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

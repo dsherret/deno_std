@@ -1,0 +1,24 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/semver/_comparator_intersects_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2951, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 427, "endOffset": 2948, "count": 1 },
+        { "startOffset": 2110, "endOffset": 2946, "count": 25 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2295, "endOffset": 2934, "count": 25 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

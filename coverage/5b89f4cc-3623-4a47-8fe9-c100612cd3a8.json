@@ -1,0 +1,16 @@
+{
+  "scriptId": "339",
+  "url": "file:///Users/david/dev/deno_std/dotenv/stringify.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1239, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringify",
+      "ranges": [{ "startOffset": 451, "endOffset": 1238, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

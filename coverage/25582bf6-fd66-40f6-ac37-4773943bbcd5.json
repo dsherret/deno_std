@@ -1,0 +1,16 @@
+{
+  "scriptId": "365",
+  "url": "file:///Users/david/dev/deno_std/path/normalize_glob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 545, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalizeGlob",
+      "ranges": [{ "startOffset": 404, "endOffset": 544, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

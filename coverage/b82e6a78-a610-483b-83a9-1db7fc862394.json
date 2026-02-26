@@ -1,0 +1,25 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/io/read_all.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1802, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readAll",
+      "ranges": [
+        { "startOffset": 659, "endOffset": 991, "count": 3 },
+        { "startOffset": 726, "endOffset": 964, "count": 6 },
+        { "startOffset": 840, "endOffset": 964, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readAllSync",
+      "ranges": [{ "startOffset": 1453, "endOffset": 1801, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

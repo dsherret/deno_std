@@ -1,0 +1,21 @@
+{
+  "scriptId": "361",
+  "url": "file:///Users/david/dev/deno_std/fs/_get_file_info_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 436, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getFileInfoType",
+      "ranges": [
+        { "startOffset": 286, "endOffset": 435, "count": 20 },
+        { "startOffset": 348, "endOffset": 356, "count": 14 },
+        { "startOffset": 357, "endOffset": 432, "count": 6 },
+        { "startOffset": 388, "endOffset": 432, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

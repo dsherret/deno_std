@@ -1,0 +1,104 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/map_values_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2651, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValuesTest",
+      "ranges": [{ "startOffset": 169, "endOffset": 302, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 360, "endOffset": 532, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 444, "endOffset": 465, "count": 2 },
+        { "startOffset": 453, "endOffset": 465, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 594, "endOffset": 662, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 638, "endOffset": 646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 721, "endOffset": 905, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValuesTest.foo",
+      "ranges": [{ "startOffset": 827, "endOffset": 835, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 968, "endOffset": 1332, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValuesTest.something",
+      "ranges": [{ "startOffset": 1117, "endOffset": 1205, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1397, "endOffset": 1872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValuesTest.FoodFile",
+      "ranges": [{ "startOffset": 1540, "endOffset": 1581, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValuesTest.Curry",
+      "ranges": [{ "startOffset": 1758, "endOffset": 1783, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1942, "endOffset": 2141, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2040, "endOffset": 2046, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2219, "endOffset": 2392, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2303, "endOffset": 2309, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 2458, "endOffset": 2646, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2548, "endOffset": 2557, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

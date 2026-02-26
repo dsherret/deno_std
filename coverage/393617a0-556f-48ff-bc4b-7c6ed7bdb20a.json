@@ -1,0 +1,31 @@
+{
+  "scriptId": "312",
+  "url": "file:///Users/david/dev/deno_std/media_types/format_media_type.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1720, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatMediaType",
+      "ranges": [
+        { "startOffset": 713, "endOffset": 1719, "count": 10 },
+        { "startOffset": 824, "endOffset": 907, "count": 0 },
+        { "startOffset": 957, "endOffset": 981, "count": 0 },
+        { "startOffset": 1087, "endOffset": 1114, "count": 0 },
+        { "startOffset": 1214, "endOffset": 1701, "count": 8 },
+        { "startOffset": 1247, "endOffset": 1275, "count": 0 },
+        { "startOffset": 1420, "endOffset": 1447, "count": 0 },
+        { "startOffset": 1483, "endOffset": 1562, "count": 0 },
+        { "startOffset": 1636, "endOffset": 1701, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1677, "endOffset": 1690, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

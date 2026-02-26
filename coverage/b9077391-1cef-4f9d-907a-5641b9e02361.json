@@ -1,0 +1,16 @@
+{
+  "scriptId": "364",
+  "url": "file:///Users/david/dev/deno_std/path/windows/is_absolute.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 796, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAbsolute",
+      "ranges": [{ "startOffset": 393, "endOffset": 795, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

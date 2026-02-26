@@ -1,0 +1,26 @@
+{
+  "scriptId": "328",
+  "url": "file:///Users/david/dev/deno_std/fs/ensure_dir.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2386, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureDir",
+      "ranges": [
+        { "startOffset": 476, "endOffset": 1261, "count": 1 },
+        { "startOffset": 559, "endOffset": 712, "count": 0 },
+        { "startOffset": 774, "endOffset": 798, "count": 0 },
+        { "startOffset": 984, "endOffset": 1259, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureDirSync",
+      "ranges": [{ "startOffset": 1608, "endOffset": 2385, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

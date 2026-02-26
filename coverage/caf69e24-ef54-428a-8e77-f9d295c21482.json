@@ -1,0 +1,19 @@
+{
+  "scriptId": "344",
+  "url": "file:///Users/david/dev/deno_std/log/critical.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 365, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "critical",
+      "ranges": [
+        { "startOffset": 127, "endOffset": 364, "count": 2 },
+        { "startOffset": 247, "endOffset": 363, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

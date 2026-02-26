@@ -1,0 +1,86 @@
+{
+  "scriptId": "307",
+  "url": "file:///Users/david/dev/deno_std/collections/map_entries_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2776, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest",
+      "ranges": [{ "startOffset": 171, "endOffset": 306, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 365, "endOffset": 575, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 450, "endOffset": 508, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 638, "endOffset": 707, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 683, "endOffset": 691, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 767, "endOffset": 952, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.foo",
+      "ranges": [{ "startOffset": 874, "endOffset": 882, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1021, "endOffset": 1183, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.b",
+      "ranges": [{ "startOffset": 1109, "endOffset": 1151, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1251, "endOffset": 1775, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.A",
+      "ranges": [{ "startOffset": 1405, "endOffset": 1476, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.Kim",
+      "ranges": [{ "startOffset": 1652, "endOffset": 1710, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fn",
+      "ranges": [{ "startOffset": 1841, "endOffset": 2771, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.Mine",
+      "ranges": [{ "startOffset": 1973, "endOffset": 2054, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapEntriesTest.Asset.name",
+      "ranges": [{ "startOffset": 2456, "endOffset": 2519, "count": 3 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

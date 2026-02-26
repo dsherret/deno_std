@@ -1,0 +1,20 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/semver/can_parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 296, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "canParse",
+      "ranges": [
+        { "startOffset": 118, "endOffset": 295, "count": 25 },
+        { "startOffset": 196, "endOffset": 293, "count": 18 },
+        { "startOffset": 247, "endOffset": 271, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

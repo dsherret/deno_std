@@ -1,0 +1,52 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/dotenv/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2184, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "expandCharacters",
+      "ranges": [{ "startOffset": 408, "endOffset": 590, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expand",
+      "ranges": [
+        { "startOffset": 591, "endOffset": 1230, "count": 61 },
+        { "startOffset": 660, "endOffset": 1201, "count": 4 },
+        { "startOffset": 1201, "endOffset": 1228, "count": 57 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 708, "endOffset": 1180, "count": 4 },
+        { "startOffset": 879, "endOffset": 895, "count": 0 },
+        { "startOffset": 1095, "endOffset": 1129, "count": 3 },
+        { "startOffset": 1129, "endOffset": 1165, "count": 0 },
+        { "startOffset": 1166, "endOffset": 1173, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 1481, "endOffset": 2183, "count": 66 },
+        { "startOffset": 1628, "endOffset": 1927, "count": 90 },
+        { "startOffset": 1724, "endOffset": 1767, "count": 58 },
+        { "startOffset": 1819, "endOffset": 1836, "count": 0 },
+        { "startOffset": 1872, "endOffset": 1904, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2106, "endOffset": 2165, "count": 58 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

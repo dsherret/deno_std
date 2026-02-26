@@ -1,0 +1,22 @@
+{
+  "scriptId": "413",
+  "url": "file:///Users/david/dev/deno_std/path/_common/strip_trailing_separators.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 536, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stripTrailingSeparators",
+      "ranges": [
+        { "startOffset": 232, "endOffset": 535, "count": 51 },
+        { "startOffset": 310, "endOffset": 335, "count": 26 },
+        { "startOffset": 335, "endOffset": 501, "count": 25 },
+        { "startOffset": 449, "endOffset": 471, "count": 0 },
+        { "startOffset": 501, "endOffset": 534, "count": 25 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

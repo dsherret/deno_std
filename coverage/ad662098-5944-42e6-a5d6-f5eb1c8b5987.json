@@ -1,0 +1,16 @@
+{
+  "scriptId": "400",
+  "url": "file:///Users/david/dev/deno_std/path/posix/format.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 366, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 274, "endOffset": 365, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

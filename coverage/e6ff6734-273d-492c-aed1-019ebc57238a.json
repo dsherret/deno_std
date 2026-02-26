@@ -1,0 +1,57 @@
+{
+  "scriptId": "308",
+  "url": "file:///Users/david/dev/deno_std/console/unicode_width.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2022, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lookupWidth",
+      "ranges": [
+        { "startOffset": 305, "endOffset": 660, "count": 205 },
+        { "startOffset": 347, "endOffset": 389, "count": 1 },
+        { "startOffset": 646, "endOffset": 649, "count": 1 },
+        { "startOffset": 650, "endOffset": 657, "count": 204 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "charWidth",
+      "ranges": [
+        { "startOffset": 686, "endOffset": 981, "count": 661 },
+        { "startOffset": 732, "endOffset": 753, "count": 420 },
+        { "startOffset": 753, "endOffset": 819, "count": 241 },
+        { "startOffset": 819, "endOffset": 870, "count": 32 },
+        { "startOffset": 840, "endOffset": 843, "count": 28 },
+        { "startOffset": 844, "endOffset": 865, "count": 4 },
+        { "startOffset": 855, "endOffset": 858, "count": 1 },
+        { "startOffset": 859, "endOffset": 865, "count": 3 },
+        { "startOffset": 870, "endOffset": 947, "count": 209 },
+        { "startOffset": 892, "endOffset": 922, "count": 205 },
+        { "startOffset": 922, "endOffset": 947, "count": 4 },
+        { "startOffset": 947, "endOffset": 980, "count": 241 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unicodeWidth",
+      "ranges": [{ "startOffset": 1909, "endOffset": 2021, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1968, "endOffset": 1992, "count": 661 },
+        { "startOffset": 1988, "endOffset": 1992, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2001, "endOffset": 2014, "count": 661 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scriptId": "309",
+  "url": "file:///Users/david/dev/deno_std/bytes/last_index_of_needle.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1412, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lastIndexOfNeedle",
+      "ranges": [
+        { "startOffset": 813, "endOffset": 1411, "count": 7 },
+        { "startOffset": 902, "endOffset": 922, "count": 2 },
+        { "startOffset": 922, "endOffset": 953, "count": 5 },
+        { "startOffset": 953, "endOffset": 989, "count": 1 },
+        { "startOffset": 989, "endOffset": 1062, "count": 5 },
+        { "startOffset": 1062, "endOffset": 1396, "count": 16 },
+        { "startOffset": 1089, "endOffset": 1098, "count": 11 },
+        { "startOffset": 1098, "endOffset": 1188, "count": 5 },
+        { "startOffset": 1188, "endOffset": 1311, "count": 6 },
+        { "startOffset": 1264, "endOffset": 1288, "count": 1 },
+        { "startOffset": 1288, "endOffset": 1311, "count": 5 },
+        { "startOffset": 1311, "endOffset": 1347, "count": 5 },
+        { "startOffset": 1347, "endOffset": 1392, "count": 4 },
+        { "startOffset": 1396, "endOffset": 1410, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

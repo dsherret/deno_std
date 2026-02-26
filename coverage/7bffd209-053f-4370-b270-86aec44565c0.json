@@ -1,0 +1,21 @@
+{
+  "scriptId": "362",
+  "url": "file:///Users/david/dev/deno_std/fs/_create_walk_entry.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1001, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createWalkEntrySync",
+      "ranges": [{ "startOffset": 349, "endOffset": 635, "count": 82 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createWalkEntry",
+      "ranges": [{ "startOffset": 710, "endOffset": 1000, "count": 82 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

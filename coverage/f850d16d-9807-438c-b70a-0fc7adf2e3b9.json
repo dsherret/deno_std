@@ -1,0 +1,50 @@
+{
+  "scriptId": "345",
+  "url": "file:///Users/david/dev/deno_std/expect/_equal.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4992, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isKeyedCollection",
+      "ranges": [{ "startOffset": 193, "endOffset": 293, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "constructorsEqual",
+      "ranges": [{ "startOffset": 294, "endOffset": 464, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equal",
+      "ranges": [{ "startOffset": 860, "endOffset": 4991, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compare",
+      "ranges": [
+        { "startOffset": 988, "endOffset": 4982, "count": 10 },
+        { "startOffset": 1044, "endOffset": 1247, "count": 0 },
+        { "startOffset": 1385, "endOffset": 1407, "count": 0 },
+        { "startOffset": 1428, "endOffset": 1447, "count": 0 },
+        { "startOffset": 1450, "endOffset": 1495, "count": 0 },
+        { "startOffset": 1527, "endOffset": 1560, "count": 0 },
+        { "startOffset": 1587, "endOffset": 1620, "count": 0 },
+        { "startOffset": 1658, "endOffset": 1679, "count": 0 },
+        { "startOffset": 1681, "endOffset": 1714, "count": 0 },
+        { "startOffset": 1741, "endOffset": 1761, "count": 0 },
+        { "startOffset": 1763, "endOffset": 2035, "count": 0 },
+        { "startOffset": 2063, "endOffset": 2084, "count": 0 },
+        { "startOffset": 2086, "endOffset": 2131, "count": 0 },
+        { "startOffset": 2219, "endOffset": 2237, "count": 0 },
+        { "startOffset": 2255, "endOffset": 2342, "count": 0 },
+        { "startOffset": 2343, "endOffset": 2347, "count": 0 },
+        { "startOffset": 2348, "endOffset": 2372, "count": 0 },
+        { "startOffset": 2374, "endOffset": 4981, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

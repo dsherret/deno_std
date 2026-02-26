@@ -1,0 +1,36 @@
+{
+  "scriptId": "315",
+  "url": "file:///Users/david/dev/deno_std/fs/expand_glob.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7670, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "split",
+      "ranges": [{ "startOffset": 656, "endOffset": 1035, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwUnlessNotFound",
+      "ranges": [{ "startOffset": 1036, "endOffset": 1146, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "comparePath",
+      "ranges": [{ "startOffset": 1147, "endOffset": 1256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expandGlob",
+      "ranges": [{ "startOffset": 1679, "endOffset": 4562, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expandGlobSync",
+      "ranges": [{ "startOffset": 4822, "endOffset": 7669, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

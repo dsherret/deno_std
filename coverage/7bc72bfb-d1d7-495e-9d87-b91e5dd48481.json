@@ -1,0 +1,41 @@
+{
+  "scriptId": "338",
+  "url": "file:///Users/david/dev/deno_std/io/read_delim.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2208, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createLPS",
+      "ranges": [
+        { "startOffset": 224, "endOffset": 597, "count": 3 },
+        { "startOffset": 363, "endOffset": 581, "count": 1036 },
+        { "startOffset": 400, "endOffset": 463, "count": 1016 },
+        { "startOffset": 463, "endOffset": 577, "count": 20 },
+        { "startOffset": 490, "endOffset": 526, "count": 19 },
+        { "startOffset": 526, "endOffset": 577, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readDelim",
+      "ranges": [
+        { "startOffset": 804, "endOffset": 2207, "count": 3 },
+        { "startOffset": 1103, "endOffset": 2205, "count": 14 },
+        { "startOffset": 1228, "endOffset": 1296, "count": 3 },
+        { "startOffset": 1296, "endOffset": 1389, "count": 11 },
+        { "startOffset": 1318, "endOffset": 1389, "count": 0 },
+        { "startOffset": 1389, "endOffset": 1531, "count": 11 },
+        { "startOffset": 1531, "endOffset": 2201, "count": 8407 },
+        { "startOffset": 1589, "endOffset": 2022, "count": 8349 },
+        { "startOffset": 1696, "endOffset": 2014, "count": 26 },
+        { "startOffset": 2022, "endOffset": 2195, "count": 58 },
+        { "startOffset": 2060, "endOffset": 2121, "count": 50 },
+        { "startOffset": 2121, "endOffset": 2187, "count": 8 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

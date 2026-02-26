@@ -1,0 +1,20 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/semver/_format_comparator.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 433, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatComparator",
+      "ranges": [
+        { "startOffset": 263, "endOffset": 432, "count": 4 },
+        { "startOffset": 381, "endOffset": 385, "count": 0 },
+        { "startOffset": 413, "endOffset": 426, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

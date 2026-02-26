@@ -1,0 +1,80 @@
+{
+  "scriptId": "313",
+  "url": "file:///Users/david/dev/deno_std/expect/_asymmetric_matchers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 140, "endOffset": 202, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AsymmetricMatcher",
+      "ranges": [{ "startOffset": 153, "endOffset": 200, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 255, "endOffset": 324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "anything",
+      "ranges": [{ "startOffset": 334, "endOffset": 382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Any",
+      "ranges": [
+        { "startOffset": 430, "endOffset": 566, "count": 8 },
+        { "startOffset": 479, "endOffset": 544, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equals",
+      "ranges": [
+        { "startOffset": 569, "endOffset": 1292, "count": 8 },
+        { "startOffset": 620, "endOffset": 669, "count": 2 },
+        { "startOffset": 669, "endOffset": 1270, "count": 6 },
+        { "startOffset": 709, "endOffset": 760, "count": 1 },
+        { "startOffset": 760, "endOffset": 793, "count": 5 },
+        { "startOffset": 793, "endOffset": 843, "count": 1 },
+        { "startOffset": 843, "endOffset": 876, "count": 4 },
+        { "startOffset": 876, "endOffset": 926, "count": 0 },
+        { "startOffset": 926, "endOffset": 961, "count": 4 },
+        { "startOffset": 961, "endOffset": 1013, "count": 1 },
+        { "startOffset": 1013, "endOffset": 1047, "count": 3 },
+        { "startOffset": 1047, "endOffset": 1098, "count": 1 },
+        { "startOffset": 1098, "endOffset": 1131, "count": 2 },
+        { "startOffset": 1131, "endOffset": 1264, "count": 1 },
+        { "startOffset": 1270, "endOffset": 1291, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1302, "endOffset": 1342, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayContaining",
+      "ranges": [{ "startOffset": 1402, "endOffset": 1439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 1442, "endOffset": 1514, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayContaining",
+      "ranges": [{ "startOffset": 1524, "endOffset": 1588, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
